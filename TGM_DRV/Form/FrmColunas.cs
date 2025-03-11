@@ -37,6 +37,21 @@ namespace TGM_DRV {
       txtTipo13.CarregarComboBoxEnum(typeof(LmValueType), tipoIgnorados);
       txtTipo14.CarregarComboBoxEnum(typeof(LmValueType), tipoIgnorados);
       txtTipo15.CarregarComboBoxEnum(typeof(LmValueType), tipoIgnorados);
+      txtTipo16.CarregarComboBoxEnum(typeof(LmValueType), tipoIgnorados);
+      txtTipo17.CarregarComboBoxEnum(typeof(LmValueType), tipoIgnorados);
+      txtTipo18.CarregarComboBoxEnum(typeof(LmValueType), tipoIgnorados);
+      txtTipo19.CarregarComboBoxEnum(typeof(LmValueType), tipoIgnorados);
+      txtTipo20.CarregarComboBoxEnum(typeof(LmValueType), tipoIgnorados);
+      txtTipo21.CarregarComboBoxEnum(typeof(LmValueType), tipoIgnorados);
+      txtTipo22.CarregarComboBoxEnum(typeof(LmValueType), tipoIgnorados);
+      txtTipo23.CarregarComboBoxEnum(typeof(LmValueType), tipoIgnorados);
+      txtTipo24.CarregarComboBoxEnum(typeof(LmValueType), tipoIgnorados);
+      txtTipo25.CarregarComboBoxEnum(typeof(LmValueType), tipoIgnorados);
+      txtTipo26.CarregarComboBoxEnum(typeof(LmValueType), tipoIgnorados);
+      txtTipo27.CarregarComboBoxEnum(typeof(LmValueType), tipoIgnorados);
+      txtTipo28.CarregarComboBoxEnum(typeof(LmValueType), tipoIgnorados);
+      txtTipo29.CarregarComboBoxEnum(typeof(LmValueType), tipoIgnorados);
+      txtTipo30.CarregarComboBoxEnum(typeof(LmValueType), tipoIgnorados);
 
       txtAlinh.CarregarComboBoxEnum(typeof(DgvAlignment));
       txtAlinh1.CarregarComboBoxEnum(typeof(DgvAlignment));
@@ -54,6 +69,21 @@ namespace TGM_DRV {
       txtAlinh13.CarregarComboBoxEnum(typeof(DgvAlignment));
       txtAlinh14.CarregarComboBoxEnum(typeof(DgvAlignment));
       txtAlinh15.CarregarComboBoxEnum(typeof(DgvAlignment));
+      txtAlinh16.CarregarComboBoxEnum(typeof(DgvAlignment));
+      txtAlinh17.CarregarComboBoxEnum(typeof(DgvAlignment));
+      txtAlinh18.CarregarComboBoxEnum(typeof(DgvAlignment));
+      txtAlinh19.CarregarComboBoxEnum(typeof(DgvAlignment));
+      txtAlinh20.CarregarComboBoxEnum(typeof(DgvAlignment));
+      txtAlinh21.CarregarComboBoxEnum(typeof(DgvAlignment));
+      txtAlinh22.CarregarComboBoxEnum(typeof(DgvAlignment));
+      txtAlinh23.CarregarComboBoxEnum(typeof(DgvAlignment));
+      txtAlinh24.CarregarComboBoxEnum(typeof(DgvAlignment));
+      txtAlinh25.CarregarComboBoxEnum(typeof(DgvAlignment));
+      txtAlinh26.CarregarComboBoxEnum(typeof(DgvAlignment));
+      txtAlinh27.CarregarComboBoxEnum(typeof(DgvAlignment));
+      txtAlinh28.CarregarComboBoxEnum(typeof(DgvAlignment));
+      txtAlinh29.CarregarComboBoxEnum(typeof(DgvAlignment));
+      txtAlinh30.CarregarComboBoxEnum(typeof(DgvAlignment));
 
       txtCalc.CarregarComboBoxEnum(typeof(Verdade));
       txtCalc1.CarregarComboBoxEnum(typeof(Verdade));
@@ -71,6 +101,21 @@ namespace TGM_DRV {
       txtCalc13.CarregarComboBoxEnum(typeof(Verdade));
       txtCalc14.CarregarComboBoxEnum(typeof(Verdade));
       txtCalc15.CarregarComboBoxEnum(typeof(Verdade));
+      txtCalc16.CarregarComboBoxEnum(typeof(Verdade));
+      txtCalc17.CarregarComboBoxEnum(typeof(Verdade));
+      txtCalc18.CarregarComboBoxEnum(typeof(Verdade));
+      txtCalc19.CarregarComboBoxEnum(typeof(Verdade));
+      txtCalc20.CarregarComboBoxEnum(typeof(Verdade));
+      txtCalc21.CarregarComboBoxEnum(typeof(Verdade));
+      txtCalc22.CarregarComboBoxEnum(typeof(Verdade));
+      txtCalc23.CarregarComboBoxEnum(typeof(Verdade));
+      txtCalc24.CarregarComboBoxEnum(typeof(Verdade));
+      txtCalc25.CarregarComboBoxEnum(typeof(Verdade));
+      txtCalc26.CarregarComboBoxEnum(typeof(Verdade));
+      txtCalc27.CarregarComboBoxEnum(typeof(Verdade));
+      txtCalc28.CarregarComboBoxEnum(typeof(Verdade));
+      txtCalc29.CarregarComboBoxEnum(typeof(Verdade));
+      txtCalc30.CarregarComboBoxEnum(typeof(Verdade));
 
       txtGerarGraf.CarregarComboBoxEnum(typeof(Verdade));
       txtGerarGraf1.CarregarComboBoxEnum(typeof(Verdade));
@@ -88,6 +133,21 @@ namespace TGM_DRV {
       txtGerarGraf13.CarregarComboBoxEnum(typeof(Verdade));
       txtGerarGraf14.CarregarComboBoxEnum(typeof(Verdade));
       txtGerarGraf15.CarregarComboBoxEnum(typeof(Verdade));
+      txtGerarGraf16.CarregarComboBoxEnum(typeof(Verdade));
+      txtGerarGraf17.CarregarComboBoxEnum(typeof(Verdade));
+      txtGerarGraf18.CarregarComboBoxEnum(typeof(Verdade));
+      txtGerarGraf19.CarregarComboBoxEnum(typeof(Verdade));
+      txtGerarGraf20.CarregarComboBoxEnum(typeof(Verdade));
+      txtGerarGraf21.CarregarComboBoxEnum(typeof(Verdade));
+      txtGerarGraf22.CarregarComboBoxEnum(typeof(Verdade));
+      txtGerarGraf23.CarregarComboBoxEnum(typeof(Verdade));
+      txtGerarGraf24.CarregarComboBoxEnum(typeof(Verdade));
+      txtGerarGraf25.CarregarComboBoxEnum(typeof(Verdade));
+      txtGerarGraf26.CarregarComboBoxEnum(typeof(Verdade));
+      txtGerarGraf27.CarregarComboBoxEnum(typeof(Verdade));
+      txtGerarGraf28.CarregarComboBoxEnum(typeof(Verdade));
+      txtGerarGraf29.CarregarComboBoxEnum(typeof(Verdade));
+      txtGerarGraf30.CarregarComboBoxEnum(typeof(Verdade));
     }
 
     private void FrmColunas_Loaded(object sender, EventArgs e) {
@@ -128,7 +188,7 @@ namespace TGM_DRV {
 
             var txtGerarGraf = i > 0 ? "txtGerarGraf" + i : "txtGerarGraf";
             var tGerarGraf = pCol.Controls.OfType<LmTextBox>().FirstOrDefault(x => x.Name == txtGerarGraf);
-            tGerarGraf.SelectedValue = cln.CalcularTotalGrid;
+            tGerarGraf.SelectedValue = cln.GerarGrafico;
           }
         }
         panelFlow.Enabled = true;

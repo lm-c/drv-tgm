@@ -164,15 +164,150 @@
       this.txtAlinh14 = new LmCorbieUI.Controls.LmTextBox();
       this.txtNome14 = new LmCorbieUI.Controls.LmTextBox();
       this.txtCalc14 = new LmCorbieUI.Controls.LmTextBox();
+      this.pnlCol30 = new LmCorbieUI.Controls.LmPanel();
+      this.txtGerarGraf30 = new LmCorbieUI.Controls.LmTextBox();
+      this.btnCanc30 = new LmCorbieUI.Controls.LmButton();
+      this.txtLarg30 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtTipo30 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtAlinh30 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtNome30 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtCalc30 = new LmCorbieUI.Controls.LmTextBox();
+      this.lmLabel5 = new LmCorbieUI.Controls.LmLabel();
       this.pnlCol15 = new LmCorbieUI.Controls.LmPanel();
       this.txtGerarGraf15 = new LmCorbieUI.Controls.LmTextBox();
       this.btnCanc15 = new LmCorbieUI.Controls.LmButton();
+      this.btnAdd15 = new LmCorbieUI.Controls.LmButton();
       this.txtLarg15 = new LmCorbieUI.Controls.LmTextBox();
       this.txtTipo15 = new LmCorbieUI.Controls.LmTextBox();
       this.txtAlinh15 = new LmCorbieUI.Controls.LmTextBox();
       this.txtNome15 = new LmCorbieUI.Controls.LmTextBox();
       this.txtCalc15 = new LmCorbieUI.Controls.LmTextBox();
-      this.lmLabel5 = new LmCorbieUI.Controls.LmLabel();
+      this.pnlCol16 = new LmCorbieUI.Controls.LmPanel();
+      this.txtGerarGraf16 = new LmCorbieUI.Controls.LmTextBox();
+      this.btnCanc16 = new LmCorbieUI.Controls.LmButton();
+      this.btnAdd16 = new LmCorbieUI.Controls.LmButton();
+      this.txtLarg16 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtTipo16 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtAlinh16 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtNome16 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtCalc16 = new LmCorbieUI.Controls.LmTextBox();
+      this.pnlCol17 = new LmCorbieUI.Controls.LmPanel();
+      this.txtGerarGraf17 = new LmCorbieUI.Controls.LmTextBox();
+      this.btnCanc17 = new LmCorbieUI.Controls.LmButton();
+      this.btnAdd17 = new LmCorbieUI.Controls.LmButton();
+      this.txtLarg17 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtTipo17 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtAlinh17 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtNome17 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtCalc17 = new LmCorbieUI.Controls.LmTextBox();
+      this.pnlCol18 = new LmCorbieUI.Controls.LmPanel();
+      this.txtGerarGraf18 = new LmCorbieUI.Controls.LmTextBox();
+      this.btnCanc18 = new LmCorbieUI.Controls.LmButton();
+      this.btnAdd18 = new LmCorbieUI.Controls.LmButton();
+      this.txtLarg18 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtTipo18 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtAlinh18 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtNome18 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtCalc18 = new LmCorbieUI.Controls.LmTextBox();
+      this.pnlCol19 = new LmCorbieUI.Controls.LmPanel();
+      this.txtGerarGraf19 = new LmCorbieUI.Controls.LmTextBox();
+      this.btnCanc19 = new LmCorbieUI.Controls.LmButton();
+      this.btnAdd19 = new LmCorbieUI.Controls.LmButton();
+      this.txtLarg19 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtTipo19 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtAlinh19 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtNome19 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtCalc19 = new LmCorbieUI.Controls.LmTextBox();
+      this.pnlCol20 = new LmCorbieUI.Controls.LmPanel();
+      this.txtGerarGraf20 = new LmCorbieUI.Controls.LmTextBox();
+      this.btnCanc20 = new LmCorbieUI.Controls.LmButton();
+      this.btnAdd20 = new LmCorbieUI.Controls.LmButton();
+      this.txtLarg20 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtTipo20 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtAlinh20 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtNome20 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtCalc20 = new LmCorbieUI.Controls.LmTextBox();
+      this.pnlCol21 = new LmCorbieUI.Controls.LmPanel();
+      this.txtGerarGraf21 = new LmCorbieUI.Controls.LmTextBox();
+      this.btnCanc21 = new LmCorbieUI.Controls.LmButton();
+      this.btnAdd21 = new LmCorbieUI.Controls.LmButton();
+      this.txtLarg21 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtTipo21 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtAlinh21 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtNome21 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtCalc21 = new LmCorbieUI.Controls.LmTextBox();
+      this.pnlCol22 = new LmCorbieUI.Controls.LmPanel();
+      this.txtGerarGraf22 = new LmCorbieUI.Controls.LmTextBox();
+      this.btnCanc22 = new LmCorbieUI.Controls.LmButton();
+      this.btnAdd22 = new LmCorbieUI.Controls.LmButton();
+      this.txtLarg22 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtTipo22 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtAlinh22 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtNome22 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtCalc22 = new LmCorbieUI.Controls.LmTextBox();
+      this.pnlCol23 = new LmCorbieUI.Controls.LmPanel();
+      this.txtGerarGraf23 = new LmCorbieUI.Controls.LmTextBox();
+      this.btnCanc23 = new LmCorbieUI.Controls.LmButton();
+      this.btnAdd23 = new LmCorbieUI.Controls.LmButton();
+      this.txtLarg23 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtTipo23 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtAlinh23 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtNome23 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtCalc23 = new LmCorbieUI.Controls.LmTextBox();
+      this.pnlCol24 = new LmCorbieUI.Controls.LmPanel();
+      this.txtGerarGraf24 = new LmCorbieUI.Controls.LmTextBox();
+      this.btnCanc24 = new LmCorbieUI.Controls.LmButton();
+      this.btnAdd24 = new LmCorbieUI.Controls.LmButton();
+      this.txtLarg24 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtTipo24 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtAlinh24 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtNome24 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtCalc24 = new LmCorbieUI.Controls.LmTextBox();
+      this.pnlCol25 = new LmCorbieUI.Controls.LmPanel();
+      this.txtGerarGraf25 = new LmCorbieUI.Controls.LmTextBox();
+      this.btnCanc25 = new LmCorbieUI.Controls.LmButton();
+      this.btnAdd25 = new LmCorbieUI.Controls.LmButton();
+      this.txtLarg25 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtTipo25 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtAlinh25 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtNome25 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtCalc25 = new LmCorbieUI.Controls.LmTextBox();
+      this.pnlCol26 = new LmCorbieUI.Controls.LmPanel();
+      this.txtGerarGraf26 = new LmCorbieUI.Controls.LmTextBox();
+      this.btnCanc26 = new LmCorbieUI.Controls.LmButton();
+      this.btnAdd26 = new LmCorbieUI.Controls.LmButton();
+      this.txtLarg26 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtTipo26 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtAlinh26 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtNome26 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtCalc26 = new LmCorbieUI.Controls.LmTextBox();
+      this.pnlCol27 = new LmCorbieUI.Controls.LmPanel();
+      this.txtGerarGraf27 = new LmCorbieUI.Controls.LmTextBox();
+      this.btnCanc27 = new LmCorbieUI.Controls.LmButton();
+      this.btnAdd27 = new LmCorbieUI.Controls.LmButton();
+      this.txtLarg27 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtTipo27 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtAlinh27 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtNome27 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtCalc27 = new LmCorbieUI.Controls.LmTextBox();
+      this.pnlCol28 = new LmCorbieUI.Controls.LmPanel();
+      this.txtGerarGraf28 = new LmCorbieUI.Controls.LmTextBox();
+      this.btnCanc28 = new LmCorbieUI.Controls.LmButton();
+      this.btnAdd28 = new LmCorbieUI.Controls.LmButton();
+      this.txtLarg28 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtTipo28 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtAlinh28 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtNome28 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtCalc28 = new LmCorbieUI.Controls.LmTextBox();
+      this.pnlCol29 = new LmCorbieUI.Controls.LmPanel();
+      this.txtGerarGraf29 = new LmCorbieUI.Controls.LmTextBox();
+      this.btnCanc29 = new LmCorbieUI.Controls.LmButton();
+      this.btnAdd29 = new LmCorbieUI.Controls.LmButton();
+      this.txtLarg29 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtTipo29 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtAlinh29 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtNome29 = new LmCorbieUI.Controls.LmTextBox();
+      this.txtCalc29 = new LmCorbieUI.Controls.LmTextBox();
       this.pnlCol.SuspendLayout();
       this.panelFlow.SuspendLayout();
       this.pnlCol1.SuspendLayout();
@@ -189,7 +324,22 @@
       this.pnlCol12.SuspendLayout();
       this.pnlCol13.SuspendLayout();
       this.pnlCol14.SuspendLayout();
+      this.pnlCol30.SuspendLayout();
       this.pnlCol15.SuspendLayout();
+      this.pnlCol16.SuspendLayout();
+      this.pnlCol17.SuspendLayout();
+      this.pnlCol18.SuspendLayout();
+      this.pnlCol19.SuspendLayout();
+      this.pnlCol20.SuspendLayout();
+      this.pnlCol21.SuspendLayout();
+      this.pnlCol22.SuspendLayout();
+      this.pnlCol23.SuspendLayout();
+      this.pnlCol24.SuspendLayout();
+      this.pnlCol25.SuspendLayout();
+      this.pnlCol26.SuspendLayout();
+      this.pnlCol27.SuspendLayout();
+      this.pnlCol28.SuspendLayout();
+      this.pnlCol29.SuspendLayout();
       this.SuspendLayout();
       // 
       // lmLabel3
@@ -338,7 +488,7 @@
       this.btnSalvar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
       this.btnSalvar.Image = ((System.Drawing.Image)(resources.GetObject("btnSalvar.Image")));
       this.btnSalvar.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
-      this.btnSalvar.Location = new System.Drawing.Point(3, 553);
+      this.btnSalvar.Location = new System.Drawing.Point(3, 1063);
       this.btnSalvar.Margin = new System.Windows.Forms.Padding(3, 9, 3, 12);
       this.btnSalvar.Name = "btnSalvar";
       this.btnSalvar.Size = new System.Drawing.Size(111, 26);
@@ -509,11 +659,27 @@
       this.panelFlow.Controls.Add(this.pnlCol13);
       this.panelFlow.Controls.Add(this.pnlCol14);
       this.panelFlow.Controls.Add(this.pnlCol15);
+      this.panelFlow.Controls.Add(this.pnlCol16);
+      this.panelFlow.Controls.Add(this.pnlCol17);
+      this.panelFlow.Controls.Add(this.pnlCol18);
+      this.panelFlow.Controls.Add(this.pnlCol19);
+      this.panelFlow.Controls.Add(this.pnlCol20);
+      this.panelFlow.Controls.Add(this.pnlCol21);
+      this.panelFlow.Controls.Add(this.pnlCol22);
+      this.panelFlow.Controls.Add(this.pnlCol23);
+      this.panelFlow.Controls.Add(this.pnlCol24);
+      this.panelFlow.Controls.Add(this.pnlCol25);
+      this.panelFlow.Controls.Add(this.pnlCol26);
+      this.panelFlow.Controls.Add(this.pnlCol27);
+      this.panelFlow.Controls.Add(this.pnlCol28);
+      this.panelFlow.Controls.Add(this.pnlCol29);
+      this.panelFlow.Controls.Add(this.pnlCol30);
       this.panelFlow.Controls.Add(this.btnSalvar);
       this.panelFlow.Enabled = false;
       this.panelFlow.Location = new System.Drawing.Point(59, 22);
       this.panelFlow.Name = "panelFlow";
-      this.panelFlow.Size = new System.Drawing.Size(970, 593);
+      this.panelFlow.Padding = new System.Windows.Forms.Padding(0, 0, 0, 10);
+      this.panelFlow.Size = new System.Drawing.Size(970, 715);
       this.panelFlow.TabIndex = 0;
       // 
       // pnlCol1
@@ -3891,11 +4057,249 @@
       this.txtCalc14.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
       this.txtCalc14.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
       // 
+      // pnlCol30
+      // 
+      this.pnlCol30.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(223)))), ((int)(((byte)(228)))), ((int)(((byte)(233)))));
+      this.pnlCol30.Controls.Add(this.txtGerarGraf30);
+      this.pnlCol30.Controls.Add(this.btnCanc30);
+      this.pnlCol30.Controls.Add(this.txtLarg30);
+      this.pnlCol30.Controls.Add(this.txtTipo30);
+      this.pnlCol30.Controls.Add(this.txtAlinh30);
+      this.pnlCol30.Controls.Add(this.txtNome30);
+      this.pnlCol30.Controls.Add(this.txtCalc30);
+      this.pnlCol30.IsPanelMenu = false;
+      this.pnlCol30.Location = new System.Drawing.Point(1, 1021);
+      this.pnlCol30.Margin = new System.Windows.Forms.Padding(1);
+      this.pnlCol30.Name = "pnlCol30";
+      this.pnlCol30.Size = new System.Drawing.Size(943, 32);
+      this.pnlCol30.TabIndex = 15;
+      this.pnlCol30.Visible = false;
+      // 
+      // txtGerarGraf30
+      // 
+      this.txtGerarGraf30.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtGerarGraf30.BorderRadius = 15;
+      this.txtGerarGraf30.BorderSize = 2;
+      this.txtGerarGraf30.F7ToolTipText = null;
+      this.txtGerarGraf30.F8ToolTipText = null;
+      this.txtGerarGraf30.F9ToolTipText = null;
+      this.txtGerarGraf30.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtGerarGraf30.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtGerarGraf30.IconF7")));
+      this.txtGerarGraf30.IconToolTipText = null;
+      this.txtGerarGraf30.Lines = new string[0];
+      this.txtGerarGraf30.Location = new System.Drawing.Point(762, 1);
+      this.txtGerarGraf30.MaxLength = 30;
+      this.txtGerarGraf30.Name = "txtGerarGraf30";
+      this.txtGerarGraf30.PasswordChar = '\0';
+      this.txtGerarGraf30.Propriedade = null;
+      this.txtGerarGraf30.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtGerarGraf30.SelectedText = "";
+      this.txtGerarGraf30.SelectionLength = 0;
+      this.txtGerarGraf30.SelectionStart = 0;
+      this.txtGerarGraf30.ShortcutsEnabled = true;
+      this.txtGerarGraf30.ShowButtonF7 = true;
+      this.txtGerarGraf30.Size = new System.Drawing.Size(99, 30);
+      this.txtGerarGraf30.TabIndex = 5;
+      this.txtGerarGraf30.UnderlinedStyle = false;
+      this.txtGerarGraf30.UseSelectable = true;
+      this.txtGerarGraf30.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtGerarGraf30.Valor_Decimais = ((short)(0));
+      this.txtGerarGraf30.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtGerarGraf30.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // btnCanc30
+      // 
+      this.btnCanc30.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+      this.btnCanc30.BorderColor = System.Drawing.Color.PaleVioletRed;
+      this.btnCanc30.BorderRadius = 15;
+      this.btnCanc30.BorderSize = 0;
+      this.btnCanc30.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+      this.btnCanc30.Image = ((System.Drawing.Image)(resources.GetObject("btnCanc30.Image")));
+      this.btnCanc30.Location = new System.Drawing.Point(904, 0);
+      this.btnCanc30.Margin = new System.Windows.Forms.Padding(1, 3, 1, 3);
+      this.btnCanc30.Name = "btnCanc30";
+      this.btnCanc30.Size = new System.Drawing.Size(30, 30);
+      this.btnCanc30.TabIndex = 7;
+      this.btnCanc30.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+      this.btnCanc30.UseVisualStyleBackColor = false;
+      this.btnCanc30.Click += new System.EventHandler(this.BtnCanc_Click);
+      // 
+      // txtLarg30
+      // 
+      this.txtLarg30.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtLarg30.BorderRadius = 15;
+      this.txtLarg30.BorderSize = 2;
+      this.txtLarg30.F7ToolTipText = null;
+      this.txtLarg30.F8ToolTipText = null;
+      this.txtLarg30.F9ToolTipText = null;
+      this.txtLarg30.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtLarg30.IconF7 = null;
+      this.txtLarg30.IconToolTipText = null;
+      this.txtLarg30.Lines = new string[0];
+      this.txtLarg30.Location = new System.Drawing.Point(419, 0);
+      this.txtLarg30.MaxLength = 30;
+      this.txtLarg30.Name = "txtLarg30";
+      this.txtLarg30.PasswordChar = '\0';
+      this.txtLarg30.Propriedade = null;
+      this.txtLarg30.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtLarg30.SelectedText = "";
+      this.txtLarg30.SelectionLength = 0;
+      this.txtLarg30.SelectionStart = 0;
+      this.txtLarg30.ShortcutsEnabled = true;
+      this.txtLarg30.Size = new System.Drawing.Size(76, 30);
+      this.txtLarg30.TabIndex = 2;
+      this.txtLarg30.UnderlinedStyle = false;
+      this.txtLarg30.UseSelectable = true;
+      this.txtLarg30.Valor = LmCorbieUI.Design.LmValueType.Num_Inteiro;
+      this.txtLarg30.Valor_Decimais = ((short)(0));
+      this.txtLarg30.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtLarg30.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtTipo30
+      // 
+      this.txtTipo30.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtTipo30.BorderRadius = 15;
+      this.txtTipo30.BorderSize = 2;
+      this.txtTipo30.F7ToolTipText = null;
+      this.txtTipo30.F8ToolTipText = null;
+      this.txtTipo30.F9ToolTipText = null;
+      this.txtTipo30.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtTipo30.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtTipo30.IconF7")));
+      this.txtTipo30.IconToolTipText = null;
+      this.txtTipo30.Lines = new string[0];
+      this.txtTipo30.Location = new System.Drawing.Point(261, 0);
+      this.txtTipo30.MaxLength = 30;
+      this.txtTipo30.Name = "txtTipo30";
+      this.txtTipo30.PasswordChar = '\0';
+      this.txtTipo30.Propriedade = null;
+      this.txtTipo30.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtTipo30.SelectedText = "";
+      this.txtTipo30.SelectionLength = 0;
+      this.txtTipo30.SelectionStart = 0;
+      this.txtTipo30.ShortcutsEnabled = true;
+      this.txtTipo30.ShowButtonF7 = true;
+      this.txtTipo30.Size = new System.Drawing.Size(152, 30);
+      this.txtTipo30.TabIndex = 1;
+      this.txtTipo30.UnderlinedStyle = false;
+      this.txtTipo30.UseSelectable = true;
+      this.txtTipo30.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtTipo30.Valor_Decimais = ((short)(0));
+      this.txtTipo30.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtTipo30.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtAlinh30
+      // 
+      this.txtAlinh30.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtAlinh30.BorderRadius = 15;
+      this.txtAlinh30.BorderSize = 2;
+      this.txtAlinh30.F7ToolTipText = "Exibir Senha";
+      this.txtAlinh30.F8ToolTipText = null;
+      this.txtAlinh30.F9ToolTipText = null;
+      this.txtAlinh30.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtAlinh30.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtAlinh30.IconF7")));
+      this.txtAlinh30.IconToolTipText = null;
+      this.txtAlinh30.Lines = new string[0];
+      this.txtAlinh30.Location = new System.Drawing.Point(501, -1);
+      this.txtAlinh30.MaxLength = 30;
+      this.txtAlinh30.Name = "txtAlinh30";
+      this.txtAlinh30.PasswordChar = '\0';
+      this.txtAlinh30.Propriedade = null;
+      this.txtAlinh30.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtAlinh30.SelectedText = "";
+      this.txtAlinh30.SelectionLength = 0;
+      this.txtAlinh30.SelectionStart = 0;
+      this.txtAlinh30.ShortcutsEnabled = false;
+      this.txtAlinh30.ShowButtonF7 = true;
+      this.txtAlinh30.Size = new System.Drawing.Size(150, 30);
+      this.txtAlinh30.TabIndex = 3;
+      this.txtAlinh30.UnderlinedStyle = false;
+      this.txtAlinh30.UseSelectable = true;
+      this.txtAlinh30.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtAlinh30.Valor_Decimais = ((short)(0));
+      this.txtAlinh30.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtAlinh30.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtNome30
+      // 
+      this.txtNome30.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtNome30.BorderRadius = 15;
+      this.txtNome30.BorderSize = 2;
+      this.txtNome30.F7ToolTipText = null;
+      this.txtNome30.F8ToolTipText = null;
+      this.txtNome30.F9ToolTipText = null;
+      this.txtNome30.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtNome30.IconF7 = null;
+      this.txtNome30.IconToolTipText = null;
+      this.txtNome30.Lines = new string[0];
+      this.txtNome30.Location = new System.Drawing.Point(3, 0);
+      this.txtNome30.MaxLength = 30;
+      this.txtNome30.Name = "txtNome30";
+      this.txtNome30.PasswordChar = '\0';
+      this.txtNome30.Propriedade = null;
+      this.txtNome30.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtNome30.SelectedText = "";
+      this.txtNome30.SelectionLength = 0;
+      this.txtNome30.SelectionStart = 0;
+      this.txtNome30.ShortcutsEnabled = true;
+      this.txtNome30.Size = new System.Drawing.Size(252, 30);
+      this.txtNome30.TabIndex = 0;
+      this.txtNome30.UnderlinedStyle = false;
+      this.txtNome30.UseSelectable = true;
+      this.txtNome30.Valor_Decimais = ((short)(0));
+      this.txtNome30.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtNome30.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtCalc30
+      // 
+      this.txtCalc30.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtCalc30.BorderRadius = 15;
+      this.txtCalc30.BorderSize = 2;
+      this.txtCalc30.F7ToolTipText = null;
+      this.txtCalc30.F8ToolTipText = null;
+      this.txtCalc30.F9ToolTipText = null;
+      this.txtCalc30.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtCalc30.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtCalc30.IconF7")));
+      this.txtCalc30.IconToolTipText = null;
+      this.txtCalc30.Lines = new string[0];
+      this.txtCalc30.Location = new System.Drawing.Point(657, -1);
+      this.txtCalc30.MaxLength = 30;
+      this.txtCalc30.Name = "txtCalc30";
+      this.txtCalc30.PasswordChar = '\0';
+      this.txtCalc30.Propriedade = null;
+      this.txtCalc30.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtCalc30.SelectedText = "";
+      this.txtCalc30.SelectionLength = 0;
+      this.txtCalc30.SelectionStart = 0;
+      this.txtCalc30.ShortcutsEnabled = true;
+      this.txtCalc30.ShowButtonF7 = true;
+      this.txtCalc30.Size = new System.Drawing.Size(99, 30);
+      this.txtCalc30.TabIndex = 4;
+      this.txtCalc30.UnderlinedStyle = false;
+      this.txtCalc30.UseSelectable = true;
+      this.txtCalc30.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtCalc30.Valor_Decimais = ((short)(0));
+      this.txtCalc30.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtCalc30.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // lmLabel5
+      // 
+      this.lmLabel5.Anchor = System.Windows.Forms.AnchorStyles.Top;
+      this.lmLabel5.AutoSize = true;
+      this.lmLabel5.BackColor = System.Drawing.Color.Transparent;
+      this.lmLabel5.Location = new System.Drawing.Point(822, 0);
+      this.lmLabel5.Margin = new System.Windows.Forms.Padding(3, 3, 3, 0);
+      this.lmLabel5.Name = "lmLabel5";
+      this.lmLabel5.Size = new System.Drawing.Size(100, 19);
+      this.lmLabel5.TabIndex = 129;
+      this.lmLabel5.Text = "Gerar Gráfico *";
+      this.lmLabel5.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+      // 
       // pnlCol15
       // 
       this.pnlCol15.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(223)))), ((int)(((byte)(228)))), ((int)(((byte)(233)))));
       this.pnlCol15.Controls.Add(this.txtGerarGraf15);
       this.pnlCol15.Controls.Add(this.btnCanc15);
+      this.pnlCol15.Controls.Add(this.btnAdd15);
       this.pnlCol15.Controls.Add(this.txtLarg15);
       this.pnlCol15.Controls.Add(this.txtTipo15);
       this.pnlCol15.Controls.Add(this.txtAlinh15);
@@ -3906,7 +4310,7 @@
       this.pnlCol15.Margin = new System.Windows.Forms.Padding(1);
       this.pnlCol15.Name = "pnlCol15";
       this.pnlCol15.Size = new System.Drawing.Size(943, 32);
-      this.pnlCol15.TabIndex = 15;
+      this.pnlCol15.TabIndex = 17;
       this.pnlCol15.Visible = false;
       // 
       // txtGerarGraf15
@@ -3957,6 +4361,23 @@
       this.btnCanc15.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
       this.btnCanc15.UseVisualStyleBackColor = false;
       this.btnCanc15.Click += new System.EventHandler(this.BtnCanc_Click);
+      // 
+      // btnAdd15
+      // 
+      this.btnAdd15.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+      this.btnAdd15.BorderColor = System.Drawing.Color.PaleVioletRed;
+      this.btnAdd15.BorderRadius = 15;
+      this.btnAdd15.BorderSize = 0;
+      this.btnAdd15.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+      this.btnAdd15.Image = ((System.Drawing.Image)(resources.GetObject("btnAdd15.Image")));
+      this.btnAdd15.Location = new System.Drawing.Point(872, 0);
+      this.btnAdd15.Margin = new System.Windows.Forms.Padding(1, 3, 1, 3);
+      this.btnAdd15.Name = "btnAdd15";
+      this.btnAdd15.Size = new System.Drawing.Size(30, 30);
+      this.btnAdd15.TabIndex = 6;
+      this.btnAdd15.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+      this.btnAdd15.UseVisualStyleBackColor = false;
+      this.btnAdd15.Click += new System.EventHandler(this.BtnAdd_Click);
       // 
       // txtLarg15
       // 
@@ -4115,24 +4536,3399 @@
       this.txtCalc15.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
       this.txtCalc15.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
       // 
-      // lmLabel5
+      // pnlCol16
       // 
-      this.lmLabel5.Anchor = System.Windows.Forms.AnchorStyles.Top;
-      this.lmLabel5.AutoSize = true;
-      this.lmLabel5.BackColor = System.Drawing.Color.Transparent;
-      this.lmLabel5.Location = new System.Drawing.Point(822, 0);
-      this.lmLabel5.Margin = new System.Windows.Forms.Padding(3, 3, 3, 0);
-      this.lmLabel5.Name = "lmLabel5";
-      this.lmLabel5.Size = new System.Drawing.Size(100, 19);
-      this.lmLabel5.TabIndex = 129;
-      this.lmLabel5.Text = "Gerar Gráfico *";
-      this.lmLabel5.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+      this.pnlCol16.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(223)))), ((int)(((byte)(228)))), ((int)(((byte)(233)))));
+      this.pnlCol16.Controls.Add(this.txtGerarGraf16);
+      this.pnlCol16.Controls.Add(this.btnCanc16);
+      this.pnlCol16.Controls.Add(this.btnAdd16);
+      this.pnlCol16.Controls.Add(this.txtLarg16);
+      this.pnlCol16.Controls.Add(this.txtTipo16);
+      this.pnlCol16.Controls.Add(this.txtAlinh16);
+      this.pnlCol16.Controls.Add(this.txtNome16);
+      this.pnlCol16.Controls.Add(this.txtCalc16);
+      this.pnlCol16.IsPanelMenu = false;
+      this.pnlCol16.Location = new System.Drawing.Point(1, 545);
+      this.pnlCol16.Margin = new System.Windows.Forms.Padding(1);
+      this.pnlCol16.Name = "pnlCol16";
+      this.pnlCol16.Size = new System.Drawing.Size(943, 32);
+      this.pnlCol16.TabIndex = 15;
+      this.pnlCol16.Visible = false;
+      // 
+      // txtGerarGraf16
+      // 
+      this.txtGerarGraf16.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtGerarGraf16.BorderRadius = 15;
+      this.txtGerarGraf16.BorderSize = 2;
+      this.txtGerarGraf16.F7ToolTipText = null;
+      this.txtGerarGraf16.F8ToolTipText = null;
+      this.txtGerarGraf16.F9ToolTipText = null;
+      this.txtGerarGraf16.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtGerarGraf16.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtGerarGraf16.IconF7")));
+      this.txtGerarGraf16.IconToolTipText = null;
+      this.txtGerarGraf16.Lines = new string[0];
+      this.txtGerarGraf16.Location = new System.Drawing.Point(762, 1);
+      this.txtGerarGraf16.MaxLength = 30;
+      this.txtGerarGraf16.Name = "txtGerarGraf16";
+      this.txtGerarGraf16.PasswordChar = '\0';
+      this.txtGerarGraf16.Propriedade = null;
+      this.txtGerarGraf16.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtGerarGraf16.SelectedText = "";
+      this.txtGerarGraf16.SelectionLength = 0;
+      this.txtGerarGraf16.SelectionStart = 0;
+      this.txtGerarGraf16.ShortcutsEnabled = true;
+      this.txtGerarGraf16.ShowButtonF7 = true;
+      this.txtGerarGraf16.Size = new System.Drawing.Size(99, 30);
+      this.txtGerarGraf16.TabIndex = 5;
+      this.txtGerarGraf16.UnderlinedStyle = false;
+      this.txtGerarGraf16.UseSelectable = true;
+      this.txtGerarGraf16.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtGerarGraf16.Valor_Decimais = ((short)(0));
+      this.txtGerarGraf16.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtGerarGraf16.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // btnCanc16
+      // 
+      this.btnCanc16.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+      this.btnCanc16.BorderColor = System.Drawing.Color.PaleVioletRed;
+      this.btnCanc16.BorderRadius = 15;
+      this.btnCanc16.BorderSize = 0;
+      this.btnCanc16.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+      this.btnCanc16.Image = ((System.Drawing.Image)(resources.GetObject("btnCanc16.Image")));
+      this.btnCanc16.Location = new System.Drawing.Point(904, 0);
+      this.btnCanc16.Margin = new System.Windows.Forms.Padding(1, 3, 1, 3);
+      this.btnCanc16.Name = "btnCanc16";
+      this.btnCanc16.Size = new System.Drawing.Size(30, 30);
+      this.btnCanc16.TabIndex = 7;
+      this.btnCanc16.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+      this.btnCanc16.UseVisualStyleBackColor = false;
+      this.btnCanc16.Click += new System.EventHandler(this.BtnCanc_Click);
+      // 
+      // btnAdd16
+      // 
+      this.btnAdd16.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+      this.btnAdd16.BorderColor = System.Drawing.Color.PaleVioletRed;
+      this.btnAdd16.BorderRadius = 15;
+      this.btnAdd16.BorderSize = 0;
+      this.btnAdd16.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+      this.btnAdd16.Image = ((System.Drawing.Image)(resources.GetObject("btnAdd16.Image")));
+      this.btnAdd16.Location = new System.Drawing.Point(872, 0);
+      this.btnAdd16.Margin = new System.Windows.Forms.Padding(1, 3, 1, 3);
+      this.btnAdd16.Name = "btnAdd16";
+      this.btnAdd16.Size = new System.Drawing.Size(30, 30);
+      this.btnAdd16.TabIndex = 6;
+      this.btnAdd16.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+      this.btnAdd16.UseVisualStyleBackColor = false;
+      this.btnAdd16.Click += new System.EventHandler(this.BtnAdd_Click);
+      // 
+      // txtLarg16
+      // 
+      this.txtLarg16.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtLarg16.BorderRadius = 15;
+      this.txtLarg16.BorderSize = 2;
+      this.txtLarg16.F7ToolTipText = null;
+      this.txtLarg16.F8ToolTipText = null;
+      this.txtLarg16.F9ToolTipText = null;
+      this.txtLarg16.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtLarg16.IconF7 = null;
+      this.txtLarg16.IconToolTipText = null;
+      this.txtLarg16.Lines = new string[0];
+      this.txtLarg16.Location = new System.Drawing.Point(419, 0);
+      this.txtLarg16.MaxLength = 30;
+      this.txtLarg16.Name = "txtLarg16";
+      this.txtLarg16.PasswordChar = '\0';
+      this.txtLarg16.Propriedade = null;
+      this.txtLarg16.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtLarg16.SelectedText = "";
+      this.txtLarg16.SelectionLength = 0;
+      this.txtLarg16.SelectionStart = 0;
+      this.txtLarg16.ShortcutsEnabled = true;
+      this.txtLarg16.Size = new System.Drawing.Size(76, 30);
+      this.txtLarg16.TabIndex = 2;
+      this.txtLarg16.UnderlinedStyle = false;
+      this.txtLarg16.UseSelectable = true;
+      this.txtLarg16.Valor = LmCorbieUI.Design.LmValueType.Num_Inteiro;
+      this.txtLarg16.Valor_Decimais = ((short)(0));
+      this.txtLarg16.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtLarg16.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtTipo16
+      // 
+      this.txtTipo16.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtTipo16.BorderRadius = 15;
+      this.txtTipo16.BorderSize = 2;
+      this.txtTipo16.F7ToolTipText = null;
+      this.txtTipo16.F8ToolTipText = null;
+      this.txtTipo16.F9ToolTipText = null;
+      this.txtTipo16.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtTipo16.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtTipo16.IconF7")));
+      this.txtTipo16.IconToolTipText = null;
+      this.txtTipo16.Lines = new string[0];
+      this.txtTipo16.Location = new System.Drawing.Point(261, 0);
+      this.txtTipo16.MaxLength = 30;
+      this.txtTipo16.Name = "txtTipo16";
+      this.txtTipo16.PasswordChar = '\0';
+      this.txtTipo16.Propriedade = null;
+      this.txtTipo16.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtTipo16.SelectedText = "";
+      this.txtTipo16.SelectionLength = 0;
+      this.txtTipo16.SelectionStart = 0;
+      this.txtTipo16.ShortcutsEnabled = true;
+      this.txtTipo16.ShowButtonF7 = true;
+      this.txtTipo16.Size = new System.Drawing.Size(152, 30);
+      this.txtTipo16.TabIndex = 1;
+      this.txtTipo16.UnderlinedStyle = false;
+      this.txtTipo16.UseSelectable = true;
+      this.txtTipo16.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtTipo16.Valor_Decimais = ((short)(0));
+      this.txtTipo16.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtTipo16.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtAlinh16
+      // 
+      this.txtAlinh16.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtAlinh16.BorderRadius = 15;
+      this.txtAlinh16.BorderSize = 2;
+      this.txtAlinh16.F7ToolTipText = "Exibir Senha";
+      this.txtAlinh16.F8ToolTipText = null;
+      this.txtAlinh16.F9ToolTipText = null;
+      this.txtAlinh16.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtAlinh16.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtAlinh16.IconF7")));
+      this.txtAlinh16.IconToolTipText = null;
+      this.txtAlinh16.Lines = new string[0];
+      this.txtAlinh16.Location = new System.Drawing.Point(501, -1);
+      this.txtAlinh16.MaxLength = 30;
+      this.txtAlinh16.Name = "txtAlinh16";
+      this.txtAlinh16.PasswordChar = '\0';
+      this.txtAlinh16.Propriedade = null;
+      this.txtAlinh16.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtAlinh16.SelectedText = "";
+      this.txtAlinh16.SelectionLength = 0;
+      this.txtAlinh16.SelectionStart = 0;
+      this.txtAlinh16.ShortcutsEnabled = false;
+      this.txtAlinh16.ShowButtonF7 = true;
+      this.txtAlinh16.Size = new System.Drawing.Size(150, 30);
+      this.txtAlinh16.TabIndex = 3;
+      this.txtAlinh16.UnderlinedStyle = false;
+      this.txtAlinh16.UseSelectable = true;
+      this.txtAlinh16.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtAlinh16.Valor_Decimais = ((short)(0));
+      this.txtAlinh16.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtAlinh16.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtNome16
+      // 
+      this.txtNome16.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtNome16.BorderRadius = 15;
+      this.txtNome16.BorderSize = 2;
+      this.txtNome16.F7ToolTipText = null;
+      this.txtNome16.F8ToolTipText = null;
+      this.txtNome16.F9ToolTipText = null;
+      this.txtNome16.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtNome16.IconF7 = null;
+      this.txtNome16.IconToolTipText = null;
+      this.txtNome16.Lines = new string[0];
+      this.txtNome16.Location = new System.Drawing.Point(3, 0);
+      this.txtNome16.MaxLength = 30;
+      this.txtNome16.Name = "txtNome16";
+      this.txtNome16.PasswordChar = '\0';
+      this.txtNome16.Propriedade = null;
+      this.txtNome16.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtNome16.SelectedText = "";
+      this.txtNome16.SelectionLength = 0;
+      this.txtNome16.SelectionStart = 0;
+      this.txtNome16.ShortcutsEnabled = true;
+      this.txtNome16.Size = new System.Drawing.Size(252, 30);
+      this.txtNome16.TabIndex = 0;
+      this.txtNome16.UnderlinedStyle = false;
+      this.txtNome16.UseSelectable = true;
+      this.txtNome16.Valor_Decimais = ((short)(0));
+      this.txtNome16.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtNome16.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtCalc16
+      // 
+      this.txtCalc16.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtCalc16.BorderRadius = 15;
+      this.txtCalc16.BorderSize = 2;
+      this.txtCalc16.F7ToolTipText = null;
+      this.txtCalc16.F8ToolTipText = null;
+      this.txtCalc16.F9ToolTipText = null;
+      this.txtCalc16.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtCalc16.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtCalc16.IconF7")));
+      this.txtCalc16.IconToolTipText = null;
+      this.txtCalc16.Lines = new string[0];
+      this.txtCalc16.Location = new System.Drawing.Point(657, -1);
+      this.txtCalc16.MaxLength = 30;
+      this.txtCalc16.Name = "txtCalc16";
+      this.txtCalc16.PasswordChar = '\0';
+      this.txtCalc16.Propriedade = null;
+      this.txtCalc16.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtCalc16.SelectedText = "";
+      this.txtCalc16.SelectionLength = 0;
+      this.txtCalc16.SelectionStart = 0;
+      this.txtCalc16.ShortcutsEnabled = true;
+      this.txtCalc16.ShowButtonF7 = true;
+      this.txtCalc16.Size = new System.Drawing.Size(99, 30);
+      this.txtCalc16.TabIndex = 4;
+      this.txtCalc16.UnderlinedStyle = false;
+      this.txtCalc16.UseSelectable = true;
+      this.txtCalc16.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtCalc16.Valor_Decimais = ((short)(0));
+      this.txtCalc16.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtCalc16.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // pnlCol17
+      // 
+      this.pnlCol17.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(223)))), ((int)(((byte)(228)))), ((int)(((byte)(233)))));
+      this.pnlCol17.Controls.Add(this.txtGerarGraf17);
+      this.pnlCol17.Controls.Add(this.btnCanc17);
+      this.pnlCol17.Controls.Add(this.btnAdd17);
+      this.pnlCol17.Controls.Add(this.txtLarg17);
+      this.pnlCol17.Controls.Add(this.txtTipo17);
+      this.pnlCol17.Controls.Add(this.txtAlinh17);
+      this.pnlCol17.Controls.Add(this.txtNome17);
+      this.pnlCol17.Controls.Add(this.txtCalc17);
+      this.pnlCol17.IsPanelMenu = false;
+      this.pnlCol17.Location = new System.Drawing.Point(1, 579);
+      this.pnlCol17.Margin = new System.Windows.Forms.Padding(1);
+      this.pnlCol17.Name = "pnlCol17";
+      this.pnlCol17.Size = new System.Drawing.Size(943, 32);
+      this.pnlCol17.TabIndex = 18;
+      this.pnlCol17.Visible = false;
+      // 
+      // txtGerarGraf17
+      // 
+      this.txtGerarGraf17.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtGerarGraf17.BorderRadius = 15;
+      this.txtGerarGraf17.BorderSize = 2;
+      this.txtGerarGraf17.F7ToolTipText = null;
+      this.txtGerarGraf17.F8ToolTipText = null;
+      this.txtGerarGraf17.F9ToolTipText = null;
+      this.txtGerarGraf17.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtGerarGraf17.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtGerarGraf17.IconF7")));
+      this.txtGerarGraf17.IconToolTipText = null;
+      this.txtGerarGraf17.Lines = new string[0];
+      this.txtGerarGraf17.Location = new System.Drawing.Point(762, 1);
+      this.txtGerarGraf17.MaxLength = 30;
+      this.txtGerarGraf17.Name = "txtGerarGraf17";
+      this.txtGerarGraf17.PasswordChar = '\0';
+      this.txtGerarGraf17.Propriedade = null;
+      this.txtGerarGraf17.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtGerarGraf17.SelectedText = "";
+      this.txtGerarGraf17.SelectionLength = 0;
+      this.txtGerarGraf17.SelectionStart = 0;
+      this.txtGerarGraf17.ShortcutsEnabled = true;
+      this.txtGerarGraf17.ShowButtonF7 = true;
+      this.txtGerarGraf17.Size = new System.Drawing.Size(99, 30);
+      this.txtGerarGraf17.TabIndex = 5;
+      this.txtGerarGraf17.UnderlinedStyle = false;
+      this.txtGerarGraf17.UseSelectable = true;
+      this.txtGerarGraf17.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtGerarGraf17.Valor_Decimais = ((short)(0));
+      this.txtGerarGraf17.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtGerarGraf17.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // btnCanc17
+      // 
+      this.btnCanc17.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+      this.btnCanc17.BorderColor = System.Drawing.Color.PaleVioletRed;
+      this.btnCanc17.BorderRadius = 15;
+      this.btnCanc17.BorderSize = 0;
+      this.btnCanc17.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+      this.btnCanc17.Image = ((System.Drawing.Image)(resources.GetObject("btnCanc17.Image")));
+      this.btnCanc17.Location = new System.Drawing.Point(904, 0);
+      this.btnCanc17.Margin = new System.Windows.Forms.Padding(1, 3, 1, 3);
+      this.btnCanc17.Name = "btnCanc17";
+      this.btnCanc17.Size = new System.Drawing.Size(30, 30);
+      this.btnCanc17.TabIndex = 7;
+      this.btnCanc17.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+      this.btnCanc17.UseVisualStyleBackColor = false;
+      this.btnCanc17.Click += new System.EventHandler(this.BtnCanc_Click);
+      // 
+      // btnAdd17
+      // 
+      this.btnAdd17.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+      this.btnAdd17.BorderColor = System.Drawing.Color.PaleVioletRed;
+      this.btnAdd17.BorderRadius = 15;
+      this.btnAdd17.BorderSize = 0;
+      this.btnAdd17.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+      this.btnAdd17.Image = ((System.Drawing.Image)(resources.GetObject("btnAdd17.Image")));
+      this.btnAdd17.Location = new System.Drawing.Point(872, 0);
+      this.btnAdd17.Margin = new System.Windows.Forms.Padding(1, 3, 1, 3);
+      this.btnAdd17.Name = "btnAdd17";
+      this.btnAdd17.Size = new System.Drawing.Size(30, 30);
+      this.btnAdd17.TabIndex = 6;
+      this.btnAdd17.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+      this.btnAdd17.UseVisualStyleBackColor = false;
+      this.btnAdd17.Click += new System.EventHandler(this.BtnAdd_Click);
+      // 
+      // txtLarg17
+      // 
+      this.txtLarg17.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtLarg17.BorderRadius = 15;
+      this.txtLarg17.BorderSize = 2;
+      this.txtLarg17.F7ToolTipText = null;
+      this.txtLarg17.F8ToolTipText = null;
+      this.txtLarg17.F9ToolTipText = null;
+      this.txtLarg17.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtLarg17.IconF7 = null;
+      this.txtLarg17.IconToolTipText = null;
+      this.txtLarg17.Lines = new string[0];
+      this.txtLarg17.Location = new System.Drawing.Point(419, 0);
+      this.txtLarg17.MaxLength = 30;
+      this.txtLarg17.Name = "txtLarg17";
+      this.txtLarg17.PasswordChar = '\0';
+      this.txtLarg17.Propriedade = null;
+      this.txtLarg17.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtLarg17.SelectedText = "";
+      this.txtLarg17.SelectionLength = 0;
+      this.txtLarg17.SelectionStart = 0;
+      this.txtLarg17.ShortcutsEnabled = true;
+      this.txtLarg17.Size = new System.Drawing.Size(76, 30);
+      this.txtLarg17.TabIndex = 2;
+      this.txtLarg17.UnderlinedStyle = false;
+      this.txtLarg17.UseSelectable = true;
+      this.txtLarg17.Valor = LmCorbieUI.Design.LmValueType.Num_Inteiro;
+      this.txtLarg17.Valor_Decimais = ((short)(0));
+      this.txtLarg17.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtLarg17.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtTipo17
+      // 
+      this.txtTipo17.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtTipo17.BorderRadius = 15;
+      this.txtTipo17.BorderSize = 2;
+      this.txtTipo17.F7ToolTipText = null;
+      this.txtTipo17.F8ToolTipText = null;
+      this.txtTipo17.F9ToolTipText = null;
+      this.txtTipo17.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtTipo17.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtTipo17.IconF7")));
+      this.txtTipo17.IconToolTipText = null;
+      this.txtTipo17.Lines = new string[0];
+      this.txtTipo17.Location = new System.Drawing.Point(261, 0);
+      this.txtTipo17.MaxLength = 30;
+      this.txtTipo17.Name = "txtTipo17";
+      this.txtTipo17.PasswordChar = '\0';
+      this.txtTipo17.Propriedade = null;
+      this.txtTipo17.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtTipo17.SelectedText = "";
+      this.txtTipo17.SelectionLength = 0;
+      this.txtTipo17.SelectionStart = 0;
+      this.txtTipo17.ShortcutsEnabled = true;
+      this.txtTipo17.ShowButtonF7 = true;
+      this.txtTipo17.Size = new System.Drawing.Size(152, 30);
+      this.txtTipo17.TabIndex = 1;
+      this.txtTipo17.UnderlinedStyle = false;
+      this.txtTipo17.UseSelectable = true;
+      this.txtTipo17.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtTipo17.Valor_Decimais = ((short)(0));
+      this.txtTipo17.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtTipo17.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtAlinh17
+      // 
+      this.txtAlinh17.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtAlinh17.BorderRadius = 15;
+      this.txtAlinh17.BorderSize = 2;
+      this.txtAlinh17.F7ToolTipText = "Exibir Senha";
+      this.txtAlinh17.F8ToolTipText = null;
+      this.txtAlinh17.F9ToolTipText = null;
+      this.txtAlinh17.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtAlinh17.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtAlinh17.IconF7")));
+      this.txtAlinh17.IconToolTipText = null;
+      this.txtAlinh17.Lines = new string[0];
+      this.txtAlinh17.Location = new System.Drawing.Point(501, -1);
+      this.txtAlinh17.MaxLength = 30;
+      this.txtAlinh17.Name = "txtAlinh17";
+      this.txtAlinh17.PasswordChar = '\0';
+      this.txtAlinh17.Propriedade = null;
+      this.txtAlinh17.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtAlinh17.SelectedText = "";
+      this.txtAlinh17.SelectionLength = 0;
+      this.txtAlinh17.SelectionStart = 0;
+      this.txtAlinh17.ShortcutsEnabled = false;
+      this.txtAlinh17.ShowButtonF7 = true;
+      this.txtAlinh17.Size = new System.Drawing.Size(150, 30);
+      this.txtAlinh17.TabIndex = 3;
+      this.txtAlinh17.UnderlinedStyle = false;
+      this.txtAlinh17.UseSelectable = true;
+      this.txtAlinh17.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtAlinh17.Valor_Decimais = ((short)(0));
+      this.txtAlinh17.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtAlinh17.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtNome17
+      // 
+      this.txtNome17.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtNome17.BorderRadius = 15;
+      this.txtNome17.BorderSize = 2;
+      this.txtNome17.F7ToolTipText = null;
+      this.txtNome17.F8ToolTipText = null;
+      this.txtNome17.F9ToolTipText = null;
+      this.txtNome17.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtNome17.IconF7 = null;
+      this.txtNome17.IconToolTipText = null;
+      this.txtNome17.Lines = new string[0];
+      this.txtNome17.Location = new System.Drawing.Point(3, 0);
+      this.txtNome17.MaxLength = 30;
+      this.txtNome17.Name = "txtNome17";
+      this.txtNome17.PasswordChar = '\0';
+      this.txtNome17.Propriedade = null;
+      this.txtNome17.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtNome17.SelectedText = "";
+      this.txtNome17.SelectionLength = 0;
+      this.txtNome17.SelectionStart = 0;
+      this.txtNome17.ShortcutsEnabled = true;
+      this.txtNome17.Size = new System.Drawing.Size(252, 30);
+      this.txtNome17.TabIndex = 0;
+      this.txtNome17.UnderlinedStyle = false;
+      this.txtNome17.UseSelectable = true;
+      this.txtNome17.Valor_Decimais = ((short)(0));
+      this.txtNome17.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtNome17.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtCalc17
+      // 
+      this.txtCalc17.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtCalc17.BorderRadius = 15;
+      this.txtCalc17.BorderSize = 2;
+      this.txtCalc17.F7ToolTipText = null;
+      this.txtCalc17.F8ToolTipText = null;
+      this.txtCalc17.F9ToolTipText = null;
+      this.txtCalc17.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtCalc17.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtCalc17.IconF7")));
+      this.txtCalc17.IconToolTipText = null;
+      this.txtCalc17.Lines = new string[0];
+      this.txtCalc17.Location = new System.Drawing.Point(657, -1);
+      this.txtCalc17.MaxLength = 30;
+      this.txtCalc17.Name = "txtCalc17";
+      this.txtCalc17.PasswordChar = '\0';
+      this.txtCalc17.Propriedade = null;
+      this.txtCalc17.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtCalc17.SelectedText = "";
+      this.txtCalc17.SelectionLength = 0;
+      this.txtCalc17.SelectionStart = 0;
+      this.txtCalc17.ShortcutsEnabled = true;
+      this.txtCalc17.ShowButtonF7 = true;
+      this.txtCalc17.Size = new System.Drawing.Size(99, 30);
+      this.txtCalc17.TabIndex = 4;
+      this.txtCalc17.UnderlinedStyle = false;
+      this.txtCalc17.UseSelectable = true;
+      this.txtCalc17.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtCalc17.Valor_Decimais = ((short)(0));
+      this.txtCalc17.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtCalc17.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // pnlCol18
+      // 
+      this.pnlCol18.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(223)))), ((int)(((byte)(228)))), ((int)(((byte)(233)))));
+      this.pnlCol18.Controls.Add(this.txtGerarGraf18);
+      this.pnlCol18.Controls.Add(this.btnCanc18);
+      this.pnlCol18.Controls.Add(this.btnAdd18);
+      this.pnlCol18.Controls.Add(this.txtLarg18);
+      this.pnlCol18.Controls.Add(this.txtTipo18);
+      this.pnlCol18.Controls.Add(this.txtAlinh18);
+      this.pnlCol18.Controls.Add(this.txtNome18);
+      this.pnlCol18.Controls.Add(this.txtCalc18);
+      this.pnlCol18.IsPanelMenu = false;
+      this.pnlCol18.Location = new System.Drawing.Point(1, 613);
+      this.pnlCol18.Margin = new System.Windows.Forms.Padding(1);
+      this.pnlCol18.Name = "pnlCol18";
+      this.pnlCol18.Size = new System.Drawing.Size(943, 32);
+      this.pnlCol18.TabIndex = 19;
+      this.pnlCol18.Visible = false;
+      // 
+      // txtGerarGraf18
+      // 
+      this.txtGerarGraf18.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtGerarGraf18.BorderRadius = 15;
+      this.txtGerarGraf18.BorderSize = 2;
+      this.txtGerarGraf18.F7ToolTipText = null;
+      this.txtGerarGraf18.F8ToolTipText = null;
+      this.txtGerarGraf18.F9ToolTipText = null;
+      this.txtGerarGraf18.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtGerarGraf18.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtGerarGraf18.IconF7")));
+      this.txtGerarGraf18.IconToolTipText = null;
+      this.txtGerarGraf18.Lines = new string[0];
+      this.txtGerarGraf18.Location = new System.Drawing.Point(762, 1);
+      this.txtGerarGraf18.MaxLength = 30;
+      this.txtGerarGraf18.Name = "txtGerarGraf18";
+      this.txtGerarGraf18.PasswordChar = '\0';
+      this.txtGerarGraf18.Propriedade = null;
+      this.txtGerarGraf18.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtGerarGraf18.SelectedText = "";
+      this.txtGerarGraf18.SelectionLength = 0;
+      this.txtGerarGraf18.SelectionStart = 0;
+      this.txtGerarGraf18.ShortcutsEnabled = true;
+      this.txtGerarGraf18.ShowButtonF7 = true;
+      this.txtGerarGraf18.Size = new System.Drawing.Size(99, 30);
+      this.txtGerarGraf18.TabIndex = 5;
+      this.txtGerarGraf18.UnderlinedStyle = false;
+      this.txtGerarGraf18.UseSelectable = true;
+      this.txtGerarGraf18.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtGerarGraf18.Valor_Decimais = ((short)(0));
+      this.txtGerarGraf18.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtGerarGraf18.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // btnCanc18
+      // 
+      this.btnCanc18.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+      this.btnCanc18.BorderColor = System.Drawing.Color.PaleVioletRed;
+      this.btnCanc18.BorderRadius = 15;
+      this.btnCanc18.BorderSize = 0;
+      this.btnCanc18.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+      this.btnCanc18.Image = ((System.Drawing.Image)(resources.GetObject("btnCanc18.Image")));
+      this.btnCanc18.Location = new System.Drawing.Point(904, 0);
+      this.btnCanc18.Margin = new System.Windows.Forms.Padding(1, 3, 1, 3);
+      this.btnCanc18.Name = "btnCanc18";
+      this.btnCanc18.Size = new System.Drawing.Size(30, 30);
+      this.btnCanc18.TabIndex = 7;
+      this.btnCanc18.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+      this.btnCanc18.UseVisualStyleBackColor = false;
+      this.btnCanc18.Click += new System.EventHandler(this.BtnCanc_Click);
+      // 
+      // btnAdd18
+      // 
+      this.btnAdd18.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+      this.btnAdd18.BorderColor = System.Drawing.Color.PaleVioletRed;
+      this.btnAdd18.BorderRadius = 15;
+      this.btnAdd18.BorderSize = 0;
+      this.btnAdd18.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+      this.btnAdd18.Image = ((System.Drawing.Image)(resources.GetObject("btnAdd18.Image")));
+      this.btnAdd18.Location = new System.Drawing.Point(872, 0);
+      this.btnAdd18.Margin = new System.Windows.Forms.Padding(1, 3, 1, 3);
+      this.btnAdd18.Name = "btnAdd18";
+      this.btnAdd18.Size = new System.Drawing.Size(30, 30);
+      this.btnAdd18.TabIndex = 6;
+      this.btnAdd18.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+      this.btnAdd18.UseVisualStyleBackColor = false;
+      this.btnAdd18.Click += new System.EventHandler(this.BtnAdd_Click);
+      // 
+      // txtLarg18
+      // 
+      this.txtLarg18.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtLarg18.BorderRadius = 15;
+      this.txtLarg18.BorderSize = 2;
+      this.txtLarg18.F7ToolTipText = null;
+      this.txtLarg18.F8ToolTipText = null;
+      this.txtLarg18.F9ToolTipText = null;
+      this.txtLarg18.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtLarg18.IconF7 = null;
+      this.txtLarg18.IconToolTipText = null;
+      this.txtLarg18.Lines = new string[0];
+      this.txtLarg18.Location = new System.Drawing.Point(419, 0);
+      this.txtLarg18.MaxLength = 30;
+      this.txtLarg18.Name = "txtLarg18";
+      this.txtLarg18.PasswordChar = '\0';
+      this.txtLarg18.Propriedade = null;
+      this.txtLarg18.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtLarg18.SelectedText = "";
+      this.txtLarg18.SelectionLength = 0;
+      this.txtLarg18.SelectionStart = 0;
+      this.txtLarg18.ShortcutsEnabled = true;
+      this.txtLarg18.Size = new System.Drawing.Size(76, 30);
+      this.txtLarg18.TabIndex = 2;
+      this.txtLarg18.UnderlinedStyle = false;
+      this.txtLarg18.UseSelectable = true;
+      this.txtLarg18.Valor = LmCorbieUI.Design.LmValueType.Num_Inteiro;
+      this.txtLarg18.Valor_Decimais = ((short)(0));
+      this.txtLarg18.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtLarg18.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtTipo18
+      // 
+      this.txtTipo18.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtTipo18.BorderRadius = 15;
+      this.txtTipo18.BorderSize = 2;
+      this.txtTipo18.F7ToolTipText = null;
+      this.txtTipo18.F8ToolTipText = null;
+      this.txtTipo18.F9ToolTipText = null;
+      this.txtTipo18.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtTipo18.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtTipo18.IconF7")));
+      this.txtTipo18.IconToolTipText = null;
+      this.txtTipo18.Lines = new string[0];
+      this.txtTipo18.Location = new System.Drawing.Point(261, 0);
+      this.txtTipo18.MaxLength = 30;
+      this.txtTipo18.Name = "txtTipo18";
+      this.txtTipo18.PasswordChar = '\0';
+      this.txtTipo18.Propriedade = null;
+      this.txtTipo18.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtTipo18.SelectedText = "";
+      this.txtTipo18.SelectionLength = 0;
+      this.txtTipo18.SelectionStart = 0;
+      this.txtTipo18.ShortcutsEnabled = true;
+      this.txtTipo18.ShowButtonF7 = true;
+      this.txtTipo18.Size = new System.Drawing.Size(152, 30);
+      this.txtTipo18.TabIndex = 1;
+      this.txtTipo18.UnderlinedStyle = false;
+      this.txtTipo18.UseSelectable = true;
+      this.txtTipo18.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtTipo18.Valor_Decimais = ((short)(0));
+      this.txtTipo18.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtTipo18.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtAlinh18
+      // 
+      this.txtAlinh18.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtAlinh18.BorderRadius = 15;
+      this.txtAlinh18.BorderSize = 2;
+      this.txtAlinh18.F7ToolTipText = "Exibir Senha";
+      this.txtAlinh18.F8ToolTipText = null;
+      this.txtAlinh18.F9ToolTipText = null;
+      this.txtAlinh18.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtAlinh18.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtAlinh18.IconF7")));
+      this.txtAlinh18.IconToolTipText = null;
+      this.txtAlinh18.Lines = new string[0];
+      this.txtAlinh18.Location = new System.Drawing.Point(501, -1);
+      this.txtAlinh18.MaxLength = 30;
+      this.txtAlinh18.Name = "txtAlinh18";
+      this.txtAlinh18.PasswordChar = '\0';
+      this.txtAlinh18.Propriedade = null;
+      this.txtAlinh18.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtAlinh18.SelectedText = "";
+      this.txtAlinh18.SelectionLength = 0;
+      this.txtAlinh18.SelectionStart = 0;
+      this.txtAlinh18.ShortcutsEnabled = false;
+      this.txtAlinh18.ShowButtonF7 = true;
+      this.txtAlinh18.Size = new System.Drawing.Size(150, 30);
+      this.txtAlinh18.TabIndex = 3;
+      this.txtAlinh18.UnderlinedStyle = false;
+      this.txtAlinh18.UseSelectable = true;
+      this.txtAlinh18.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtAlinh18.Valor_Decimais = ((short)(0));
+      this.txtAlinh18.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtAlinh18.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtNome18
+      // 
+      this.txtNome18.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtNome18.BorderRadius = 15;
+      this.txtNome18.BorderSize = 2;
+      this.txtNome18.F7ToolTipText = null;
+      this.txtNome18.F8ToolTipText = null;
+      this.txtNome18.F9ToolTipText = null;
+      this.txtNome18.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtNome18.IconF7 = null;
+      this.txtNome18.IconToolTipText = null;
+      this.txtNome18.Lines = new string[0];
+      this.txtNome18.Location = new System.Drawing.Point(3, 0);
+      this.txtNome18.MaxLength = 30;
+      this.txtNome18.Name = "txtNome18";
+      this.txtNome18.PasswordChar = '\0';
+      this.txtNome18.Propriedade = null;
+      this.txtNome18.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtNome18.SelectedText = "";
+      this.txtNome18.SelectionLength = 0;
+      this.txtNome18.SelectionStart = 0;
+      this.txtNome18.ShortcutsEnabled = true;
+      this.txtNome18.Size = new System.Drawing.Size(252, 30);
+      this.txtNome18.TabIndex = 0;
+      this.txtNome18.UnderlinedStyle = false;
+      this.txtNome18.UseSelectable = true;
+      this.txtNome18.Valor_Decimais = ((short)(0));
+      this.txtNome18.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtNome18.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtCalc18
+      // 
+      this.txtCalc18.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtCalc18.BorderRadius = 15;
+      this.txtCalc18.BorderSize = 2;
+      this.txtCalc18.F7ToolTipText = null;
+      this.txtCalc18.F8ToolTipText = null;
+      this.txtCalc18.F9ToolTipText = null;
+      this.txtCalc18.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtCalc18.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtCalc18.IconF7")));
+      this.txtCalc18.IconToolTipText = null;
+      this.txtCalc18.Lines = new string[0];
+      this.txtCalc18.Location = new System.Drawing.Point(657, -1);
+      this.txtCalc18.MaxLength = 30;
+      this.txtCalc18.Name = "txtCalc18";
+      this.txtCalc18.PasswordChar = '\0';
+      this.txtCalc18.Propriedade = null;
+      this.txtCalc18.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtCalc18.SelectedText = "";
+      this.txtCalc18.SelectionLength = 0;
+      this.txtCalc18.SelectionStart = 0;
+      this.txtCalc18.ShortcutsEnabled = true;
+      this.txtCalc18.ShowButtonF7 = true;
+      this.txtCalc18.Size = new System.Drawing.Size(99, 30);
+      this.txtCalc18.TabIndex = 4;
+      this.txtCalc18.UnderlinedStyle = false;
+      this.txtCalc18.UseSelectable = true;
+      this.txtCalc18.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtCalc18.Valor_Decimais = ((short)(0));
+      this.txtCalc18.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtCalc18.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // pnlCol19
+      // 
+      this.pnlCol19.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(223)))), ((int)(((byte)(228)))), ((int)(((byte)(233)))));
+      this.pnlCol19.Controls.Add(this.txtGerarGraf19);
+      this.pnlCol19.Controls.Add(this.btnCanc19);
+      this.pnlCol19.Controls.Add(this.btnAdd19);
+      this.pnlCol19.Controls.Add(this.txtLarg19);
+      this.pnlCol19.Controls.Add(this.txtTipo19);
+      this.pnlCol19.Controls.Add(this.txtAlinh19);
+      this.pnlCol19.Controls.Add(this.txtNome19);
+      this.pnlCol19.Controls.Add(this.txtCalc19);
+      this.pnlCol19.IsPanelMenu = false;
+      this.pnlCol19.Location = new System.Drawing.Point(1, 647);
+      this.pnlCol19.Margin = new System.Windows.Forms.Padding(1);
+      this.pnlCol19.Name = "pnlCol19";
+      this.pnlCol19.Size = new System.Drawing.Size(943, 32);
+      this.pnlCol19.TabIndex = 20;
+      this.pnlCol19.Visible = false;
+      // 
+      // txtGerarGraf19
+      // 
+      this.txtGerarGraf19.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtGerarGraf19.BorderRadius = 15;
+      this.txtGerarGraf19.BorderSize = 2;
+      this.txtGerarGraf19.F7ToolTipText = null;
+      this.txtGerarGraf19.F8ToolTipText = null;
+      this.txtGerarGraf19.F9ToolTipText = null;
+      this.txtGerarGraf19.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtGerarGraf19.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtGerarGraf19.IconF7")));
+      this.txtGerarGraf19.IconToolTipText = null;
+      this.txtGerarGraf19.Lines = new string[0];
+      this.txtGerarGraf19.Location = new System.Drawing.Point(762, 1);
+      this.txtGerarGraf19.MaxLength = 30;
+      this.txtGerarGraf19.Name = "txtGerarGraf19";
+      this.txtGerarGraf19.PasswordChar = '\0';
+      this.txtGerarGraf19.Propriedade = null;
+      this.txtGerarGraf19.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtGerarGraf19.SelectedText = "";
+      this.txtGerarGraf19.SelectionLength = 0;
+      this.txtGerarGraf19.SelectionStart = 0;
+      this.txtGerarGraf19.ShortcutsEnabled = true;
+      this.txtGerarGraf19.ShowButtonF7 = true;
+      this.txtGerarGraf19.Size = new System.Drawing.Size(99, 30);
+      this.txtGerarGraf19.TabIndex = 5;
+      this.txtGerarGraf19.UnderlinedStyle = false;
+      this.txtGerarGraf19.UseSelectable = true;
+      this.txtGerarGraf19.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtGerarGraf19.Valor_Decimais = ((short)(0));
+      this.txtGerarGraf19.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtGerarGraf19.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // btnCanc19
+      // 
+      this.btnCanc19.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+      this.btnCanc19.BorderColor = System.Drawing.Color.PaleVioletRed;
+      this.btnCanc19.BorderRadius = 15;
+      this.btnCanc19.BorderSize = 0;
+      this.btnCanc19.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+      this.btnCanc19.Image = ((System.Drawing.Image)(resources.GetObject("btnCanc19.Image")));
+      this.btnCanc19.Location = new System.Drawing.Point(904, 0);
+      this.btnCanc19.Margin = new System.Windows.Forms.Padding(1, 3, 1, 3);
+      this.btnCanc19.Name = "btnCanc19";
+      this.btnCanc19.Size = new System.Drawing.Size(30, 30);
+      this.btnCanc19.TabIndex = 7;
+      this.btnCanc19.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+      this.btnCanc19.UseVisualStyleBackColor = false;
+      this.btnCanc19.Click += new System.EventHandler(this.BtnCanc_Click);
+      // 
+      // btnAdd19
+      // 
+      this.btnAdd19.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+      this.btnAdd19.BorderColor = System.Drawing.Color.PaleVioletRed;
+      this.btnAdd19.BorderRadius = 15;
+      this.btnAdd19.BorderSize = 0;
+      this.btnAdd19.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+      this.btnAdd19.Image = ((System.Drawing.Image)(resources.GetObject("btnAdd19.Image")));
+      this.btnAdd19.Location = new System.Drawing.Point(872, 0);
+      this.btnAdd19.Margin = new System.Windows.Forms.Padding(1, 3, 1, 3);
+      this.btnAdd19.Name = "btnAdd19";
+      this.btnAdd19.Size = new System.Drawing.Size(30, 30);
+      this.btnAdd19.TabIndex = 6;
+      this.btnAdd19.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+      this.btnAdd19.UseVisualStyleBackColor = false;
+      this.btnAdd19.Click += new System.EventHandler(this.BtnAdd_Click);
+      // 
+      // txtLarg19
+      // 
+      this.txtLarg19.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtLarg19.BorderRadius = 15;
+      this.txtLarg19.BorderSize = 2;
+      this.txtLarg19.F7ToolTipText = null;
+      this.txtLarg19.F8ToolTipText = null;
+      this.txtLarg19.F9ToolTipText = null;
+      this.txtLarg19.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtLarg19.IconF7 = null;
+      this.txtLarg19.IconToolTipText = null;
+      this.txtLarg19.Lines = new string[0];
+      this.txtLarg19.Location = new System.Drawing.Point(419, 0);
+      this.txtLarg19.MaxLength = 30;
+      this.txtLarg19.Name = "txtLarg19";
+      this.txtLarg19.PasswordChar = '\0';
+      this.txtLarg19.Propriedade = null;
+      this.txtLarg19.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtLarg19.SelectedText = "";
+      this.txtLarg19.SelectionLength = 0;
+      this.txtLarg19.SelectionStart = 0;
+      this.txtLarg19.ShortcutsEnabled = true;
+      this.txtLarg19.Size = new System.Drawing.Size(76, 30);
+      this.txtLarg19.TabIndex = 2;
+      this.txtLarg19.UnderlinedStyle = false;
+      this.txtLarg19.UseSelectable = true;
+      this.txtLarg19.Valor = LmCorbieUI.Design.LmValueType.Num_Inteiro;
+      this.txtLarg19.Valor_Decimais = ((short)(0));
+      this.txtLarg19.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtLarg19.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtTipo19
+      // 
+      this.txtTipo19.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtTipo19.BorderRadius = 15;
+      this.txtTipo19.BorderSize = 2;
+      this.txtTipo19.F7ToolTipText = null;
+      this.txtTipo19.F8ToolTipText = null;
+      this.txtTipo19.F9ToolTipText = null;
+      this.txtTipo19.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtTipo19.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtTipo19.IconF7")));
+      this.txtTipo19.IconToolTipText = null;
+      this.txtTipo19.Lines = new string[0];
+      this.txtTipo19.Location = new System.Drawing.Point(261, 0);
+      this.txtTipo19.MaxLength = 30;
+      this.txtTipo19.Name = "txtTipo19";
+      this.txtTipo19.PasswordChar = '\0';
+      this.txtTipo19.Propriedade = null;
+      this.txtTipo19.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtTipo19.SelectedText = "";
+      this.txtTipo19.SelectionLength = 0;
+      this.txtTipo19.SelectionStart = 0;
+      this.txtTipo19.ShortcutsEnabled = true;
+      this.txtTipo19.ShowButtonF7 = true;
+      this.txtTipo19.Size = new System.Drawing.Size(152, 30);
+      this.txtTipo19.TabIndex = 1;
+      this.txtTipo19.UnderlinedStyle = false;
+      this.txtTipo19.UseSelectable = true;
+      this.txtTipo19.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtTipo19.Valor_Decimais = ((short)(0));
+      this.txtTipo19.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtTipo19.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtAlinh19
+      // 
+      this.txtAlinh19.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtAlinh19.BorderRadius = 15;
+      this.txtAlinh19.BorderSize = 2;
+      this.txtAlinh19.F7ToolTipText = "Exibir Senha";
+      this.txtAlinh19.F8ToolTipText = null;
+      this.txtAlinh19.F9ToolTipText = null;
+      this.txtAlinh19.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtAlinh19.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtAlinh19.IconF7")));
+      this.txtAlinh19.IconToolTipText = null;
+      this.txtAlinh19.Lines = new string[0];
+      this.txtAlinh19.Location = new System.Drawing.Point(501, -1);
+      this.txtAlinh19.MaxLength = 30;
+      this.txtAlinh19.Name = "txtAlinh19";
+      this.txtAlinh19.PasswordChar = '\0';
+      this.txtAlinh19.Propriedade = null;
+      this.txtAlinh19.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtAlinh19.SelectedText = "";
+      this.txtAlinh19.SelectionLength = 0;
+      this.txtAlinh19.SelectionStart = 0;
+      this.txtAlinh19.ShortcutsEnabled = false;
+      this.txtAlinh19.ShowButtonF7 = true;
+      this.txtAlinh19.Size = new System.Drawing.Size(150, 30);
+      this.txtAlinh19.TabIndex = 3;
+      this.txtAlinh19.UnderlinedStyle = false;
+      this.txtAlinh19.UseSelectable = true;
+      this.txtAlinh19.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtAlinh19.Valor_Decimais = ((short)(0));
+      this.txtAlinh19.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtAlinh19.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtNome19
+      // 
+      this.txtNome19.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtNome19.BorderRadius = 15;
+      this.txtNome19.BorderSize = 2;
+      this.txtNome19.F7ToolTipText = null;
+      this.txtNome19.F8ToolTipText = null;
+      this.txtNome19.F9ToolTipText = null;
+      this.txtNome19.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtNome19.IconF7 = null;
+      this.txtNome19.IconToolTipText = null;
+      this.txtNome19.Lines = new string[0];
+      this.txtNome19.Location = new System.Drawing.Point(3, 0);
+      this.txtNome19.MaxLength = 30;
+      this.txtNome19.Name = "txtNome19";
+      this.txtNome19.PasswordChar = '\0';
+      this.txtNome19.Propriedade = null;
+      this.txtNome19.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtNome19.SelectedText = "";
+      this.txtNome19.SelectionLength = 0;
+      this.txtNome19.SelectionStart = 0;
+      this.txtNome19.ShortcutsEnabled = true;
+      this.txtNome19.Size = new System.Drawing.Size(252, 30);
+      this.txtNome19.TabIndex = 0;
+      this.txtNome19.UnderlinedStyle = false;
+      this.txtNome19.UseSelectable = true;
+      this.txtNome19.Valor_Decimais = ((short)(0));
+      this.txtNome19.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtNome19.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtCalc19
+      // 
+      this.txtCalc19.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtCalc19.BorderRadius = 15;
+      this.txtCalc19.BorderSize = 2;
+      this.txtCalc19.F7ToolTipText = null;
+      this.txtCalc19.F8ToolTipText = null;
+      this.txtCalc19.F9ToolTipText = null;
+      this.txtCalc19.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtCalc19.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtCalc19.IconF7")));
+      this.txtCalc19.IconToolTipText = null;
+      this.txtCalc19.Lines = new string[0];
+      this.txtCalc19.Location = new System.Drawing.Point(657, -1);
+      this.txtCalc19.MaxLength = 30;
+      this.txtCalc19.Name = "txtCalc19";
+      this.txtCalc19.PasswordChar = '\0';
+      this.txtCalc19.Propriedade = null;
+      this.txtCalc19.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtCalc19.SelectedText = "";
+      this.txtCalc19.SelectionLength = 0;
+      this.txtCalc19.SelectionStart = 0;
+      this.txtCalc19.ShortcutsEnabled = true;
+      this.txtCalc19.ShowButtonF7 = true;
+      this.txtCalc19.Size = new System.Drawing.Size(99, 30);
+      this.txtCalc19.TabIndex = 4;
+      this.txtCalc19.UnderlinedStyle = false;
+      this.txtCalc19.UseSelectable = true;
+      this.txtCalc19.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtCalc19.Valor_Decimais = ((short)(0));
+      this.txtCalc19.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtCalc19.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // pnlCol20
+      // 
+      this.pnlCol20.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(223)))), ((int)(((byte)(228)))), ((int)(((byte)(233)))));
+      this.pnlCol20.Controls.Add(this.txtGerarGraf20);
+      this.pnlCol20.Controls.Add(this.btnCanc20);
+      this.pnlCol20.Controls.Add(this.btnAdd20);
+      this.pnlCol20.Controls.Add(this.txtLarg20);
+      this.pnlCol20.Controls.Add(this.txtTipo20);
+      this.pnlCol20.Controls.Add(this.txtAlinh20);
+      this.pnlCol20.Controls.Add(this.txtNome20);
+      this.pnlCol20.Controls.Add(this.txtCalc20);
+      this.pnlCol20.IsPanelMenu = false;
+      this.pnlCol20.Location = new System.Drawing.Point(1, 681);
+      this.pnlCol20.Margin = new System.Windows.Forms.Padding(1);
+      this.pnlCol20.Name = "pnlCol20";
+      this.pnlCol20.Size = new System.Drawing.Size(943, 32);
+      this.pnlCol20.TabIndex = 21;
+      this.pnlCol20.Visible = false;
+      // 
+      // txtGerarGraf20
+      // 
+      this.txtGerarGraf20.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtGerarGraf20.BorderRadius = 15;
+      this.txtGerarGraf20.BorderSize = 2;
+      this.txtGerarGraf20.F7ToolTipText = null;
+      this.txtGerarGraf20.F8ToolTipText = null;
+      this.txtGerarGraf20.F9ToolTipText = null;
+      this.txtGerarGraf20.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtGerarGraf20.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtGerarGraf20.IconF7")));
+      this.txtGerarGraf20.IconToolTipText = null;
+      this.txtGerarGraf20.Lines = new string[0];
+      this.txtGerarGraf20.Location = new System.Drawing.Point(762, 1);
+      this.txtGerarGraf20.MaxLength = 30;
+      this.txtGerarGraf20.Name = "txtGerarGraf20";
+      this.txtGerarGraf20.PasswordChar = '\0';
+      this.txtGerarGraf20.Propriedade = null;
+      this.txtGerarGraf20.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtGerarGraf20.SelectedText = "";
+      this.txtGerarGraf20.SelectionLength = 0;
+      this.txtGerarGraf20.SelectionStart = 0;
+      this.txtGerarGraf20.ShortcutsEnabled = true;
+      this.txtGerarGraf20.ShowButtonF7 = true;
+      this.txtGerarGraf20.Size = new System.Drawing.Size(99, 30);
+      this.txtGerarGraf20.TabIndex = 5;
+      this.txtGerarGraf20.UnderlinedStyle = false;
+      this.txtGerarGraf20.UseSelectable = true;
+      this.txtGerarGraf20.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtGerarGraf20.Valor_Decimais = ((short)(0));
+      this.txtGerarGraf20.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtGerarGraf20.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // btnCanc20
+      // 
+      this.btnCanc20.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+      this.btnCanc20.BorderColor = System.Drawing.Color.PaleVioletRed;
+      this.btnCanc20.BorderRadius = 15;
+      this.btnCanc20.BorderSize = 0;
+      this.btnCanc20.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+      this.btnCanc20.Image = ((System.Drawing.Image)(resources.GetObject("btnCanc20.Image")));
+      this.btnCanc20.Location = new System.Drawing.Point(904, 0);
+      this.btnCanc20.Margin = new System.Windows.Forms.Padding(1, 3, 1, 3);
+      this.btnCanc20.Name = "btnCanc20";
+      this.btnCanc20.Size = new System.Drawing.Size(30, 30);
+      this.btnCanc20.TabIndex = 7;
+      this.btnCanc20.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+      this.btnCanc20.UseVisualStyleBackColor = false;
+      this.btnCanc20.Click += new System.EventHandler(this.BtnCanc_Click);
+      // 
+      // btnAdd20
+      // 
+      this.btnAdd20.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+      this.btnAdd20.BorderColor = System.Drawing.Color.PaleVioletRed;
+      this.btnAdd20.BorderRadius = 15;
+      this.btnAdd20.BorderSize = 0;
+      this.btnAdd20.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+      this.btnAdd20.Image = ((System.Drawing.Image)(resources.GetObject("btnAdd20.Image")));
+      this.btnAdd20.Location = new System.Drawing.Point(872, 0);
+      this.btnAdd20.Margin = new System.Windows.Forms.Padding(1, 3, 1, 3);
+      this.btnAdd20.Name = "btnAdd20";
+      this.btnAdd20.Size = new System.Drawing.Size(30, 30);
+      this.btnAdd20.TabIndex = 6;
+      this.btnAdd20.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+      this.btnAdd20.UseVisualStyleBackColor = false;
+      this.btnAdd20.Click += new System.EventHandler(this.BtnAdd_Click);
+      // 
+      // txtLarg20
+      // 
+      this.txtLarg20.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtLarg20.BorderRadius = 15;
+      this.txtLarg20.BorderSize = 2;
+      this.txtLarg20.F7ToolTipText = null;
+      this.txtLarg20.F8ToolTipText = null;
+      this.txtLarg20.F9ToolTipText = null;
+      this.txtLarg20.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtLarg20.IconF7 = null;
+      this.txtLarg20.IconToolTipText = null;
+      this.txtLarg20.Lines = new string[0];
+      this.txtLarg20.Location = new System.Drawing.Point(419, 0);
+      this.txtLarg20.MaxLength = 30;
+      this.txtLarg20.Name = "txtLarg20";
+      this.txtLarg20.PasswordChar = '\0';
+      this.txtLarg20.Propriedade = null;
+      this.txtLarg20.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtLarg20.SelectedText = "";
+      this.txtLarg20.SelectionLength = 0;
+      this.txtLarg20.SelectionStart = 0;
+      this.txtLarg20.ShortcutsEnabled = true;
+      this.txtLarg20.Size = new System.Drawing.Size(76, 30);
+      this.txtLarg20.TabIndex = 2;
+      this.txtLarg20.UnderlinedStyle = false;
+      this.txtLarg20.UseSelectable = true;
+      this.txtLarg20.Valor = LmCorbieUI.Design.LmValueType.Num_Inteiro;
+      this.txtLarg20.Valor_Decimais = ((short)(0));
+      this.txtLarg20.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtLarg20.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtTipo20
+      // 
+      this.txtTipo20.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtTipo20.BorderRadius = 15;
+      this.txtTipo20.BorderSize = 2;
+      this.txtTipo20.F7ToolTipText = null;
+      this.txtTipo20.F8ToolTipText = null;
+      this.txtTipo20.F9ToolTipText = null;
+      this.txtTipo20.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtTipo20.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtTipo20.IconF7")));
+      this.txtTipo20.IconToolTipText = null;
+      this.txtTipo20.Lines = new string[0];
+      this.txtTipo20.Location = new System.Drawing.Point(261, 0);
+      this.txtTipo20.MaxLength = 30;
+      this.txtTipo20.Name = "txtTipo20";
+      this.txtTipo20.PasswordChar = '\0';
+      this.txtTipo20.Propriedade = null;
+      this.txtTipo20.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtTipo20.SelectedText = "";
+      this.txtTipo20.SelectionLength = 0;
+      this.txtTipo20.SelectionStart = 0;
+      this.txtTipo20.ShortcutsEnabled = true;
+      this.txtTipo20.ShowButtonF7 = true;
+      this.txtTipo20.Size = new System.Drawing.Size(152, 30);
+      this.txtTipo20.TabIndex = 1;
+      this.txtTipo20.UnderlinedStyle = false;
+      this.txtTipo20.UseSelectable = true;
+      this.txtTipo20.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtTipo20.Valor_Decimais = ((short)(0));
+      this.txtTipo20.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtTipo20.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtAlinh20
+      // 
+      this.txtAlinh20.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtAlinh20.BorderRadius = 15;
+      this.txtAlinh20.BorderSize = 2;
+      this.txtAlinh20.F7ToolTipText = "Exibir Senha";
+      this.txtAlinh20.F8ToolTipText = null;
+      this.txtAlinh20.F9ToolTipText = null;
+      this.txtAlinh20.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtAlinh20.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtAlinh20.IconF7")));
+      this.txtAlinh20.IconToolTipText = null;
+      this.txtAlinh20.Lines = new string[0];
+      this.txtAlinh20.Location = new System.Drawing.Point(501, -1);
+      this.txtAlinh20.MaxLength = 30;
+      this.txtAlinh20.Name = "txtAlinh20";
+      this.txtAlinh20.PasswordChar = '\0';
+      this.txtAlinh20.Propriedade = null;
+      this.txtAlinh20.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtAlinh20.SelectedText = "";
+      this.txtAlinh20.SelectionLength = 0;
+      this.txtAlinh20.SelectionStart = 0;
+      this.txtAlinh20.ShortcutsEnabled = false;
+      this.txtAlinh20.ShowButtonF7 = true;
+      this.txtAlinh20.Size = new System.Drawing.Size(150, 30);
+      this.txtAlinh20.TabIndex = 3;
+      this.txtAlinh20.UnderlinedStyle = false;
+      this.txtAlinh20.UseSelectable = true;
+      this.txtAlinh20.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtAlinh20.Valor_Decimais = ((short)(0));
+      this.txtAlinh20.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtAlinh20.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtNome20
+      // 
+      this.txtNome20.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtNome20.BorderRadius = 15;
+      this.txtNome20.BorderSize = 2;
+      this.txtNome20.F7ToolTipText = null;
+      this.txtNome20.F8ToolTipText = null;
+      this.txtNome20.F9ToolTipText = null;
+      this.txtNome20.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtNome20.IconF7 = null;
+      this.txtNome20.IconToolTipText = null;
+      this.txtNome20.Lines = new string[0];
+      this.txtNome20.Location = new System.Drawing.Point(3, 0);
+      this.txtNome20.MaxLength = 30;
+      this.txtNome20.Name = "txtNome20";
+      this.txtNome20.PasswordChar = '\0';
+      this.txtNome20.Propriedade = null;
+      this.txtNome20.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtNome20.SelectedText = "";
+      this.txtNome20.SelectionLength = 0;
+      this.txtNome20.SelectionStart = 0;
+      this.txtNome20.ShortcutsEnabled = true;
+      this.txtNome20.Size = new System.Drawing.Size(252, 30);
+      this.txtNome20.TabIndex = 0;
+      this.txtNome20.UnderlinedStyle = false;
+      this.txtNome20.UseSelectable = true;
+      this.txtNome20.Valor_Decimais = ((short)(0));
+      this.txtNome20.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtNome20.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtCalc20
+      // 
+      this.txtCalc20.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtCalc20.BorderRadius = 15;
+      this.txtCalc20.BorderSize = 2;
+      this.txtCalc20.F7ToolTipText = null;
+      this.txtCalc20.F8ToolTipText = null;
+      this.txtCalc20.F9ToolTipText = null;
+      this.txtCalc20.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtCalc20.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtCalc20.IconF7")));
+      this.txtCalc20.IconToolTipText = null;
+      this.txtCalc20.Lines = new string[0];
+      this.txtCalc20.Location = new System.Drawing.Point(657, -1);
+      this.txtCalc20.MaxLength = 30;
+      this.txtCalc20.Name = "txtCalc20";
+      this.txtCalc20.PasswordChar = '\0';
+      this.txtCalc20.Propriedade = null;
+      this.txtCalc20.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtCalc20.SelectedText = "";
+      this.txtCalc20.SelectionLength = 0;
+      this.txtCalc20.SelectionStart = 0;
+      this.txtCalc20.ShortcutsEnabled = true;
+      this.txtCalc20.ShowButtonF7 = true;
+      this.txtCalc20.Size = new System.Drawing.Size(99, 30);
+      this.txtCalc20.TabIndex = 4;
+      this.txtCalc20.UnderlinedStyle = false;
+      this.txtCalc20.UseSelectable = true;
+      this.txtCalc20.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtCalc20.Valor_Decimais = ((short)(0));
+      this.txtCalc20.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtCalc20.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // pnlCol21
+      // 
+      this.pnlCol21.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(223)))), ((int)(((byte)(228)))), ((int)(((byte)(233)))));
+      this.pnlCol21.Controls.Add(this.txtGerarGraf21);
+      this.pnlCol21.Controls.Add(this.btnCanc21);
+      this.pnlCol21.Controls.Add(this.btnAdd21);
+      this.pnlCol21.Controls.Add(this.txtLarg21);
+      this.pnlCol21.Controls.Add(this.txtTipo21);
+      this.pnlCol21.Controls.Add(this.txtAlinh21);
+      this.pnlCol21.Controls.Add(this.txtNome21);
+      this.pnlCol21.Controls.Add(this.txtCalc21);
+      this.pnlCol21.IsPanelMenu = false;
+      this.pnlCol21.Location = new System.Drawing.Point(1, 715);
+      this.pnlCol21.Margin = new System.Windows.Forms.Padding(1);
+      this.pnlCol21.Name = "pnlCol21";
+      this.pnlCol21.Size = new System.Drawing.Size(943, 32);
+      this.pnlCol21.TabIndex = 22;
+      this.pnlCol21.Visible = false;
+      // 
+      // txtGerarGraf21
+      // 
+      this.txtGerarGraf21.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtGerarGraf21.BorderRadius = 15;
+      this.txtGerarGraf21.BorderSize = 2;
+      this.txtGerarGraf21.F7ToolTipText = null;
+      this.txtGerarGraf21.F8ToolTipText = null;
+      this.txtGerarGraf21.F9ToolTipText = null;
+      this.txtGerarGraf21.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtGerarGraf21.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtGerarGraf21.IconF7")));
+      this.txtGerarGraf21.IconToolTipText = null;
+      this.txtGerarGraf21.Lines = new string[0];
+      this.txtGerarGraf21.Location = new System.Drawing.Point(762, 1);
+      this.txtGerarGraf21.MaxLength = 30;
+      this.txtGerarGraf21.Name = "txtGerarGraf21";
+      this.txtGerarGraf21.PasswordChar = '\0';
+      this.txtGerarGraf21.Propriedade = null;
+      this.txtGerarGraf21.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtGerarGraf21.SelectedText = "";
+      this.txtGerarGraf21.SelectionLength = 0;
+      this.txtGerarGraf21.SelectionStart = 0;
+      this.txtGerarGraf21.ShortcutsEnabled = true;
+      this.txtGerarGraf21.ShowButtonF7 = true;
+      this.txtGerarGraf21.Size = new System.Drawing.Size(99, 30);
+      this.txtGerarGraf21.TabIndex = 5;
+      this.txtGerarGraf21.UnderlinedStyle = false;
+      this.txtGerarGraf21.UseSelectable = true;
+      this.txtGerarGraf21.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtGerarGraf21.Valor_Decimais = ((short)(0));
+      this.txtGerarGraf21.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtGerarGraf21.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // btnCanc21
+      // 
+      this.btnCanc21.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+      this.btnCanc21.BorderColor = System.Drawing.Color.PaleVioletRed;
+      this.btnCanc21.BorderRadius = 15;
+      this.btnCanc21.BorderSize = 0;
+      this.btnCanc21.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+      this.btnCanc21.Image = ((System.Drawing.Image)(resources.GetObject("btnCanc21.Image")));
+      this.btnCanc21.Location = new System.Drawing.Point(904, 0);
+      this.btnCanc21.Margin = new System.Windows.Forms.Padding(1, 3, 1, 3);
+      this.btnCanc21.Name = "btnCanc21";
+      this.btnCanc21.Size = new System.Drawing.Size(30, 30);
+      this.btnCanc21.TabIndex = 7;
+      this.btnCanc21.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+      this.btnCanc21.UseVisualStyleBackColor = false;
+      this.btnCanc21.Click += new System.EventHandler(this.BtnCanc_Click);
+      // 
+      // btnAdd21
+      // 
+      this.btnAdd21.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+      this.btnAdd21.BorderColor = System.Drawing.Color.PaleVioletRed;
+      this.btnAdd21.BorderRadius = 15;
+      this.btnAdd21.BorderSize = 0;
+      this.btnAdd21.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+      this.btnAdd21.Image = ((System.Drawing.Image)(resources.GetObject("btnAdd21.Image")));
+      this.btnAdd21.Location = new System.Drawing.Point(872, 0);
+      this.btnAdd21.Margin = new System.Windows.Forms.Padding(1, 3, 1, 3);
+      this.btnAdd21.Name = "btnAdd21";
+      this.btnAdd21.Size = new System.Drawing.Size(30, 30);
+      this.btnAdd21.TabIndex = 6;
+      this.btnAdd21.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+      this.btnAdd21.UseVisualStyleBackColor = false;
+      this.btnAdd21.Click += new System.EventHandler(this.BtnAdd_Click);
+      // 
+      // txtLarg21
+      // 
+      this.txtLarg21.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtLarg21.BorderRadius = 15;
+      this.txtLarg21.BorderSize = 2;
+      this.txtLarg21.F7ToolTipText = null;
+      this.txtLarg21.F8ToolTipText = null;
+      this.txtLarg21.F9ToolTipText = null;
+      this.txtLarg21.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtLarg21.IconF7 = null;
+      this.txtLarg21.IconToolTipText = null;
+      this.txtLarg21.Lines = new string[0];
+      this.txtLarg21.Location = new System.Drawing.Point(419, 0);
+      this.txtLarg21.MaxLength = 30;
+      this.txtLarg21.Name = "txtLarg21";
+      this.txtLarg21.PasswordChar = '\0';
+      this.txtLarg21.Propriedade = null;
+      this.txtLarg21.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtLarg21.SelectedText = "";
+      this.txtLarg21.SelectionLength = 0;
+      this.txtLarg21.SelectionStart = 0;
+      this.txtLarg21.ShortcutsEnabled = true;
+      this.txtLarg21.Size = new System.Drawing.Size(76, 30);
+      this.txtLarg21.TabIndex = 2;
+      this.txtLarg21.UnderlinedStyle = false;
+      this.txtLarg21.UseSelectable = true;
+      this.txtLarg21.Valor = LmCorbieUI.Design.LmValueType.Num_Inteiro;
+      this.txtLarg21.Valor_Decimais = ((short)(0));
+      this.txtLarg21.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtLarg21.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtTipo21
+      // 
+      this.txtTipo21.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtTipo21.BorderRadius = 15;
+      this.txtTipo21.BorderSize = 2;
+      this.txtTipo21.F7ToolTipText = null;
+      this.txtTipo21.F8ToolTipText = null;
+      this.txtTipo21.F9ToolTipText = null;
+      this.txtTipo21.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtTipo21.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtTipo21.IconF7")));
+      this.txtTipo21.IconToolTipText = null;
+      this.txtTipo21.Lines = new string[0];
+      this.txtTipo21.Location = new System.Drawing.Point(261, 0);
+      this.txtTipo21.MaxLength = 30;
+      this.txtTipo21.Name = "txtTipo21";
+      this.txtTipo21.PasswordChar = '\0';
+      this.txtTipo21.Propriedade = null;
+      this.txtTipo21.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtTipo21.SelectedText = "";
+      this.txtTipo21.SelectionLength = 0;
+      this.txtTipo21.SelectionStart = 0;
+      this.txtTipo21.ShortcutsEnabled = true;
+      this.txtTipo21.ShowButtonF7 = true;
+      this.txtTipo21.Size = new System.Drawing.Size(152, 30);
+      this.txtTipo21.TabIndex = 1;
+      this.txtTipo21.UnderlinedStyle = false;
+      this.txtTipo21.UseSelectable = true;
+      this.txtTipo21.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtTipo21.Valor_Decimais = ((short)(0));
+      this.txtTipo21.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtTipo21.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtAlinh21
+      // 
+      this.txtAlinh21.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtAlinh21.BorderRadius = 15;
+      this.txtAlinh21.BorderSize = 2;
+      this.txtAlinh21.F7ToolTipText = "Exibir Senha";
+      this.txtAlinh21.F8ToolTipText = null;
+      this.txtAlinh21.F9ToolTipText = null;
+      this.txtAlinh21.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtAlinh21.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtAlinh21.IconF7")));
+      this.txtAlinh21.IconToolTipText = null;
+      this.txtAlinh21.Lines = new string[0];
+      this.txtAlinh21.Location = new System.Drawing.Point(501, -1);
+      this.txtAlinh21.MaxLength = 30;
+      this.txtAlinh21.Name = "txtAlinh21";
+      this.txtAlinh21.PasswordChar = '\0';
+      this.txtAlinh21.Propriedade = null;
+      this.txtAlinh21.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtAlinh21.SelectedText = "";
+      this.txtAlinh21.SelectionLength = 0;
+      this.txtAlinh21.SelectionStart = 0;
+      this.txtAlinh21.ShortcutsEnabled = false;
+      this.txtAlinh21.ShowButtonF7 = true;
+      this.txtAlinh21.Size = new System.Drawing.Size(150, 30);
+      this.txtAlinh21.TabIndex = 3;
+      this.txtAlinh21.UnderlinedStyle = false;
+      this.txtAlinh21.UseSelectable = true;
+      this.txtAlinh21.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtAlinh21.Valor_Decimais = ((short)(0));
+      this.txtAlinh21.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtAlinh21.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtNome21
+      // 
+      this.txtNome21.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtNome21.BorderRadius = 15;
+      this.txtNome21.BorderSize = 2;
+      this.txtNome21.F7ToolTipText = null;
+      this.txtNome21.F8ToolTipText = null;
+      this.txtNome21.F9ToolTipText = null;
+      this.txtNome21.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtNome21.IconF7 = null;
+      this.txtNome21.IconToolTipText = null;
+      this.txtNome21.Lines = new string[0];
+      this.txtNome21.Location = new System.Drawing.Point(3, 0);
+      this.txtNome21.MaxLength = 30;
+      this.txtNome21.Name = "txtNome21";
+      this.txtNome21.PasswordChar = '\0';
+      this.txtNome21.Propriedade = null;
+      this.txtNome21.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtNome21.SelectedText = "";
+      this.txtNome21.SelectionLength = 0;
+      this.txtNome21.SelectionStart = 0;
+      this.txtNome21.ShortcutsEnabled = true;
+      this.txtNome21.Size = new System.Drawing.Size(252, 30);
+      this.txtNome21.TabIndex = 0;
+      this.txtNome21.UnderlinedStyle = false;
+      this.txtNome21.UseSelectable = true;
+      this.txtNome21.Valor_Decimais = ((short)(0));
+      this.txtNome21.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtNome21.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtCalc21
+      // 
+      this.txtCalc21.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtCalc21.BorderRadius = 15;
+      this.txtCalc21.BorderSize = 2;
+      this.txtCalc21.F7ToolTipText = null;
+      this.txtCalc21.F8ToolTipText = null;
+      this.txtCalc21.F9ToolTipText = null;
+      this.txtCalc21.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtCalc21.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtCalc21.IconF7")));
+      this.txtCalc21.IconToolTipText = null;
+      this.txtCalc21.Lines = new string[0];
+      this.txtCalc21.Location = new System.Drawing.Point(657, -1);
+      this.txtCalc21.MaxLength = 30;
+      this.txtCalc21.Name = "txtCalc21";
+      this.txtCalc21.PasswordChar = '\0';
+      this.txtCalc21.Propriedade = null;
+      this.txtCalc21.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtCalc21.SelectedText = "";
+      this.txtCalc21.SelectionLength = 0;
+      this.txtCalc21.SelectionStart = 0;
+      this.txtCalc21.ShortcutsEnabled = true;
+      this.txtCalc21.ShowButtonF7 = true;
+      this.txtCalc21.Size = new System.Drawing.Size(99, 30);
+      this.txtCalc21.TabIndex = 4;
+      this.txtCalc21.UnderlinedStyle = false;
+      this.txtCalc21.UseSelectable = true;
+      this.txtCalc21.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtCalc21.Valor_Decimais = ((short)(0));
+      this.txtCalc21.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtCalc21.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // pnlCol22
+      // 
+      this.pnlCol22.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(223)))), ((int)(((byte)(228)))), ((int)(((byte)(233)))));
+      this.pnlCol22.Controls.Add(this.txtGerarGraf22);
+      this.pnlCol22.Controls.Add(this.btnCanc22);
+      this.pnlCol22.Controls.Add(this.btnAdd22);
+      this.pnlCol22.Controls.Add(this.txtLarg22);
+      this.pnlCol22.Controls.Add(this.txtTipo22);
+      this.pnlCol22.Controls.Add(this.txtAlinh22);
+      this.pnlCol22.Controls.Add(this.txtNome22);
+      this.pnlCol22.Controls.Add(this.txtCalc22);
+      this.pnlCol22.IsPanelMenu = false;
+      this.pnlCol22.Location = new System.Drawing.Point(1, 749);
+      this.pnlCol22.Margin = new System.Windows.Forms.Padding(1);
+      this.pnlCol22.Name = "pnlCol22";
+      this.pnlCol22.Size = new System.Drawing.Size(943, 32);
+      this.pnlCol22.TabIndex = 23;
+      this.pnlCol22.Visible = false;
+      // 
+      // txtGerarGraf22
+      // 
+      this.txtGerarGraf22.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtGerarGraf22.BorderRadius = 15;
+      this.txtGerarGraf22.BorderSize = 2;
+      this.txtGerarGraf22.F7ToolTipText = null;
+      this.txtGerarGraf22.F8ToolTipText = null;
+      this.txtGerarGraf22.F9ToolTipText = null;
+      this.txtGerarGraf22.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtGerarGraf22.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtGerarGraf22.IconF7")));
+      this.txtGerarGraf22.IconToolTipText = null;
+      this.txtGerarGraf22.Lines = new string[0];
+      this.txtGerarGraf22.Location = new System.Drawing.Point(762, 1);
+      this.txtGerarGraf22.MaxLength = 30;
+      this.txtGerarGraf22.Name = "txtGerarGraf22";
+      this.txtGerarGraf22.PasswordChar = '\0';
+      this.txtGerarGraf22.Propriedade = null;
+      this.txtGerarGraf22.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtGerarGraf22.SelectedText = "";
+      this.txtGerarGraf22.SelectionLength = 0;
+      this.txtGerarGraf22.SelectionStart = 0;
+      this.txtGerarGraf22.ShortcutsEnabled = true;
+      this.txtGerarGraf22.ShowButtonF7 = true;
+      this.txtGerarGraf22.Size = new System.Drawing.Size(99, 30);
+      this.txtGerarGraf22.TabIndex = 5;
+      this.txtGerarGraf22.UnderlinedStyle = false;
+      this.txtGerarGraf22.UseSelectable = true;
+      this.txtGerarGraf22.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtGerarGraf22.Valor_Decimais = ((short)(0));
+      this.txtGerarGraf22.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtGerarGraf22.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // btnCanc22
+      // 
+      this.btnCanc22.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+      this.btnCanc22.BorderColor = System.Drawing.Color.PaleVioletRed;
+      this.btnCanc22.BorderRadius = 15;
+      this.btnCanc22.BorderSize = 0;
+      this.btnCanc22.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+      this.btnCanc22.Image = ((System.Drawing.Image)(resources.GetObject("btnCanc22.Image")));
+      this.btnCanc22.Location = new System.Drawing.Point(904, 0);
+      this.btnCanc22.Margin = new System.Windows.Forms.Padding(1, 3, 1, 3);
+      this.btnCanc22.Name = "btnCanc22";
+      this.btnCanc22.Size = new System.Drawing.Size(30, 30);
+      this.btnCanc22.TabIndex = 7;
+      this.btnCanc22.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+      this.btnCanc22.UseVisualStyleBackColor = false;
+      this.btnCanc22.Click += new System.EventHandler(this.BtnCanc_Click);
+      // 
+      // btnAdd22
+      // 
+      this.btnAdd22.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+      this.btnAdd22.BorderColor = System.Drawing.Color.PaleVioletRed;
+      this.btnAdd22.BorderRadius = 15;
+      this.btnAdd22.BorderSize = 0;
+      this.btnAdd22.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+      this.btnAdd22.Image = ((System.Drawing.Image)(resources.GetObject("btnAdd22.Image")));
+      this.btnAdd22.Location = new System.Drawing.Point(872, 0);
+      this.btnAdd22.Margin = new System.Windows.Forms.Padding(1, 3, 1, 3);
+      this.btnAdd22.Name = "btnAdd22";
+      this.btnAdd22.Size = new System.Drawing.Size(30, 30);
+      this.btnAdd22.TabIndex = 6;
+      this.btnAdd22.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+      this.btnAdd22.UseVisualStyleBackColor = false;
+      this.btnAdd22.Click += new System.EventHandler(this.BtnAdd_Click);
+      // 
+      // txtLarg22
+      // 
+      this.txtLarg22.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtLarg22.BorderRadius = 15;
+      this.txtLarg22.BorderSize = 2;
+      this.txtLarg22.F7ToolTipText = null;
+      this.txtLarg22.F8ToolTipText = null;
+      this.txtLarg22.F9ToolTipText = null;
+      this.txtLarg22.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtLarg22.IconF7 = null;
+      this.txtLarg22.IconToolTipText = null;
+      this.txtLarg22.Lines = new string[0];
+      this.txtLarg22.Location = new System.Drawing.Point(419, 0);
+      this.txtLarg22.MaxLength = 30;
+      this.txtLarg22.Name = "txtLarg22";
+      this.txtLarg22.PasswordChar = '\0';
+      this.txtLarg22.Propriedade = null;
+      this.txtLarg22.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtLarg22.SelectedText = "";
+      this.txtLarg22.SelectionLength = 0;
+      this.txtLarg22.SelectionStart = 0;
+      this.txtLarg22.ShortcutsEnabled = true;
+      this.txtLarg22.Size = new System.Drawing.Size(76, 30);
+      this.txtLarg22.TabIndex = 2;
+      this.txtLarg22.UnderlinedStyle = false;
+      this.txtLarg22.UseSelectable = true;
+      this.txtLarg22.Valor = LmCorbieUI.Design.LmValueType.Num_Inteiro;
+      this.txtLarg22.Valor_Decimais = ((short)(0));
+      this.txtLarg22.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtLarg22.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtTipo22
+      // 
+      this.txtTipo22.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtTipo22.BorderRadius = 15;
+      this.txtTipo22.BorderSize = 2;
+      this.txtTipo22.F7ToolTipText = null;
+      this.txtTipo22.F8ToolTipText = null;
+      this.txtTipo22.F9ToolTipText = null;
+      this.txtTipo22.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtTipo22.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtTipo22.IconF7")));
+      this.txtTipo22.IconToolTipText = null;
+      this.txtTipo22.Lines = new string[0];
+      this.txtTipo22.Location = new System.Drawing.Point(261, 0);
+      this.txtTipo22.MaxLength = 30;
+      this.txtTipo22.Name = "txtTipo22";
+      this.txtTipo22.PasswordChar = '\0';
+      this.txtTipo22.Propriedade = null;
+      this.txtTipo22.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtTipo22.SelectedText = "";
+      this.txtTipo22.SelectionLength = 0;
+      this.txtTipo22.SelectionStart = 0;
+      this.txtTipo22.ShortcutsEnabled = true;
+      this.txtTipo22.ShowButtonF7 = true;
+      this.txtTipo22.Size = new System.Drawing.Size(152, 30);
+      this.txtTipo22.TabIndex = 1;
+      this.txtTipo22.UnderlinedStyle = false;
+      this.txtTipo22.UseSelectable = true;
+      this.txtTipo22.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtTipo22.Valor_Decimais = ((short)(0));
+      this.txtTipo22.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtTipo22.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtAlinh22
+      // 
+      this.txtAlinh22.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtAlinh22.BorderRadius = 15;
+      this.txtAlinh22.BorderSize = 2;
+      this.txtAlinh22.F7ToolTipText = "Exibir Senha";
+      this.txtAlinh22.F8ToolTipText = null;
+      this.txtAlinh22.F9ToolTipText = null;
+      this.txtAlinh22.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtAlinh22.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtAlinh22.IconF7")));
+      this.txtAlinh22.IconToolTipText = null;
+      this.txtAlinh22.Lines = new string[0];
+      this.txtAlinh22.Location = new System.Drawing.Point(501, -1);
+      this.txtAlinh22.MaxLength = 30;
+      this.txtAlinh22.Name = "txtAlinh22";
+      this.txtAlinh22.PasswordChar = '\0';
+      this.txtAlinh22.Propriedade = null;
+      this.txtAlinh22.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtAlinh22.SelectedText = "";
+      this.txtAlinh22.SelectionLength = 0;
+      this.txtAlinh22.SelectionStart = 0;
+      this.txtAlinh22.ShortcutsEnabled = false;
+      this.txtAlinh22.ShowButtonF7 = true;
+      this.txtAlinh22.Size = new System.Drawing.Size(150, 30);
+      this.txtAlinh22.TabIndex = 3;
+      this.txtAlinh22.UnderlinedStyle = false;
+      this.txtAlinh22.UseSelectable = true;
+      this.txtAlinh22.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtAlinh22.Valor_Decimais = ((short)(0));
+      this.txtAlinh22.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtAlinh22.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtNome22
+      // 
+      this.txtNome22.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtNome22.BorderRadius = 15;
+      this.txtNome22.BorderSize = 2;
+      this.txtNome22.F7ToolTipText = null;
+      this.txtNome22.F8ToolTipText = null;
+      this.txtNome22.F9ToolTipText = null;
+      this.txtNome22.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtNome22.IconF7 = null;
+      this.txtNome22.IconToolTipText = null;
+      this.txtNome22.Lines = new string[0];
+      this.txtNome22.Location = new System.Drawing.Point(3, 0);
+      this.txtNome22.MaxLength = 30;
+      this.txtNome22.Name = "txtNome22";
+      this.txtNome22.PasswordChar = '\0';
+      this.txtNome22.Propriedade = null;
+      this.txtNome22.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtNome22.SelectedText = "";
+      this.txtNome22.SelectionLength = 0;
+      this.txtNome22.SelectionStart = 0;
+      this.txtNome22.ShortcutsEnabled = true;
+      this.txtNome22.Size = new System.Drawing.Size(252, 30);
+      this.txtNome22.TabIndex = 0;
+      this.txtNome22.UnderlinedStyle = false;
+      this.txtNome22.UseSelectable = true;
+      this.txtNome22.Valor_Decimais = ((short)(0));
+      this.txtNome22.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtNome22.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtCalc22
+      // 
+      this.txtCalc22.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtCalc22.BorderRadius = 15;
+      this.txtCalc22.BorderSize = 2;
+      this.txtCalc22.F7ToolTipText = null;
+      this.txtCalc22.F8ToolTipText = null;
+      this.txtCalc22.F9ToolTipText = null;
+      this.txtCalc22.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtCalc22.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtCalc22.IconF7")));
+      this.txtCalc22.IconToolTipText = null;
+      this.txtCalc22.Lines = new string[0];
+      this.txtCalc22.Location = new System.Drawing.Point(657, -1);
+      this.txtCalc22.MaxLength = 30;
+      this.txtCalc22.Name = "txtCalc22";
+      this.txtCalc22.PasswordChar = '\0';
+      this.txtCalc22.Propriedade = null;
+      this.txtCalc22.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtCalc22.SelectedText = "";
+      this.txtCalc22.SelectionLength = 0;
+      this.txtCalc22.SelectionStart = 0;
+      this.txtCalc22.ShortcutsEnabled = true;
+      this.txtCalc22.ShowButtonF7 = true;
+      this.txtCalc22.Size = new System.Drawing.Size(99, 30);
+      this.txtCalc22.TabIndex = 4;
+      this.txtCalc22.UnderlinedStyle = false;
+      this.txtCalc22.UseSelectable = true;
+      this.txtCalc22.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtCalc22.Valor_Decimais = ((short)(0));
+      this.txtCalc22.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtCalc22.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // pnlCol23
+      // 
+      this.pnlCol23.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(223)))), ((int)(((byte)(228)))), ((int)(((byte)(233)))));
+      this.pnlCol23.Controls.Add(this.txtGerarGraf23);
+      this.pnlCol23.Controls.Add(this.btnCanc23);
+      this.pnlCol23.Controls.Add(this.btnAdd23);
+      this.pnlCol23.Controls.Add(this.txtLarg23);
+      this.pnlCol23.Controls.Add(this.txtTipo23);
+      this.pnlCol23.Controls.Add(this.txtAlinh23);
+      this.pnlCol23.Controls.Add(this.txtNome23);
+      this.pnlCol23.Controls.Add(this.txtCalc23);
+      this.pnlCol23.IsPanelMenu = false;
+      this.pnlCol23.Location = new System.Drawing.Point(1, 783);
+      this.pnlCol23.Margin = new System.Windows.Forms.Padding(1);
+      this.pnlCol23.Name = "pnlCol23";
+      this.pnlCol23.Size = new System.Drawing.Size(943, 32);
+      this.pnlCol23.TabIndex = 24;
+      this.pnlCol23.Visible = false;
+      // 
+      // txtGerarGraf23
+      // 
+      this.txtGerarGraf23.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtGerarGraf23.BorderRadius = 15;
+      this.txtGerarGraf23.BorderSize = 2;
+      this.txtGerarGraf23.F7ToolTipText = null;
+      this.txtGerarGraf23.F8ToolTipText = null;
+      this.txtGerarGraf23.F9ToolTipText = null;
+      this.txtGerarGraf23.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtGerarGraf23.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtGerarGraf23.IconF7")));
+      this.txtGerarGraf23.IconToolTipText = null;
+      this.txtGerarGraf23.Lines = new string[0];
+      this.txtGerarGraf23.Location = new System.Drawing.Point(762, 1);
+      this.txtGerarGraf23.MaxLength = 30;
+      this.txtGerarGraf23.Name = "txtGerarGraf23";
+      this.txtGerarGraf23.PasswordChar = '\0';
+      this.txtGerarGraf23.Propriedade = null;
+      this.txtGerarGraf23.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtGerarGraf23.SelectedText = "";
+      this.txtGerarGraf23.SelectionLength = 0;
+      this.txtGerarGraf23.SelectionStart = 0;
+      this.txtGerarGraf23.ShortcutsEnabled = true;
+      this.txtGerarGraf23.ShowButtonF7 = true;
+      this.txtGerarGraf23.Size = new System.Drawing.Size(99, 30);
+      this.txtGerarGraf23.TabIndex = 5;
+      this.txtGerarGraf23.UnderlinedStyle = false;
+      this.txtGerarGraf23.UseSelectable = true;
+      this.txtGerarGraf23.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtGerarGraf23.Valor_Decimais = ((short)(0));
+      this.txtGerarGraf23.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtGerarGraf23.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // btnCanc23
+      // 
+      this.btnCanc23.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+      this.btnCanc23.BorderColor = System.Drawing.Color.PaleVioletRed;
+      this.btnCanc23.BorderRadius = 15;
+      this.btnCanc23.BorderSize = 0;
+      this.btnCanc23.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+      this.btnCanc23.Image = ((System.Drawing.Image)(resources.GetObject("btnCanc23.Image")));
+      this.btnCanc23.Location = new System.Drawing.Point(904, 0);
+      this.btnCanc23.Margin = new System.Windows.Forms.Padding(1, 3, 1, 3);
+      this.btnCanc23.Name = "btnCanc23";
+      this.btnCanc23.Size = new System.Drawing.Size(30, 30);
+      this.btnCanc23.TabIndex = 7;
+      this.btnCanc23.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+      this.btnCanc23.UseVisualStyleBackColor = false;
+      this.btnCanc23.Click += new System.EventHandler(this.BtnCanc_Click);
+      // 
+      // btnAdd23
+      // 
+      this.btnAdd23.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+      this.btnAdd23.BorderColor = System.Drawing.Color.PaleVioletRed;
+      this.btnAdd23.BorderRadius = 15;
+      this.btnAdd23.BorderSize = 0;
+      this.btnAdd23.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+      this.btnAdd23.Image = ((System.Drawing.Image)(resources.GetObject("btnAdd23.Image")));
+      this.btnAdd23.Location = new System.Drawing.Point(872, 0);
+      this.btnAdd23.Margin = new System.Windows.Forms.Padding(1, 3, 1, 3);
+      this.btnAdd23.Name = "btnAdd23";
+      this.btnAdd23.Size = new System.Drawing.Size(30, 30);
+      this.btnAdd23.TabIndex = 6;
+      this.btnAdd23.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+      this.btnAdd23.UseVisualStyleBackColor = false;
+      this.btnAdd23.Click += new System.EventHandler(this.BtnAdd_Click);
+      // 
+      // txtLarg23
+      // 
+      this.txtLarg23.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtLarg23.BorderRadius = 15;
+      this.txtLarg23.BorderSize = 2;
+      this.txtLarg23.F7ToolTipText = null;
+      this.txtLarg23.F8ToolTipText = null;
+      this.txtLarg23.F9ToolTipText = null;
+      this.txtLarg23.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtLarg23.IconF7 = null;
+      this.txtLarg23.IconToolTipText = null;
+      this.txtLarg23.Lines = new string[0];
+      this.txtLarg23.Location = new System.Drawing.Point(419, 0);
+      this.txtLarg23.MaxLength = 30;
+      this.txtLarg23.Name = "txtLarg23";
+      this.txtLarg23.PasswordChar = '\0';
+      this.txtLarg23.Propriedade = null;
+      this.txtLarg23.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtLarg23.SelectedText = "";
+      this.txtLarg23.SelectionLength = 0;
+      this.txtLarg23.SelectionStart = 0;
+      this.txtLarg23.ShortcutsEnabled = true;
+      this.txtLarg23.Size = new System.Drawing.Size(76, 30);
+      this.txtLarg23.TabIndex = 2;
+      this.txtLarg23.UnderlinedStyle = false;
+      this.txtLarg23.UseSelectable = true;
+      this.txtLarg23.Valor = LmCorbieUI.Design.LmValueType.Num_Inteiro;
+      this.txtLarg23.Valor_Decimais = ((short)(0));
+      this.txtLarg23.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtLarg23.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtTipo23
+      // 
+      this.txtTipo23.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtTipo23.BorderRadius = 15;
+      this.txtTipo23.BorderSize = 2;
+      this.txtTipo23.F7ToolTipText = null;
+      this.txtTipo23.F8ToolTipText = null;
+      this.txtTipo23.F9ToolTipText = null;
+      this.txtTipo23.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtTipo23.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtTipo23.IconF7")));
+      this.txtTipo23.IconToolTipText = null;
+      this.txtTipo23.Lines = new string[0];
+      this.txtTipo23.Location = new System.Drawing.Point(261, 0);
+      this.txtTipo23.MaxLength = 30;
+      this.txtTipo23.Name = "txtTipo23";
+      this.txtTipo23.PasswordChar = '\0';
+      this.txtTipo23.Propriedade = null;
+      this.txtTipo23.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtTipo23.SelectedText = "";
+      this.txtTipo23.SelectionLength = 0;
+      this.txtTipo23.SelectionStart = 0;
+      this.txtTipo23.ShortcutsEnabled = true;
+      this.txtTipo23.ShowButtonF7 = true;
+      this.txtTipo23.Size = new System.Drawing.Size(152, 30);
+      this.txtTipo23.TabIndex = 1;
+      this.txtTipo23.UnderlinedStyle = false;
+      this.txtTipo23.UseSelectable = true;
+      this.txtTipo23.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtTipo23.Valor_Decimais = ((short)(0));
+      this.txtTipo23.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtTipo23.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtAlinh23
+      // 
+      this.txtAlinh23.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtAlinh23.BorderRadius = 15;
+      this.txtAlinh23.BorderSize = 2;
+      this.txtAlinh23.F7ToolTipText = "Exibir Senha";
+      this.txtAlinh23.F8ToolTipText = null;
+      this.txtAlinh23.F9ToolTipText = null;
+      this.txtAlinh23.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtAlinh23.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtAlinh23.IconF7")));
+      this.txtAlinh23.IconToolTipText = null;
+      this.txtAlinh23.Lines = new string[0];
+      this.txtAlinh23.Location = new System.Drawing.Point(501, -1);
+      this.txtAlinh23.MaxLength = 30;
+      this.txtAlinh23.Name = "txtAlinh23";
+      this.txtAlinh23.PasswordChar = '\0';
+      this.txtAlinh23.Propriedade = null;
+      this.txtAlinh23.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtAlinh23.SelectedText = "";
+      this.txtAlinh23.SelectionLength = 0;
+      this.txtAlinh23.SelectionStart = 0;
+      this.txtAlinh23.ShortcutsEnabled = false;
+      this.txtAlinh23.ShowButtonF7 = true;
+      this.txtAlinh23.Size = new System.Drawing.Size(150, 30);
+      this.txtAlinh23.TabIndex = 3;
+      this.txtAlinh23.UnderlinedStyle = false;
+      this.txtAlinh23.UseSelectable = true;
+      this.txtAlinh23.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtAlinh23.Valor_Decimais = ((short)(0));
+      this.txtAlinh23.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtAlinh23.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtNome23
+      // 
+      this.txtNome23.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtNome23.BorderRadius = 15;
+      this.txtNome23.BorderSize = 2;
+      this.txtNome23.F7ToolTipText = null;
+      this.txtNome23.F8ToolTipText = null;
+      this.txtNome23.F9ToolTipText = null;
+      this.txtNome23.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtNome23.IconF7 = null;
+      this.txtNome23.IconToolTipText = null;
+      this.txtNome23.Lines = new string[0];
+      this.txtNome23.Location = new System.Drawing.Point(3, 0);
+      this.txtNome23.MaxLength = 30;
+      this.txtNome23.Name = "txtNome23";
+      this.txtNome23.PasswordChar = '\0';
+      this.txtNome23.Propriedade = null;
+      this.txtNome23.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtNome23.SelectedText = "";
+      this.txtNome23.SelectionLength = 0;
+      this.txtNome23.SelectionStart = 0;
+      this.txtNome23.ShortcutsEnabled = true;
+      this.txtNome23.Size = new System.Drawing.Size(252, 30);
+      this.txtNome23.TabIndex = 0;
+      this.txtNome23.UnderlinedStyle = false;
+      this.txtNome23.UseSelectable = true;
+      this.txtNome23.Valor_Decimais = ((short)(0));
+      this.txtNome23.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtNome23.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtCalc23
+      // 
+      this.txtCalc23.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtCalc23.BorderRadius = 15;
+      this.txtCalc23.BorderSize = 2;
+      this.txtCalc23.F7ToolTipText = null;
+      this.txtCalc23.F8ToolTipText = null;
+      this.txtCalc23.F9ToolTipText = null;
+      this.txtCalc23.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtCalc23.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtCalc23.IconF7")));
+      this.txtCalc23.IconToolTipText = null;
+      this.txtCalc23.Lines = new string[0];
+      this.txtCalc23.Location = new System.Drawing.Point(657, -1);
+      this.txtCalc23.MaxLength = 30;
+      this.txtCalc23.Name = "txtCalc23";
+      this.txtCalc23.PasswordChar = '\0';
+      this.txtCalc23.Propriedade = null;
+      this.txtCalc23.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtCalc23.SelectedText = "";
+      this.txtCalc23.SelectionLength = 0;
+      this.txtCalc23.SelectionStart = 0;
+      this.txtCalc23.ShortcutsEnabled = true;
+      this.txtCalc23.ShowButtonF7 = true;
+      this.txtCalc23.Size = new System.Drawing.Size(99, 30);
+      this.txtCalc23.TabIndex = 4;
+      this.txtCalc23.UnderlinedStyle = false;
+      this.txtCalc23.UseSelectable = true;
+      this.txtCalc23.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtCalc23.Valor_Decimais = ((short)(0));
+      this.txtCalc23.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtCalc23.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // pnlCol24
+      // 
+      this.pnlCol24.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(223)))), ((int)(((byte)(228)))), ((int)(((byte)(233)))));
+      this.pnlCol24.Controls.Add(this.txtGerarGraf24);
+      this.pnlCol24.Controls.Add(this.btnCanc24);
+      this.pnlCol24.Controls.Add(this.btnAdd24);
+      this.pnlCol24.Controls.Add(this.txtLarg24);
+      this.pnlCol24.Controls.Add(this.txtTipo24);
+      this.pnlCol24.Controls.Add(this.txtAlinh24);
+      this.pnlCol24.Controls.Add(this.txtNome24);
+      this.pnlCol24.Controls.Add(this.txtCalc24);
+      this.pnlCol24.IsPanelMenu = false;
+      this.pnlCol24.Location = new System.Drawing.Point(1, 817);
+      this.pnlCol24.Margin = new System.Windows.Forms.Padding(1);
+      this.pnlCol24.Name = "pnlCol24";
+      this.pnlCol24.Size = new System.Drawing.Size(943, 32);
+      this.pnlCol24.TabIndex = 25;
+      this.pnlCol24.Visible = false;
+      // 
+      // txtGerarGraf24
+      // 
+      this.txtGerarGraf24.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtGerarGraf24.BorderRadius = 15;
+      this.txtGerarGraf24.BorderSize = 2;
+      this.txtGerarGraf24.F7ToolTipText = null;
+      this.txtGerarGraf24.F8ToolTipText = null;
+      this.txtGerarGraf24.F9ToolTipText = null;
+      this.txtGerarGraf24.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtGerarGraf24.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtGerarGraf24.IconF7")));
+      this.txtGerarGraf24.IconToolTipText = null;
+      this.txtGerarGraf24.Lines = new string[0];
+      this.txtGerarGraf24.Location = new System.Drawing.Point(762, 1);
+      this.txtGerarGraf24.MaxLength = 30;
+      this.txtGerarGraf24.Name = "txtGerarGraf24";
+      this.txtGerarGraf24.PasswordChar = '\0';
+      this.txtGerarGraf24.Propriedade = null;
+      this.txtGerarGraf24.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtGerarGraf24.SelectedText = "";
+      this.txtGerarGraf24.SelectionLength = 0;
+      this.txtGerarGraf24.SelectionStart = 0;
+      this.txtGerarGraf24.ShortcutsEnabled = true;
+      this.txtGerarGraf24.ShowButtonF7 = true;
+      this.txtGerarGraf24.Size = new System.Drawing.Size(99, 30);
+      this.txtGerarGraf24.TabIndex = 5;
+      this.txtGerarGraf24.UnderlinedStyle = false;
+      this.txtGerarGraf24.UseSelectable = true;
+      this.txtGerarGraf24.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtGerarGraf24.Valor_Decimais = ((short)(0));
+      this.txtGerarGraf24.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtGerarGraf24.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // btnCanc24
+      // 
+      this.btnCanc24.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+      this.btnCanc24.BorderColor = System.Drawing.Color.PaleVioletRed;
+      this.btnCanc24.BorderRadius = 15;
+      this.btnCanc24.BorderSize = 0;
+      this.btnCanc24.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+      this.btnCanc24.Image = ((System.Drawing.Image)(resources.GetObject("btnCanc24.Image")));
+      this.btnCanc24.Location = new System.Drawing.Point(904, 0);
+      this.btnCanc24.Margin = new System.Windows.Forms.Padding(1, 3, 1, 3);
+      this.btnCanc24.Name = "btnCanc24";
+      this.btnCanc24.Size = new System.Drawing.Size(30, 30);
+      this.btnCanc24.TabIndex = 7;
+      this.btnCanc24.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+      this.btnCanc24.UseVisualStyleBackColor = false;
+      this.btnCanc24.Click += new System.EventHandler(this.BtnCanc_Click);
+      // 
+      // btnAdd24
+      // 
+      this.btnAdd24.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+      this.btnAdd24.BorderColor = System.Drawing.Color.PaleVioletRed;
+      this.btnAdd24.BorderRadius = 15;
+      this.btnAdd24.BorderSize = 0;
+      this.btnAdd24.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+      this.btnAdd24.Image = ((System.Drawing.Image)(resources.GetObject("btnAdd24.Image")));
+      this.btnAdd24.Location = new System.Drawing.Point(872, 0);
+      this.btnAdd24.Margin = new System.Windows.Forms.Padding(1, 3, 1, 3);
+      this.btnAdd24.Name = "btnAdd24";
+      this.btnAdd24.Size = new System.Drawing.Size(30, 30);
+      this.btnAdd24.TabIndex = 6;
+      this.btnAdd24.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+      this.btnAdd24.UseVisualStyleBackColor = false;
+      this.btnAdd24.Click += new System.EventHandler(this.BtnAdd_Click);
+      // 
+      // txtLarg24
+      // 
+      this.txtLarg24.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtLarg24.BorderRadius = 15;
+      this.txtLarg24.BorderSize = 2;
+      this.txtLarg24.F7ToolTipText = null;
+      this.txtLarg24.F8ToolTipText = null;
+      this.txtLarg24.F9ToolTipText = null;
+      this.txtLarg24.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtLarg24.IconF7 = null;
+      this.txtLarg24.IconToolTipText = null;
+      this.txtLarg24.Lines = new string[0];
+      this.txtLarg24.Location = new System.Drawing.Point(419, 0);
+      this.txtLarg24.MaxLength = 30;
+      this.txtLarg24.Name = "txtLarg24";
+      this.txtLarg24.PasswordChar = '\0';
+      this.txtLarg24.Propriedade = null;
+      this.txtLarg24.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtLarg24.SelectedText = "";
+      this.txtLarg24.SelectionLength = 0;
+      this.txtLarg24.SelectionStart = 0;
+      this.txtLarg24.ShortcutsEnabled = true;
+      this.txtLarg24.Size = new System.Drawing.Size(76, 30);
+      this.txtLarg24.TabIndex = 2;
+      this.txtLarg24.UnderlinedStyle = false;
+      this.txtLarg24.UseSelectable = true;
+      this.txtLarg24.Valor = LmCorbieUI.Design.LmValueType.Num_Inteiro;
+      this.txtLarg24.Valor_Decimais = ((short)(0));
+      this.txtLarg24.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtLarg24.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtTipo24
+      // 
+      this.txtTipo24.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtTipo24.BorderRadius = 15;
+      this.txtTipo24.BorderSize = 2;
+      this.txtTipo24.F7ToolTipText = null;
+      this.txtTipo24.F8ToolTipText = null;
+      this.txtTipo24.F9ToolTipText = null;
+      this.txtTipo24.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtTipo24.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtTipo24.IconF7")));
+      this.txtTipo24.IconToolTipText = null;
+      this.txtTipo24.Lines = new string[0];
+      this.txtTipo24.Location = new System.Drawing.Point(261, 0);
+      this.txtTipo24.MaxLength = 30;
+      this.txtTipo24.Name = "txtTipo24";
+      this.txtTipo24.PasswordChar = '\0';
+      this.txtTipo24.Propriedade = null;
+      this.txtTipo24.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtTipo24.SelectedText = "";
+      this.txtTipo24.SelectionLength = 0;
+      this.txtTipo24.SelectionStart = 0;
+      this.txtTipo24.ShortcutsEnabled = true;
+      this.txtTipo24.ShowButtonF7 = true;
+      this.txtTipo24.Size = new System.Drawing.Size(152, 30);
+      this.txtTipo24.TabIndex = 1;
+      this.txtTipo24.UnderlinedStyle = false;
+      this.txtTipo24.UseSelectable = true;
+      this.txtTipo24.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtTipo24.Valor_Decimais = ((short)(0));
+      this.txtTipo24.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtTipo24.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtAlinh24
+      // 
+      this.txtAlinh24.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtAlinh24.BorderRadius = 15;
+      this.txtAlinh24.BorderSize = 2;
+      this.txtAlinh24.F7ToolTipText = "Exibir Senha";
+      this.txtAlinh24.F8ToolTipText = null;
+      this.txtAlinh24.F9ToolTipText = null;
+      this.txtAlinh24.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtAlinh24.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtAlinh24.IconF7")));
+      this.txtAlinh24.IconToolTipText = null;
+      this.txtAlinh24.Lines = new string[0];
+      this.txtAlinh24.Location = new System.Drawing.Point(501, -1);
+      this.txtAlinh24.MaxLength = 30;
+      this.txtAlinh24.Name = "txtAlinh24";
+      this.txtAlinh24.PasswordChar = '\0';
+      this.txtAlinh24.Propriedade = null;
+      this.txtAlinh24.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtAlinh24.SelectedText = "";
+      this.txtAlinh24.SelectionLength = 0;
+      this.txtAlinh24.SelectionStart = 0;
+      this.txtAlinh24.ShortcutsEnabled = false;
+      this.txtAlinh24.ShowButtonF7 = true;
+      this.txtAlinh24.Size = new System.Drawing.Size(150, 30);
+      this.txtAlinh24.TabIndex = 3;
+      this.txtAlinh24.UnderlinedStyle = false;
+      this.txtAlinh24.UseSelectable = true;
+      this.txtAlinh24.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtAlinh24.Valor_Decimais = ((short)(0));
+      this.txtAlinh24.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtAlinh24.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtNome24
+      // 
+      this.txtNome24.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtNome24.BorderRadius = 15;
+      this.txtNome24.BorderSize = 2;
+      this.txtNome24.F7ToolTipText = null;
+      this.txtNome24.F8ToolTipText = null;
+      this.txtNome24.F9ToolTipText = null;
+      this.txtNome24.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtNome24.IconF7 = null;
+      this.txtNome24.IconToolTipText = null;
+      this.txtNome24.Lines = new string[0];
+      this.txtNome24.Location = new System.Drawing.Point(3, 0);
+      this.txtNome24.MaxLength = 30;
+      this.txtNome24.Name = "txtNome24";
+      this.txtNome24.PasswordChar = '\0';
+      this.txtNome24.Propriedade = null;
+      this.txtNome24.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtNome24.SelectedText = "";
+      this.txtNome24.SelectionLength = 0;
+      this.txtNome24.SelectionStart = 0;
+      this.txtNome24.ShortcutsEnabled = true;
+      this.txtNome24.Size = new System.Drawing.Size(252, 30);
+      this.txtNome24.TabIndex = 0;
+      this.txtNome24.UnderlinedStyle = false;
+      this.txtNome24.UseSelectable = true;
+      this.txtNome24.Valor_Decimais = ((short)(0));
+      this.txtNome24.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtNome24.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtCalc24
+      // 
+      this.txtCalc24.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtCalc24.BorderRadius = 15;
+      this.txtCalc24.BorderSize = 2;
+      this.txtCalc24.F7ToolTipText = null;
+      this.txtCalc24.F8ToolTipText = null;
+      this.txtCalc24.F9ToolTipText = null;
+      this.txtCalc24.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtCalc24.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtCalc24.IconF7")));
+      this.txtCalc24.IconToolTipText = null;
+      this.txtCalc24.Lines = new string[0];
+      this.txtCalc24.Location = new System.Drawing.Point(657, -1);
+      this.txtCalc24.MaxLength = 30;
+      this.txtCalc24.Name = "txtCalc24";
+      this.txtCalc24.PasswordChar = '\0';
+      this.txtCalc24.Propriedade = null;
+      this.txtCalc24.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtCalc24.SelectedText = "";
+      this.txtCalc24.SelectionLength = 0;
+      this.txtCalc24.SelectionStart = 0;
+      this.txtCalc24.ShortcutsEnabled = true;
+      this.txtCalc24.ShowButtonF7 = true;
+      this.txtCalc24.Size = new System.Drawing.Size(99, 30);
+      this.txtCalc24.TabIndex = 4;
+      this.txtCalc24.UnderlinedStyle = false;
+      this.txtCalc24.UseSelectable = true;
+      this.txtCalc24.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtCalc24.Valor_Decimais = ((short)(0));
+      this.txtCalc24.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtCalc24.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // pnlCol25
+      // 
+      this.pnlCol25.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(223)))), ((int)(((byte)(228)))), ((int)(((byte)(233)))));
+      this.pnlCol25.Controls.Add(this.txtGerarGraf25);
+      this.pnlCol25.Controls.Add(this.btnCanc25);
+      this.pnlCol25.Controls.Add(this.btnAdd25);
+      this.pnlCol25.Controls.Add(this.txtLarg25);
+      this.pnlCol25.Controls.Add(this.txtTipo25);
+      this.pnlCol25.Controls.Add(this.txtAlinh25);
+      this.pnlCol25.Controls.Add(this.txtNome25);
+      this.pnlCol25.Controls.Add(this.txtCalc25);
+      this.pnlCol25.IsPanelMenu = false;
+      this.pnlCol25.Location = new System.Drawing.Point(1, 851);
+      this.pnlCol25.Margin = new System.Windows.Forms.Padding(1);
+      this.pnlCol25.Name = "pnlCol25";
+      this.pnlCol25.Size = new System.Drawing.Size(943, 32);
+      this.pnlCol25.TabIndex = 26;
+      this.pnlCol25.Visible = false;
+      // 
+      // txtGerarGraf25
+      // 
+      this.txtGerarGraf25.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtGerarGraf25.BorderRadius = 15;
+      this.txtGerarGraf25.BorderSize = 2;
+      this.txtGerarGraf25.F7ToolTipText = null;
+      this.txtGerarGraf25.F8ToolTipText = null;
+      this.txtGerarGraf25.F9ToolTipText = null;
+      this.txtGerarGraf25.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtGerarGraf25.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtGerarGraf25.IconF7")));
+      this.txtGerarGraf25.IconToolTipText = null;
+      this.txtGerarGraf25.Lines = new string[0];
+      this.txtGerarGraf25.Location = new System.Drawing.Point(762, 1);
+      this.txtGerarGraf25.MaxLength = 30;
+      this.txtGerarGraf25.Name = "txtGerarGraf25";
+      this.txtGerarGraf25.PasswordChar = '\0';
+      this.txtGerarGraf25.Propriedade = null;
+      this.txtGerarGraf25.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtGerarGraf25.SelectedText = "";
+      this.txtGerarGraf25.SelectionLength = 0;
+      this.txtGerarGraf25.SelectionStart = 0;
+      this.txtGerarGraf25.ShortcutsEnabled = true;
+      this.txtGerarGraf25.ShowButtonF7 = true;
+      this.txtGerarGraf25.Size = new System.Drawing.Size(99, 30);
+      this.txtGerarGraf25.TabIndex = 5;
+      this.txtGerarGraf25.UnderlinedStyle = false;
+      this.txtGerarGraf25.UseSelectable = true;
+      this.txtGerarGraf25.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtGerarGraf25.Valor_Decimais = ((short)(0));
+      this.txtGerarGraf25.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtGerarGraf25.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // btnCanc25
+      // 
+      this.btnCanc25.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+      this.btnCanc25.BorderColor = System.Drawing.Color.PaleVioletRed;
+      this.btnCanc25.BorderRadius = 15;
+      this.btnCanc25.BorderSize = 0;
+      this.btnCanc25.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+      this.btnCanc25.Image = ((System.Drawing.Image)(resources.GetObject("btnCanc25.Image")));
+      this.btnCanc25.Location = new System.Drawing.Point(904, 0);
+      this.btnCanc25.Margin = new System.Windows.Forms.Padding(1, 3, 1, 3);
+      this.btnCanc25.Name = "btnCanc25";
+      this.btnCanc25.Size = new System.Drawing.Size(30, 30);
+      this.btnCanc25.TabIndex = 7;
+      this.btnCanc25.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+      this.btnCanc25.UseVisualStyleBackColor = false;
+      this.btnCanc25.Click += new System.EventHandler(this.BtnCanc_Click);
+      // 
+      // btnAdd25
+      // 
+      this.btnAdd25.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+      this.btnAdd25.BorderColor = System.Drawing.Color.PaleVioletRed;
+      this.btnAdd25.BorderRadius = 15;
+      this.btnAdd25.BorderSize = 0;
+      this.btnAdd25.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+      this.btnAdd25.Image = ((System.Drawing.Image)(resources.GetObject("btnAdd25.Image")));
+      this.btnAdd25.Location = new System.Drawing.Point(872, 0);
+      this.btnAdd25.Margin = new System.Windows.Forms.Padding(1, 3, 1, 3);
+      this.btnAdd25.Name = "btnAdd25";
+      this.btnAdd25.Size = new System.Drawing.Size(30, 30);
+      this.btnAdd25.TabIndex = 6;
+      this.btnAdd25.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+      this.btnAdd25.UseVisualStyleBackColor = false;
+      this.btnAdd25.Click += new System.EventHandler(this.BtnAdd_Click);
+      // 
+      // txtLarg25
+      // 
+      this.txtLarg25.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtLarg25.BorderRadius = 15;
+      this.txtLarg25.BorderSize = 2;
+      this.txtLarg25.F7ToolTipText = null;
+      this.txtLarg25.F8ToolTipText = null;
+      this.txtLarg25.F9ToolTipText = null;
+      this.txtLarg25.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtLarg25.IconF7 = null;
+      this.txtLarg25.IconToolTipText = null;
+      this.txtLarg25.Lines = new string[0];
+      this.txtLarg25.Location = new System.Drawing.Point(419, 0);
+      this.txtLarg25.MaxLength = 30;
+      this.txtLarg25.Name = "txtLarg25";
+      this.txtLarg25.PasswordChar = '\0';
+      this.txtLarg25.Propriedade = null;
+      this.txtLarg25.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtLarg25.SelectedText = "";
+      this.txtLarg25.SelectionLength = 0;
+      this.txtLarg25.SelectionStart = 0;
+      this.txtLarg25.ShortcutsEnabled = true;
+      this.txtLarg25.Size = new System.Drawing.Size(76, 30);
+      this.txtLarg25.TabIndex = 2;
+      this.txtLarg25.UnderlinedStyle = false;
+      this.txtLarg25.UseSelectable = true;
+      this.txtLarg25.Valor = LmCorbieUI.Design.LmValueType.Num_Inteiro;
+      this.txtLarg25.Valor_Decimais = ((short)(0));
+      this.txtLarg25.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtLarg25.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtTipo25
+      // 
+      this.txtTipo25.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtTipo25.BorderRadius = 15;
+      this.txtTipo25.BorderSize = 2;
+      this.txtTipo25.F7ToolTipText = null;
+      this.txtTipo25.F8ToolTipText = null;
+      this.txtTipo25.F9ToolTipText = null;
+      this.txtTipo25.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtTipo25.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtTipo25.IconF7")));
+      this.txtTipo25.IconToolTipText = null;
+      this.txtTipo25.Lines = new string[0];
+      this.txtTipo25.Location = new System.Drawing.Point(261, 0);
+      this.txtTipo25.MaxLength = 30;
+      this.txtTipo25.Name = "txtTipo25";
+      this.txtTipo25.PasswordChar = '\0';
+      this.txtTipo25.Propriedade = null;
+      this.txtTipo25.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtTipo25.SelectedText = "";
+      this.txtTipo25.SelectionLength = 0;
+      this.txtTipo25.SelectionStart = 0;
+      this.txtTipo25.ShortcutsEnabled = true;
+      this.txtTipo25.ShowButtonF7 = true;
+      this.txtTipo25.Size = new System.Drawing.Size(152, 30);
+      this.txtTipo25.TabIndex = 1;
+      this.txtTipo25.UnderlinedStyle = false;
+      this.txtTipo25.UseSelectable = true;
+      this.txtTipo25.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtTipo25.Valor_Decimais = ((short)(0));
+      this.txtTipo25.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtTipo25.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtAlinh25
+      // 
+      this.txtAlinh25.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtAlinh25.BorderRadius = 15;
+      this.txtAlinh25.BorderSize = 2;
+      this.txtAlinh25.F7ToolTipText = "Exibir Senha";
+      this.txtAlinh25.F8ToolTipText = null;
+      this.txtAlinh25.F9ToolTipText = null;
+      this.txtAlinh25.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtAlinh25.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtAlinh25.IconF7")));
+      this.txtAlinh25.IconToolTipText = null;
+      this.txtAlinh25.Lines = new string[0];
+      this.txtAlinh25.Location = new System.Drawing.Point(501, -1);
+      this.txtAlinh25.MaxLength = 30;
+      this.txtAlinh25.Name = "txtAlinh25";
+      this.txtAlinh25.PasswordChar = '\0';
+      this.txtAlinh25.Propriedade = null;
+      this.txtAlinh25.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtAlinh25.SelectedText = "";
+      this.txtAlinh25.SelectionLength = 0;
+      this.txtAlinh25.SelectionStart = 0;
+      this.txtAlinh25.ShortcutsEnabled = false;
+      this.txtAlinh25.ShowButtonF7 = true;
+      this.txtAlinh25.Size = new System.Drawing.Size(150, 30);
+      this.txtAlinh25.TabIndex = 3;
+      this.txtAlinh25.UnderlinedStyle = false;
+      this.txtAlinh25.UseSelectable = true;
+      this.txtAlinh25.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtAlinh25.Valor_Decimais = ((short)(0));
+      this.txtAlinh25.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtAlinh25.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtNome25
+      // 
+      this.txtNome25.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtNome25.BorderRadius = 15;
+      this.txtNome25.BorderSize = 2;
+      this.txtNome25.F7ToolTipText = null;
+      this.txtNome25.F8ToolTipText = null;
+      this.txtNome25.F9ToolTipText = null;
+      this.txtNome25.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtNome25.IconF7 = null;
+      this.txtNome25.IconToolTipText = null;
+      this.txtNome25.Lines = new string[0];
+      this.txtNome25.Location = new System.Drawing.Point(3, 0);
+      this.txtNome25.MaxLength = 30;
+      this.txtNome25.Name = "txtNome25";
+      this.txtNome25.PasswordChar = '\0';
+      this.txtNome25.Propriedade = null;
+      this.txtNome25.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtNome25.SelectedText = "";
+      this.txtNome25.SelectionLength = 0;
+      this.txtNome25.SelectionStart = 0;
+      this.txtNome25.ShortcutsEnabled = true;
+      this.txtNome25.Size = new System.Drawing.Size(252, 30);
+      this.txtNome25.TabIndex = 0;
+      this.txtNome25.UnderlinedStyle = false;
+      this.txtNome25.UseSelectable = true;
+      this.txtNome25.Valor_Decimais = ((short)(0));
+      this.txtNome25.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtNome25.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtCalc25
+      // 
+      this.txtCalc25.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtCalc25.BorderRadius = 15;
+      this.txtCalc25.BorderSize = 2;
+      this.txtCalc25.F7ToolTipText = null;
+      this.txtCalc25.F8ToolTipText = null;
+      this.txtCalc25.F9ToolTipText = null;
+      this.txtCalc25.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtCalc25.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtCalc25.IconF7")));
+      this.txtCalc25.IconToolTipText = null;
+      this.txtCalc25.Lines = new string[0];
+      this.txtCalc25.Location = new System.Drawing.Point(657, -1);
+      this.txtCalc25.MaxLength = 30;
+      this.txtCalc25.Name = "txtCalc25";
+      this.txtCalc25.PasswordChar = '\0';
+      this.txtCalc25.Propriedade = null;
+      this.txtCalc25.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtCalc25.SelectedText = "";
+      this.txtCalc25.SelectionLength = 0;
+      this.txtCalc25.SelectionStart = 0;
+      this.txtCalc25.ShortcutsEnabled = true;
+      this.txtCalc25.ShowButtonF7 = true;
+      this.txtCalc25.Size = new System.Drawing.Size(99, 30);
+      this.txtCalc25.TabIndex = 4;
+      this.txtCalc25.UnderlinedStyle = false;
+      this.txtCalc25.UseSelectable = true;
+      this.txtCalc25.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtCalc25.Valor_Decimais = ((short)(0));
+      this.txtCalc25.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtCalc25.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // pnlCol26
+      // 
+      this.pnlCol26.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(223)))), ((int)(((byte)(228)))), ((int)(((byte)(233)))));
+      this.pnlCol26.Controls.Add(this.txtGerarGraf26);
+      this.pnlCol26.Controls.Add(this.btnCanc26);
+      this.pnlCol26.Controls.Add(this.btnAdd26);
+      this.pnlCol26.Controls.Add(this.txtLarg26);
+      this.pnlCol26.Controls.Add(this.txtTipo26);
+      this.pnlCol26.Controls.Add(this.txtAlinh26);
+      this.pnlCol26.Controls.Add(this.txtNome26);
+      this.pnlCol26.Controls.Add(this.txtCalc26);
+      this.pnlCol26.IsPanelMenu = false;
+      this.pnlCol26.Location = new System.Drawing.Point(1, 885);
+      this.pnlCol26.Margin = new System.Windows.Forms.Padding(1);
+      this.pnlCol26.Name = "pnlCol26";
+      this.pnlCol26.Size = new System.Drawing.Size(943, 32);
+      this.pnlCol26.TabIndex = 27;
+      this.pnlCol26.Visible = false;
+      // 
+      // txtGerarGraf26
+      // 
+      this.txtGerarGraf26.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtGerarGraf26.BorderRadius = 15;
+      this.txtGerarGraf26.BorderSize = 2;
+      this.txtGerarGraf26.F7ToolTipText = null;
+      this.txtGerarGraf26.F8ToolTipText = null;
+      this.txtGerarGraf26.F9ToolTipText = null;
+      this.txtGerarGraf26.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtGerarGraf26.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtGerarGraf26.IconF7")));
+      this.txtGerarGraf26.IconToolTipText = null;
+      this.txtGerarGraf26.Lines = new string[0];
+      this.txtGerarGraf26.Location = new System.Drawing.Point(762, 1);
+      this.txtGerarGraf26.MaxLength = 30;
+      this.txtGerarGraf26.Name = "txtGerarGraf26";
+      this.txtGerarGraf26.PasswordChar = '\0';
+      this.txtGerarGraf26.Propriedade = null;
+      this.txtGerarGraf26.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtGerarGraf26.SelectedText = "";
+      this.txtGerarGraf26.SelectionLength = 0;
+      this.txtGerarGraf26.SelectionStart = 0;
+      this.txtGerarGraf26.ShortcutsEnabled = true;
+      this.txtGerarGraf26.ShowButtonF7 = true;
+      this.txtGerarGraf26.Size = new System.Drawing.Size(99, 30);
+      this.txtGerarGraf26.TabIndex = 5;
+      this.txtGerarGraf26.UnderlinedStyle = false;
+      this.txtGerarGraf26.UseSelectable = true;
+      this.txtGerarGraf26.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtGerarGraf26.Valor_Decimais = ((short)(0));
+      this.txtGerarGraf26.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtGerarGraf26.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // btnCanc26
+      // 
+      this.btnCanc26.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+      this.btnCanc26.BorderColor = System.Drawing.Color.PaleVioletRed;
+      this.btnCanc26.BorderRadius = 15;
+      this.btnCanc26.BorderSize = 0;
+      this.btnCanc26.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+      this.btnCanc26.Image = ((System.Drawing.Image)(resources.GetObject("btnCanc26.Image")));
+      this.btnCanc26.Location = new System.Drawing.Point(904, 0);
+      this.btnCanc26.Margin = new System.Windows.Forms.Padding(1, 3, 1, 3);
+      this.btnCanc26.Name = "btnCanc26";
+      this.btnCanc26.Size = new System.Drawing.Size(30, 30);
+      this.btnCanc26.TabIndex = 7;
+      this.btnCanc26.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+      this.btnCanc26.UseVisualStyleBackColor = false;
+      this.btnCanc26.Click += new System.EventHandler(this.BtnCanc_Click);
+      // 
+      // btnAdd26
+      // 
+      this.btnAdd26.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+      this.btnAdd26.BorderColor = System.Drawing.Color.PaleVioletRed;
+      this.btnAdd26.BorderRadius = 15;
+      this.btnAdd26.BorderSize = 0;
+      this.btnAdd26.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+      this.btnAdd26.Image = ((System.Drawing.Image)(resources.GetObject("btnAdd26.Image")));
+      this.btnAdd26.Location = new System.Drawing.Point(872, 0);
+      this.btnAdd26.Margin = new System.Windows.Forms.Padding(1, 3, 1, 3);
+      this.btnAdd26.Name = "btnAdd26";
+      this.btnAdd26.Size = new System.Drawing.Size(30, 30);
+      this.btnAdd26.TabIndex = 6;
+      this.btnAdd26.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+      this.btnAdd26.UseVisualStyleBackColor = false;
+      this.btnAdd26.Click += new System.EventHandler(this.BtnAdd_Click);
+      // 
+      // txtLarg26
+      // 
+      this.txtLarg26.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtLarg26.BorderRadius = 15;
+      this.txtLarg26.BorderSize = 2;
+      this.txtLarg26.F7ToolTipText = null;
+      this.txtLarg26.F8ToolTipText = null;
+      this.txtLarg26.F9ToolTipText = null;
+      this.txtLarg26.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtLarg26.IconF7 = null;
+      this.txtLarg26.IconToolTipText = null;
+      this.txtLarg26.Lines = new string[0];
+      this.txtLarg26.Location = new System.Drawing.Point(419, 0);
+      this.txtLarg26.MaxLength = 30;
+      this.txtLarg26.Name = "txtLarg26";
+      this.txtLarg26.PasswordChar = '\0';
+      this.txtLarg26.Propriedade = null;
+      this.txtLarg26.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtLarg26.SelectedText = "";
+      this.txtLarg26.SelectionLength = 0;
+      this.txtLarg26.SelectionStart = 0;
+      this.txtLarg26.ShortcutsEnabled = true;
+      this.txtLarg26.Size = new System.Drawing.Size(76, 30);
+      this.txtLarg26.TabIndex = 2;
+      this.txtLarg26.UnderlinedStyle = false;
+      this.txtLarg26.UseSelectable = true;
+      this.txtLarg26.Valor = LmCorbieUI.Design.LmValueType.Num_Inteiro;
+      this.txtLarg26.Valor_Decimais = ((short)(0));
+      this.txtLarg26.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtLarg26.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtTipo26
+      // 
+      this.txtTipo26.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtTipo26.BorderRadius = 15;
+      this.txtTipo26.BorderSize = 2;
+      this.txtTipo26.F7ToolTipText = null;
+      this.txtTipo26.F8ToolTipText = null;
+      this.txtTipo26.F9ToolTipText = null;
+      this.txtTipo26.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtTipo26.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtTipo26.IconF7")));
+      this.txtTipo26.IconToolTipText = null;
+      this.txtTipo26.Lines = new string[0];
+      this.txtTipo26.Location = new System.Drawing.Point(261, 0);
+      this.txtTipo26.MaxLength = 30;
+      this.txtTipo26.Name = "txtTipo26";
+      this.txtTipo26.PasswordChar = '\0';
+      this.txtTipo26.Propriedade = null;
+      this.txtTipo26.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtTipo26.SelectedText = "";
+      this.txtTipo26.SelectionLength = 0;
+      this.txtTipo26.SelectionStart = 0;
+      this.txtTipo26.ShortcutsEnabled = true;
+      this.txtTipo26.ShowButtonF7 = true;
+      this.txtTipo26.Size = new System.Drawing.Size(152, 30);
+      this.txtTipo26.TabIndex = 1;
+      this.txtTipo26.UnderlinedStyle = false;
+      this.txtTipo26.UseSelectable = true;
+      this.txtTipo26.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtTipo26.Valor_Decimais = ((short)(0));
+      this.txtTipo26.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtTipo26.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtAlinh26
+      // 
+      this.txtAlinh26.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtAlinh26.BorderRadius = 15;
+      this.txtAlinh26.BorderSize = 2;
+      this.txtAlinh26.F7ToolTipText = "Exibir Senha";
+      this.txtAlinh26.F8ToolTipText = null;
+      this.txtAlinh26.F9ToolTipText = null;
+      this.txtAlinh26.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtAlinh26.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtAlinh26.IconF7")));
+      this.txtAlinh26.IconToolTipText = null;
+      this.txtAlinh26.Lines = new string[0];
+      this.txtAlinh26.Location = new System.Drawing.Point(501, -1);
+      this.txtAlinh26.MaxLength = 30;
+      this.txtAlinh26.Name = "txtAlinh26";
+      this.txtAlinh26.PasswordChar = '\0';
+      this.txtAlinh26.Propriedade = null;
+      this.txtAlinh26.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtAlinh26.SelectedText = "";
+      this.txtAlinh26.SelectionLength = 0;
+      this.txtAlinh26.SelectionStart = 0;
+      this.txtAlinh26.ShortcutsEnabled = false;
+      this.txtAlinh26.ShowButtonF7 = true;
+      this.txtAlinh26.Size = new System.Drawing.Size(150, 30);
+      this.txtAlinh26.TabIndex = 3;
+      this.txtAlinh26.UnderlinedStyle = false;
+      this.txtAlinh26.UseSelectable = true;
+      this.txtAlinh26.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtAlinh26.Valor_Decimais = ((short)(0));
+      this.txtAlinh26.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtAlinh26.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtNome26
+      // 
+      this.txtNome26.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtNome26.BorderRadius = 15;
+      this.txtNome26.BorderSize = 2;
+      this.txtNome26.F7ToolTipText = null;
+      this.txtNome26.F8ToolTipText = null;
+      this.txtNome26.F9ToolTipText = null;
+      this.txtNome26.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtNome26.IconF7 = null;
+      this.txtNome26.IconToolTipText = null;
+      this.txtNome26.Lines = new string[0];
+      this.txtNome26.Location = new System.Drawing.Point(3, 0);
+      this.txtNome26.MaxLength = 30;
+      this.txtNome26.Name = "txtNome26";
+      this.txtNome26.PasswordChar = '\0';
+      this.txtNome26.Propriedade = null;
+      this.txtNome26.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtNome26.SelectedText = "";
+      this.txtNome26.SelectionLength = 0;
+      this.txtNome26.SelectionStart = 0;
+      this.txtNome26.ShortcutsEnabled = true;
+      this.txtNome26.Size = new System.Drawing.Size(252, 30);
+      this.txtNome26.TabIndex = 0;
+      this.txtNome26.UnderlinedStyle = false;
+      this.txtNome26.UseSelectable = true;
+      this.txtNome26.Valor_Decimais = ((short)(0));
+      this.txtNome26.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtNome26.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtCalc26
+      // 
+      this.txtCalc26.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtCalc26.BorderRadius = 15;
+      this.txtCalc26.BorderSize = 2;
+      this.txtCalc26.F7ToolTipText = null;
+      this.txtCalc26.F8ToolTipText = null;
+      this.txtCalc26.F9ToolTipText = null;
+      this.txtCalc26.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtCalc26.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtCalc26.IconF7")));
+      this.txtCalc26.IconToolTipText = null;
+      this.txtCalc26.Lines = new string[0];
+      this.txtCalc26.Location = new System.Drawing.Point(657, -1);
+      this.txtCalc26.MaxLength = 30;
+      this.txtCalc26.Name = "txtCalc26";
+      this.txtCalc26.PasswordChar = '\0';
+      this.txtCalc26.Propriedade = null;
+      this.txtCalc26.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtCalc26.SelectedText = "";
+      this.txtCalc26.SelectionLength = 0;
+      this.txtCalc26.SelectionStart = 0;
+      this.txtCalc26.ShortcutsEnabled = true;
+      this.txtCalc26.ShowButtonF7 = true;
+      this.txtCalc26.Size = new System.Drawing.Size(99, 30);
+      this.txtCalc26.TabIndex = 4;
+      this.txtCalc26.UnderlinedStyle = false;
+      this.txtCalc26.UseSelectable = true;
+      this.txtCalc26.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtCalc26.Valor_Decimais = ((short)(0));
+      this.txtCalc26.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtCalc26.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // pnlCol27
+      // 
+      this.pnlCol27.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(223)))), ((int)(((byte)(228)))), ((int)(((byte)(233)))));
+      this.pnlCol27.Controls.Add(this.txtGerarGraf27);
+      this.pnlCol27.Controls.Add(this.btnCanc27);
+      this.pnlCol27.Controls.Add(this.btnAdd27);
+      this.pnlCol27.Controls.Add(this.txtLarg27);
+      this.pnlCol27.Controls.Add(this.txtTipo27);
+      this.pnlCol27.Controls.Add(this.txtAlinh27);
+      this.pnlCol27.Controls.Add(this.txtNome27);
+      this.pnlCol27.Controls.Add(this.txtCalc27);
+      this.pnlCol27.IsPanelMenu = false;
+      this.pnlCol27.Location = new System.Drawing.Point(1, 919);
+      this.pnlCol27.Margin = new System.Windows.Forms.Padding(1);
+      this.pnlCol27.Name = "pnlCol27";
+      this.pnlCol27.Size = new System.Drawing.Size(943, 32);
+      this.pnlCol27.TabIndex = 28;
+      this.pnlCol27.Visible = false;
+      // 
+      // txtGerarGraf27
+      // 
+      this.txtGerarGraf27.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtGerarGraf27.BorderRadius = 15;
+      this.txtGerarGraf27.BorderSize = 2;
+      this.txtGerarGraf27.F7ToolTipText = null;
+      this.txtGerarGraf27.F8ToolTipText = null;
+      this.txtGerarGraf27.F9ToolTipText = null;
+      this.txtGerarGraf27.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtGerarGraf27.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtGerarGraf27.IconF7")));
+      this.txtGerarGraf27.IconToolTipText = null;
+      this.txtGerarGraf27.Lines = new string[0];
+      this.txtGerarGraf27.Location = new System.Drawing.Point(762, 1);
+      this.txtGerarGraf27.MaxLength = 30;
+      this.txtGerarGraf27.Name = "txtGerarGraf27";
+      this.txtGerarGraf27.PasswordChar = '\0';
+      this.txtGerarGraf27.Propriedade = null;
+      this.txtGerarGraf27.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtGerarGraf27.SelectedText = "";
+      this.txtGerarGraf27.SelectionLength = 0;
+      this.txtGerarGraf27.SelectionStart = 0;
+      this.txtGerarGraf27.ShortcutsEnabled = true;
+      this.txtGerarGraf27.ShowButtonF7 = true;
+      this.txtGerarGraf27.Size = new System.Drawing.Size(99, 30);
+      this.txtGerarGraf27.TabIndex = 5;
+      this.txtGerarGraf27.UnderlinedStyle = false;
+      this.txtGerarGraf27.UseSelectable = true;
+      this.txtGerarGraf27.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtGerarGraf27.Valor_Decimais = ((short)(0));
+      this.txtGerarGraf27.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtGerarGraf27.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // btnCanc27
+      // 
+      this.btnCanc27.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+      this.btnCanc27.BorderColor = System.Drawing.Color.PaleVioletRed;
+      this.btnCanc27.BorderRadius = 15;
+      this.btnCanc27.BorderSize = 0;
+      this.btnCanc27.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+      this.btnCanc27.Image = ((System.Drawing.Image)(resources.GetObject("btnCanc27.Image")));
+      this.btnCanc27.Location = new System.Drawing.Point(904, 0);
+      this.btnCanc27.Margin = new System.Windows.Forms.Padding(1, 3, 1, 3);
+      this.btnCanc27.Name = "btnCanc27";
+      this.btnCanc27.Size = new System.Drawing.Size(30, 30);
+      this.btnCanc27.TabIndex = 7;
+      this.btnCanc27.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+      this.btnCanc27.UseVisualStyleBackColor = false;
+      this.btnCanc27.Click += new System.EventHandler(this.BtnCanc_Click);
+      // 
+      // btnAdd27
+      // 
+      this.btnAdd27.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+      this.btnAdd27.BorderColor = System.Drawing.Color.PaleVioletRed;
+      this.btnAdd27.BorderRadius = 15;
+      this.btnAdd27.BorderSize = 0;
+      this.btnAdd27.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+      this.btnAdd27.Image = ((System.Drawing.Image)(resources.GetObject("btnAdd27.Image")));
+      this.btnAdd27.Location = new System.Drawing.Point(872, 0);
+      this.btnAdd27.Margin = new System.Windows.Forms.Padding(1, 3, 1, 3);
+      this.btnAdd27.Name = "btnAdd27";
+      this.btnAdd27.Size = new System.Drawing.Size(30, 30);
+      this.btnAdd27.TabIndex = 6;
+      this.btnAdd27.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+      this.btnAdd27.UseVisualStyleBackColor = false;
+      this.btnAdd27.Click += new System.EventHandler(this.BtnAdd_Click);
+      // 
+      // txtLarg27
+      // 
+      this.txtLarg27.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtLarg27.BorderRadius = 15;
+      this.txtLarg27.BorderSize = 2;
+      this.txtLarg27.F7ToolTipText = null;
+      this.txtLarg27.F8ToolTipText = null;
+      this.txtLarg27.F9ToolTipText = null;
+      this.txtLarg27.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtLarg27.IconF7 = null;
+      this.txtLarg27.IconToolTipText = null;
+      this.txtLarg27.Lines = new string[0];
+      this.txtLarg27.Location = new System.Drawing.Point(419, 0);
+      this.txtLarg27.MaxLength = 30;
+      this.txtLarg27.Name = "txtLarg27";
+      this.txtLarg27.PasswordChar = '\0';
+      this.txtLarg27.Propriedade = null;
+      this.txtLarg27.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtLarg27.SelectedText = "";
+      this.txtLarg27.SelectionLength = 0;
+      this.txtLarg27.SelectionStart = 0;
+      this.txtLarg27.ShortcutsEnabled = true;
+      this.txtLarg27.Size = new System.Drawing.Size(76, 30);
+      this.txtLarg27.TabIndex = 2;
+      this.txtLarg27.UnderlinedStyle = false;
+      this.txtLarg27.UseSelectable = true;
+      this.txtLarg27.Valor = LmCorbieUI.Design.LmValueType.Num_Inteiro;
+      this.txtLarg27.Valor_Decimais = ((short)(0));
+      this.txtLarg27.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtLarg27.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtTipo27
+      // 
+      this.txtTipo27.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtTipo27.BorderRadius = 15;
+      this.txtTipo27.BorderSize = 2;
+      this.txtTipo27.F7ToolTipText = null;
+      this.txtTipo27.F8ToolTipText = null;
+      this.txtTipo27.F9ToolTipText = null;
+      this.txtTipo27.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtTipo27.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtTipo27.IconF7")));
+      this.txtTipo27.IconToolTipText = null;
+      this.txtTipo27.Lines = new string[0];
+      this.txtTipo27.Location = new System.Drawing.Point(261, 0);
+      this.txtTipo27.MaxLength = 30;
+      this.txtTipo27.Name = "txtTipo27";
+      this.txtTipo27.PasswordChar = '\0';
+      this.txtTipo27.Propriedade = null;
+      this.txtTipo27.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtTipo27.SelectedText = "";
+      this.txtTipo27.SelectionLength = 0;
+      this.txtTipo27.SelectionStart = 0;
+      this.txtTipo27.ShortcutsEnabled = true;
+      this.txtTipo27.ShowButtonF7 = true;
+      this.txtTipo27.Size = new System.Drawing.Size(152, 30);
+      this.txtTipo27.TabIndex = 1;
+      this.txtTipo27.UnderlinedStyle = false;
+      this.txtTipo27.UseSelectable = true;
+      this.txtTipo27.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtTipo27.Valor_Decimais = ((short)(0));
+      this.txtTipo27.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtTipo27.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtAlinh27
+      // 
+      this.txtAlinh27.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtAlinh27.BorderRadius = 15;
+      this.txtAlinh27.BorderSize = 2;
+      this.txtAlinh27.F7ToolTipText = "Exibir Senha";
+      this.txtAlinh27.F8ToolTipText = null;
+      this.txtAlinh27.F9ToolTipText = null;
+      this.txtAlinh27.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtAlinh27.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtAlinh27.IconF7")));
+      this.txtAlinh27.IconToolTipText = null;
+      this.txtAlinh27.Lines = new string[0];
+      this.txtAlinh27.Location = new System.Drawing.Point(501, -1);
+      this.txtAlinh27.MaxLength = 30;
+      this.txtAlinh27.Name = "txtAlinh27";
+      this.txtAlinh27.PasswordChar = '\0';
+      this.txtAlinh27.Propriedade = null;
+      this.txtAlinh27.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtAlinh27.SelectedText = "";
+      this.txtAlinh27.SelectionLength = 0;
+      this.txtAlinh27.SelectionStart = 0;
+      this.txtAlinh27.ShortcutsEnabled = false;
+      this.txtAlinh27.ShowButtonF7 = true;
+      this.txtAlinh27.Size = new System.Drawing.Size(150, 30);
+      this.txtAlinh27.TabIndex = 3;
+      this.txtAlinh27.UnderlinedStyle = false;
+      this.txtAlinh27.UseSelectable = true;
+      this.txtAlinh27.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtAlinh27.Valor_Decimais = ((short)(0));
+      this.txtAlinh27.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtAlinh27.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtNome27
+      // 
+      this.txtNome27.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtNome27.BorderRadius = 15;
+      this.txtNome27.BorderSize = 2;
+      this.txtNome27.F7ToolTipText = null;
+      this.txtNome27.F8ToolTipText = null;
+      this.txtNome27.F9ToolTipText = null;
+      this.txtNome27.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtNome27.IconF7 = null;
+      this.txtNome27.IconToolTipText = null;
+      this.txtNome27.Lines = new string[0];
+      this.txtNome27.Location = new System.Drawing.Point(3, 0);
+      this.txtNome27.MaxLength = 30;
+      this.txtNome27.Name = "txtNome27";
+      this.txtNome27.PasswordChar = '\0';
+      this.txtNome27.Propriedade = null;
+      this.txtNome27.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtNome27.SelectedText = "";
+      this.txtNome27.SelectionLength = 0;
+      this.txtNome27.SelectionStart = 0;
+      this.txtNome27.ShortcutsEnabled = true;
+      this.txtNome27.Size = new System.Drawing.Size(252, 30);
+      this.txtNome27.TabIndex = 0;
+      this.txtNome27.UnderlinedStyle = false;
+      this.txtNome27.UseSelectable = true;
+      this.txtNome27.Valor_Decimais = ((short)(0));
+      this.txtNome27.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtNome27.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtCalc27
+      // 
+      this.txtCalc27.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtCalc27.BorderRadius = 15;
+      this.txtCalc27.BorderSize = 2;
+      this.txtCalc27.F7ToolTipText = null;
+      this.txtCalc27.F8ToolTipText = null;
+      this.txtCalc27.F9ToolTipText = null;
+      this.txtCalc27.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtCalc27.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtCalc27.IconF7")));
+      this.txtCalc27.IconToolTipText = null;
+      this.txtCalc27.Lines = new string[0];
+      this.txtCalc27.Location = new System.Drawing.Point(657, -1);
+      this.txtCalc27.MaxLength = 30;
+      this.txtCalc27.Name = "txtCalc27";
+      this.txtCalc27.PasswordChar = '\0';
+      this.txtCalc27.Propriedade = null;
+      this.txtCalc27.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtCalc27.SelectedText = "";
+      this.txtCalc27.SelectionLength = 0;
+      this.txtCalc27.SelectionStart = 0;
+      this.txtCalc27.ShortcutsEnabled = true;
+      this.txtCalc27.ShowButtonF7 = true;
+      this.txtCalc27.Size = new System.Drawing.Size(99, 30);
+      this.txtCalc27.TabIndex = 4;
+      this.txtCalc27.UnderlinedStyle = false;
+      this.txtCalc27.UseSelectable = true;
+      this.txtCalc27.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtCalc27.Valor_Decimais = ((short)(0));
+      this.txtCalc27.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtCalc27.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // pnlCol28
+      // 
+      this.pnlCol28.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(223)))), ((int)(((byte)(228)))), ((int)(((byte)(233)))));
+      this.pnlCol28.Controls.Add(this.txtGerarGraf28);
+      this.pnlCol28.Controls.Add(this.btnCanc28);
+      this.pnlCol28.Controls.Add(this.btnAdd28);
+      this.pnlCol28.Controls.Add(this.txtLarg28);
+      this.pnlCol28.Controls.Add(this.txtTipo28);
+      this.pnlCol28.Controls.Add(this.txtAlinh28);
+      this.pnlCol28.Controls.Add(this.txtNome28);
+      this.pnlCol28.Controls.Add(this.txtCalc28);
+      this.pnlCol28.IsPanelMenu = false;
+      this.pnlCol28.Location = new System.Drawing.Point(1, 953);
+      this.pnlCol28.Margin = new System.Windows.Forms.Padding(1);
+      this.pnlCol28.Name = "pnlCol28";
+      this.pnlCol28.Size = new System.Drawing.Size(943, 32);
+      this.pnlCol28.TabIndex = 29;
+      this.pnlCol28.Visible = false;
+      // 
+      // txtGerarGraf28
+      // 
+      this.txtGerarGraf28.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtGerarGraf28.BorderRadius = 15;
+      this.txtGerarGraf28.BorderSize = 2;
+      this.txtGerarGraf28.F7ToolTipText = null;
+      this.txtGerarGraf28.F8ToolTipText = null;
+      this.txtGerarGraf28.F9ToolTipText = null;
+      this.txtGerarGraf28.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtGerarGraf28.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtGerarGraf28.IconF7")));
+      this.txtGerarGraf28.IconToolTipText = null;
+      this.txtGerarGraf28.Lines = new string[0];
+      this.txtGerarGraf28.Location = new System.Drawing.Point(762, 1);
+      this.txtGerarGraf28.MaxLength = 30;
+      this.txtGerarGraf28.Name = "txtGerarGraf28";
+      this.txtGerarGraf28.PasswordChar = '\0';
+      this.txtGerarGraf28.Propriedade = null;
+      this.txtGerarGraf28.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtGerarGraf28.SelectedText = "";
+      this.txtGerarGraf28.SelectionLength = 0;
+      this.txtGerarGraf28.SelectionStart = 0;
+      this.txtGerarGraf28.ShortcutsEnabled = true;
+      this.txtGerarGraf28.ShowButtonF7 = true;
+      this.txtGerarGraf28.Size = new System.Drawing.Size(99, 30);
+      this.txtGerarGraf28.TabIndex = 5;
+      this.txtGerarGraf28.UnderlinedStyle = false;
+      this.txtGerarGraf28.UseSelectable = true;
+      this.txtGerarGraf28.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtGerarGraf28.Valor_Decimais = ((short)(0));
+      this.txtGerarGraf28.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtGerarGraf28.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // btnCanc28
+      // 
+      this.btnCanc28.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+      this.btnCanc28.BorderColor = System.Drawing.Color.PaleVioletRed;
+      this.btnCanc28.BorderRadius = 15;
+      this.btnCanc28.BorderSize = 0;
+      this.btnCanc28.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+      this.btnCanc28.Image = ((System.Drawing.Image)(resources.GetObject("btnCanc28.Image")));
+      this.btnCanc28.Location = new System.Drawing.Point(904, 0);
+      this.btnCanc28.Margin = new System.Windows.Forms.Padding(1, 3, 1, 3);
+      this.btnCanc28.Name = "btnCanc28";
+      this.btnCanc28.Size = new System.Drawing.Size(30, 30);
+      this.btnCanc28.TabIndex = 7;
+      this.btnCanc28.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+      this.btnCanc28.UseVisualStyleBackColor = false;
+      this.btnCanc28.Click += new System.EventHandler(this.BtnCanc_Click);
+      // 
+      // btnAdd28
+      // 
+      this.btnAdd28.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+      this.btnAdd28.BorderColor = System.Drawing.Color.PaleVioletRed;
+      this.btnAdd28.BorderRadius = 15;
+      this.btnAdd28.BorderSize = 0;
+      this.btnAdd28.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+      this.btnAdd28.Image = ((System.Drawing.Image)(resources.GetObject("btnAdd28.Image")));
+      this.btnAdd28.Location = new System.Drawing.Point(872, 0);
+      this.btnAdd28.Margin = new System.Windows.Forms.Padding(1, 3, 1, 3);
+      this.btnAdd28.Name = "btnAdd28";
+      this.btnAdd28.Size = new System.Drawing.Size(30, 30);
+      this.btnAdd28.TabIndex = 6;
+      this.btnAdd28.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+      this.btnAdd28.UseVisualStyleBackColor = false;
+      this.btnAdd28.Click += new System.EventHandler(this.BtnAdd_Click);
+      // 
+      // txtLarg28
+      // 
+      this.txtLarg28.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtLarg28.BorderRadius = 15;
+      this.txtLarg28.BorderSize = 2;
+      this.txtLarg28.F7ToolTipText = null;
+      this.txtLarg28.F8ToolTipText = null;
+      this.txtLarg28.F9ToolTipText = null;
+      this.txtLarg28.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtLarg28.IconF7 = null;
+      this.txtLarg28.IconToolTipText = null;
+      this.txtLarg28.Lines = new string[0];
+      this.txtLarg28.Location = new System.Drawing.Point(419, 0);
+      this.txtLarg28.MaxLength = 30;
+      this.txtLarg28.Name = "txtLarg28";
+      this.txtLarg28.PasswordChar = '\0';
+      this.txtLarg28.Propriedade = null;
+      this.txtLarg28.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtLarg28.SelectedText = "";
+      this.txtLarg28.SelectionLength = 0;
+      this.txtLarg28.SelectionStart = 0;
+      this.txtLarg28.ShortcutsEnabled = true;
+      this.txtLarg28.Size = new System.Drawing.Size(76, 30);
+      this.txtLarg28.TabIndex = 2;
+      this.txtLarg28.UnderlinedStyle = false;
+      this.txtLarg28.UseSelectable = true;
+      this.txtLarg28.Valor = LmCorbieUI.Design.LmValueType.Num_Inteiro;
+      this.txtLarg28.Valor_Decimais = ((short)(0));
+      this.txtLarg28.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtLarg28.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtTipo28
+      // 
+      this.txtTipo28.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtTipo28.BorderRadius = 15;
+      this.txtTipo28.BorderSize = 2;
+      this.txtTipo28.F7ToolTipText = null;
+      this.txtTipo28.F8ToolTipText = null;
+      this.txtTipo28.F9ToolTipText = null;
+      this.txtTipo28.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtTipo28.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtTipo28.IconF7")));
+      this.txtTipo28.IconToolTipText = null;
+      this.txtTipo28.Lines = new string[0];
+      this.txtTipo28.Location = new System.Drawing.Point(261, 0);
+      this.txtTipo28.MaxLength = 30;
+      this.txtTipo28.Name = "txtTipo28";
+      this.txtTipo28.PasswordChar = '\0';
+      this.txtTipo28.Propriedade = null;
+      this.txtTipo28.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtTipo28.SelectedText = "";
+      this.txtTipo28.SelectionLength = 0;
+      this.txtTipo28.SelectionStart = 0;
+      this.txtTipo28.ShortcutsEnabled = true;
+      this.txtTipo28.ShowButtonF7 = true;
+      this.txtTipo28.Size = new System.Drawing.Size(152, 30);
+      this.txtTipo28.TabIndex = 1;
+      this.txtTipo28.UnderlinedStyle = false;
+      this.txtTipo28.UseSelectable = true;
+      this.txtTipo28.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtTipo28.Valor_Decimais = ((short)(0));
+      this.txtTipo28.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtTipo28.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtAlinh28
+      // 
+      this.txtAlinh28.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtAlinh28.BorderRadius = 15;
+      this.txtAlinh28.BorderSize = 2;
+      this.txtAlinh28.F7ToolTipText = "Exibir Senha";
+      this.txtAlinh28.F8ToolTipText = null;
+      this.txtAlinh28.F9ToolTipText = null;
+      this.txtAlinh28.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtAlinh28.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtAlinh28.IconF7")));
+      this.txtAlinh28.IconToolTipText = null;
+      this.txtAlinh28.Lines = new string[0];
+      this.txtAlinh28.Location = new System.Drawing.Point(501, -1);
+      this.txtAlinh28.MaxLength = 30;
+      this.txtAlinh28.Name = "txtAlinh28";
+      this.txtAlinh28.PasswordChar = '\0';
+      this.txtAlinh28.Propriedade = null;
+      this.txtAlinh28.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtAlinh28.SelectedText = "";
+      this.txtAlinh28.SelectionLength = 0;
+      this.txtAlinh28.SelectionStart = 0;
+      this.txtAlinh28.ShortcutsEnabled = false;
+      this.txtAlinh28.ShowButtonF7 = true;
+      this.txtAlinh28.Size = new System.Drawing.Size(150, 30);
+      this.txtAlinh28.TabIndex = 3;
+      this.txtAlinh28.UnderlinedStyle = false;
+      this.txtAlinh28.UseSelectable = true;
+      this.txtAlinh28.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtAlinh28.Valor_Decimais = ((short)(0));
+      this.txtAlinh28.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtAlinh28.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtNome28
+      // 
+      this.txtNome28.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtNome28.BorderRadius = 15;
+      this.txtNome28.BorderSize = 2;
+      this.txtNome28.F7ToolTipText = null;
+      this.txtNome28.F8ToolTipText = null;
+      this.txtNome28.F9ToolTipText = null;
+      this.txtNome28.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtNome28.IconF7 = null;
+      this.txtNome28.IconToolTipText = null;
+      this.txtNome28.Lines = new string[0];
+      this.txtNome28.Location = new System.Drawing.Point(3, 0);
+      this.txtNome28.MaxLength = 30;
+      this.txtNome28.Name = "txtNome28";
+      this.txtNome28.PasswordChar = '\0';
+      this.txtNome28.Propriedade = null;
+      this.txtNome28.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtNome28.SelectedText = "";
+      this.txtNome28.SelectionLength = 0;
+      this.txtNome28.SelectionStart = 0;
+      this.txtNome28.ShortcutsEnabled = true;
+      this.txtNome28.Size = new System.Drawing.Size(252, 30);
+      this.txtNome28.TabIndex = 0;
+      this.txtNome28.UnderlinedStyle = false;
+      this.txtNome28.UseSelectable = true;
+      this.txtNome28.Valor_Decimais = ((short)(0));
+      this.txtNome28.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtNome28.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtCalc28
+      // 
+      this.txtCalc28.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtCalc28.BorderRadius = 15;
+      this.txtCalc28.BorderSize = 2;
+      this.txtCalc28.F7ToolTipText = null;
+      this.txtCalc28.F8ToolTipText = null;
+      this.txtCalc28.F9ToolTipText = null;
+      this.txtCalc28.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtCalc28.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtCalc28.IconF7")));
+      this.txtCalc28.IconToolTipText = null;
+      this.txtCalc28.Lines = new string[0];
+      this.txtCalc28.Location = new System.Drawing.Point(657, -1);
+      this.txtCalc28.MaxLength = 30;
+      this.txtCalc28.Name = "txtCalc28";
+      this.txtCalc28.PasswordChar = '\0';
+      this.txtCalc28.Propriedade = null;
+      this.txtCalc28.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtCalc28.SelectedText = "";
+      this.txtCalc28.SelectionLength = 0;
+      this.txtCalc28.SelectionStart = 0;
+      this.txtCalc28.ShortcutsEnabled = true;
+      this.txtCalc28.ShowButtonF7 = true;
+      this.txtCalc28.Size = new System.Drawing.Size(99, 30);
+      this.txtCalc28.TabIndex = 4;
+      this.txtCalc28.UnderlinedStyle = false;
+      this.txtCalc28.UseSelectable = true;
+      this.txtCalc28.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtCalc28.Valor_Decimais = ((short)(0));
+      this.txtCalc28.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtCalc28.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // pnlCol29
+      // 
+      this.pnlCol29.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(223)))), ((int)(((byte)(228)))), ((int)(((byte)(233)))));
+      this.pnlCol29.Controls.Add(this.txtGerarGraf29);
+      this.pnlCol29.Controls.Add(this.btnCanc29);
+      this.pnlCol29.Controls.Add(this.btnAdd29);
+      this.pnlCol29.Controls.Add(this.txtLarg29);
+      this.pnlCol29.Controls.Add(this.txtTipo29);
+      this.pnlCol29.Controls.Add(this.txtAlinh29);
+      this.pnlCol29.Controls.Add(this.txtNome29);
+      this.pnlCol29.Controls.Add(this.txtCalc29);
+      this.pnlCol29.IsPanelMenu = false;
+      this.pnlCol29.Location = new System.Drawing.Point(1, 987);
+      this.pnlCol29.Margin = new System.Windows.Forms.Padding(1);
+      this.pnlCol29.Name = "pnlCol29";
+      this.pnlCol29.Size = new System.Drawing.Size(943, 32);
+      this.pnlCol29.TabIndex = 30;
+      this.pnlCol29.Visible = false;
+      // 
+      // txtGerarGraf29
+      // 
+      this.txtGerarGraf29.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtGerarGraf29.BorderRadius = 15;
+      this.txtGerarGraf29.BorderSize = 2;
+      this.txtGerarGraf29.F7ToolTipText = null;
+      this.txtGerarGraf29.F8ToolTipText = null;
+      this.txtGerarGraf29.F9ToolTipText = null;
+      this.txtGerarGraf29.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtGerarGraf29.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtGerarGraf29.IconF7")));
+      this.txtGerarGraf29.IconToolTipText = null;
+      this.txtGerarGraf29.Lines = new string[0];
+      this.txtGerarGraf29.Location = new System.Drawing.Point(762, 1);
+      this.txtGerarGraf29.MaxLength = 30;
+      this.txtGerarGraf29.Name = "txtGerarGraf29";
+      this.txtGerarGraf29.PasswordChar = '\0';
+      this.txtGerarGraf29.Propriedade = null;
+      this.txtGerarGraf29.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtGerarGraf29.SelectedText = "";
+      this.txtGerarGraf29.SelectionLength = 0;
+      this.txtGerarGraf29.SelectionStart = 0;
+      this.txtGerarGraf29.ShortcutsEnabled = true;
+      this.txtGerarGraf29.ShowButtonF7 = true;
+      this.txtGerarGraf29.Size = new System.Drawing.Size(99, 30);
+      this.txtGerarGraf29.TabIndex = 5;
+      this.txtGerarGraf29.UnderlinedStyle = false;
+      this.txtGerarGraf29.UseSelectable = true;
+      this.txtGerarGraf29.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtGerarGraf29.Valor_Decimais = ((short)(0));
+      this.txtGerarGraf29.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtGerarGraf29.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // btnCanc29
+      // 
+      this.btnCanc29.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+      this.btnCanc29.BorderColor = System.Drawing.Color.PaleVioletRed;
+      this.btnCanc29.BorderRadius = 15;
+      this.btnCanc29.BorderSize = 0;
+      this.btnCanc29.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+      this.btnCanc29.Image = ((System.Drawing.Image)(resources.GetObject("btnCanc29.Image")));
+      this.btnCanc29.Location = new System.Drawing.Point(904, 0);
+      this.btnCanc29.Margin = new System.Windows.Forms.Padding(1, 3, 1, 3);
+      this.btnCanc29.Name = "btnCanc29";
+      this.btnCanc29.Size = new System.Drawing.Size(30, 30);
+      this.btnCanc29.TabIndex = 7;
+      this.btnCanc29.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+      this.btnCanc29.UseVisualStyleBackColor = false;
+      this.btnCanc29.Click += new System.EventHandler(this.BtnCanc_Click);
+      // 
+      // btnAdd29
+      // 
+      this.btnAdd29.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+      this.btnAdd29.BorderColor = System.Drawing.Color.PaleVioletRed;
+      this.btnAdd29.BorderRadius = 15;
+      this.btnAdd29.BorderSize = 0;
+      this.btnAdd29.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+      this.btnAdd29.Image = ((System.Drawing.Image)(resources.GetObject("btnAdd29.Image")));
+      this.btnAdd29.Location = new System.Drawing.Point(872, 0);
+      this.btnAdd29.Margin = new System.Windows.Forms.Padding(1, 3, 1, 3);
+      this.btnAdd29.Name = "btnAdd29";
+      this.btnAdd29.Size = new System.Drawing.Size(30, 30);
+      this.btnAdd29.TabIndex = 6;
+      this.btnAdd29.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+      this.btnAdd29.UseVisualStyleBackColor = false;
+      this.btnAdd29.Click += new System.EventHandler(this.BtnAdd_Click);
+      // 
+      // txtLarg29
+      // 
+      this.txtLarg29.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtLarg29.BorderRadius = 15;
+      this.txtLarg29.BorderSize = 2;
+      this.txtLarg29.F7ToolTipText = null;
+      this.txtLarg29.F8ToolTipText = null;
+      this.txtLarg29.F9ToolTipText = null;
+      this.txtLarg29.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtLarg29.IconF7 = null;
+      this.txtLarg29.IconToolTipText = null;
+      this.txtLarg29.Lines = new string[0];
+      this.txtLarg29.Location = new System.Drawing.Point(419, 0);
+      this.txtLarg29.MaxLength = 30;
+      this.txtLarg29.Name = "txtLarg29";
+      this.txtLarg29.PasswordChar = '\0';
+      this.txtLarg29.Propriedade = null;
+      this.txtLarg29.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtLarg29.SelectedText = "";
+      this.txtLarg29.SelectionLength = 0;
+      this.txtLarg29.SelectionStart = 0;
+      this.txtLarg29.ShortcutsEnabled = true;
+      this.txtLarg29.Size = new System.Drawing.Size(76, 30);
+      this.txtLarg29.TabIndex = 2;
+      this.txtLarg29.UnderlinedStyle = false;
+      this.txtLarg29.UseSelectable = true;
+      this.txtLarg29.Valor = LmCorbieUI.Design.LmValueType.Num_Inteiro;
+      this.txtLarg29.Valor_Decimais = ((short)(0));
+      this.txtLarg29.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtLarg29.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtTipo29
+      // 
+      this.txtTipo29.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtTipo29.BorderRadius = 15;
+      this.txtTipo29.BorderSize = 2;
+      this.txtTipo29.F7ToolTipText = null;
+      this.txtTipo29.F8ToolTipText = null;
+      this.txtTipo29.F9ToolTipText = null;
+      this.txtTipo29.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtTipo29.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtTipo29.IconF7")));
+      this.txtTipo29.IconToolTipText = null;
+      this.txtTipo29.Lines = new string[0];
+      this.txtTipo29.Location = new System.Drawing.Point(261, 0);
+      this.txtTipo29.MaxLength = 30;
+      this.txtTipo29.Name = "txtTipo29";
+      this.txtTipo29.PasswordChar = '\0';
+      this.txtTipo29.Propriedade = null;
+      this.txtTipo29.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtTipo29.SelectedText = "";
+      this.txtTipo29.SelectionLength = 0;
+      this.txtTipo29.SelectionStart = 0;
+      this.txtTipo29.ShortcutsEnabled = true;
+      this.txtTipo29.ShowButtonF7 = true;
+      this.txtTipo29.Size = new System.Drawing.Size(152, 30);
+      this.txtTipo29.TabIndex = 1;
+      this.txtTipo29.UnderlinedStyle = false;
+      this.txtTipo29.UseSelectable = true;
+      this.txtTipo29.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtTipo29.Valor_Decimais = ((short)(0));
+      this.txtTipo29.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtTipo29.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtAlinh29
+      // 
+      this.txtAlinh29.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtAlinh29.BorderRadius = 15;
+      this.txtAlinh29.BorderSize = 2;
+      this.txtAlinh29.F7ToolTipText = "Exibir Senha";
+      this.txtAlinh29.F8ToolTipText = null;
+      this.txtAlinh29.F9ToolTipText = null;
+      this.txtAlinh29.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtAlinh29.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtAlinh29.IconF7")));
+      this.txtAlinh29.IconToolTipText = null;
+      this.txtAlinh29.Lines = new string[0];
+      this.txtAlinh29.Location = new System.Drawing.Point(501, -1);
+      this.txtAlinh29.MaxLength = 30;
+      this.txtAlinh29.Name = "txtAlinh29";
+      this.txtAlinh29.PasswordChar = '\0';
+      this.txtAlinh29.Propriedade = null;
+      this.txtAlinh29.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtAlinh29.SelectedText = "";
+      this.txtAlinh29.SelectionLength = 0;
+      this.txtAlinh29.SelectionStart = 0;
+      this.txtAlinh29.ShortcutsEnabled = false;
+      this.txtAlinh29.ShowButtonF7 = true;
+      this.txtAlinh29.Size = new System.Drawing.Size(150, 30);
+      this.txtAlinh29.TabIndex = 3;
+      this.txtAlinh29.UnderlinedStyle = false;
+      this.txtAlinh29.UseSelectable = true;
+      this.txtAlinh29.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtAlinh29.Valor_Decimais = ((short)(0));
+      this.txtAlinh29.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtAlinh29.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtNome29
+      // 
+      this.txtNome29.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtNome29.BorderRadius = 15;
+      this.txtNome29.BorderSize = 2;
+      this.txtNome29.F7ToolTipText = null;
+      this.txtNome29.F8ToolTipText = null;
+      this.txtNome29.F9ToolTipText = null;
+      this.txtNome29.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtNome29.IconF7 = null;
+      this.txtNome29.IconToolTipText = null;
+      this.txtNome29.Lines = new string[0];
+      this.txtNome29.Location = new System.Drawing.Point(3, 0);
+      this.txtNome29.MaxLength = 30;
+      this.txtNome29.Name = "txtNome29";
+      this.txtNome29.PasswordChar = '\0';
+      this.txtNome29.Propriedade = null;
+      this.txtNome29.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtNome29.SelectedText = "";
+      this.txtNome29.SelectionLength = 0;
+      this.txtNome29.SelectionStart = 0;
+      this.txtNome29.ShortcutsEnabled = true;
+      this.txtNome29.Size = new System.Drawing.Size(252, 30);
+      this.txtNome29.TabIndex = 0;
+      this.txtNome29.UnderlinedStyle = false;
+      this.txtNome29.UseSelectable = true;
+      this.txtNome29.Valor_Decimais = ((short)(0));
+      this.txtNome29.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtNome29.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+      // 
+      // txtCalc29
+      // 
+      this.txtCalc29.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(238)))), ((int)(((byte)(242)))));
+      this.txtCalc29.BorderRadius = 15;
+      this.txtCalc29.BorderSize = 2;
+      this.txtCalc29.F7ToolTipText = null;
+      this.txtCalc29.F8ToolTipText = null;
+      this.txtCalc29.F9ToolTipText = null;
+      this.txtCalc29.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+      this.txtCalc29.IconF7 = ((System.Drawing.Image)(resources.GetObject("txtCalc29.IconF7")));
+      this.txtCalc29.IconToolTipText = null;
+      this.txtCalc29.Lines = new string[0];
+      this.txtCalc29.Location = new System.Drawing.Point(657, -1);
+      this.txtCalc29.MaxLength = 30;
+      this.txtCalc29.Name = "txtCalc29";
+      this.txtCalc29.PasswordChar = '\0';
+      this.txtCalc29.Propriedade = null;
+      this.txtCalc29.ScrollBars = System.Windows.Forms.ScrollBars.None;
+      this.txtCalc29.SelectedText = "";
+      this.txtCalc29.SelectionLength = 0;
+      this.txtCalc29.SelectionStart = 0;
+      this.txtCalc29.ShortcutsEnabled = true;
+      this.txtCalc29.ShowButtonF7 = true;
+      this.txtCalc29.Size = new System.Drawing.Size(99, 30);
+      this.txtCalc29.TabIndex = 4;
+      this.txtCalc29.UnderlinedStyle = false;
+      this.txtCalc29.UseSelectable = true;
+      this.txtCalc29.Valor = LmCorbieUI.Design.LmValueType.ComboBox_Enum;
+      this.txtCalc29.Valor_Decimais = ((short)(0));
+      this.txtCalc29.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(95)))), ((int)(((byte)(95)))), ((int)(((byte)(95)))));
+      this.txtCalc29.WaterMarkFont = new System.Drawing.Font("Segoe UI", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
       // 
       // FrmColunas
       // 
       this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
       this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-      this.ClientSize = new System.Drawing.Size(1088, 621);
+      this.ClientSize = new System.Drawing.Size(1088, 743);
       this.Controls.Add(this.lmLabel5);
       this.Controls.Add(this.lmLabel3);
       this.Controls.Add(this.lmLabel4);
@@ -4160,7 +7956,22 @@
       this.pnlCol12.ResumeLayout(false);
       this.pnlCol13.ResumeLayout(false);
       this.pnlCol14.ResumeLayout(false);
+      this.pnlCol30.ResumeLayout(false);
       this.pnlCol15.ResumeLayout(false);
+      this.pnlCol16.ResumeLayout(false);
+      this.pnlCol17.ResumeLayout(false);
+      this.pnlCol18.ResumeLayout(false);
+      this.pnlCol19.ResumeLayout(false);
+      this.pnlCol20.ResumeLayout(false);
+      this.pnlCol21.ResumeLayout(false);
+      this.pnlCol22.ResumeLayout(false);
+      this.pnlCol23.ResumeLayout(false);
+      this.pnlCol24.ResumeLayout(false);
+      this.pnlCol25.ResumeLayout(false);
+      this.pnlCol26.ResumeLayout(false);
+      this.pnlCol27.ResumeLayout(false);
+      this.pnlCol28.ResumeLayout(false);
+      this.pnlCol29.ResumeLayout(false);
       this.ResumeLayout(false);
       this.PerformLayout();
 
@@ -4292,13 +8103,13 @@
     private LmCorbieUI.Controls.LmTextBox txtAlinh14;
     private LmCorbieUI.Controls.LmTextBox txtNome14;
     private LmCorbieUI.Controls.LmTextBox txtCalc14;
-    private LmCorbieUI.Controls.LmPanel pnlCol15;
-    private LmCorbieUI.Controls.LmButton btnCanc15;
-    private LmCorbieUI.Controls.LmTextBox txtLarg15;
-    private LmCorbieUI.Controls.LmTextBox txtTipo15;
-    private LmCorbieUI.Controls.LmTextBox txtAlinh15;
-    private LmCorbieUI.Controls.LmTextBox txtNome15;
-    private LmCorbieUI.Controls.LmTextBox txtCalc15;
+    private LmCorbieUI.Controls.LmPanel pnlCol30;
+    private LmCorbieUI.Controls.LmButton btnCanc30;
+    private LmCorbieUI.Controls.LmTextBox txtLarg30;
+    private LmCorbieUI.Controls.LmTextBox txtTipo30;
+    private LmCorbieUI.Controls.LmTextBox txtAlinh30;
+    private LmCorbieUI.Controls.LmTextBox txtNome30;
+    private LmCorbieUI.Controls.LmTextBox txtCalc30;
     private LmCorbieUI.Controls.LmTextBox txtGerarGraf;
     private LmCorbieUI.Controls.LmTextBox txtGerarGraf1;
     private LmCorbieUI.Controls.LmTextBox txtGerarGraf2;
@@ -4314,7 +8125,142 @@
     private LmCorbieUI.Controls.LmTextBox txtGerarGraf12;
     private LmCorbieUI.Controls.LmTextBox txtGerarGraf13;
     private LmCorbieUI.Controls.LmTextBox txtGerarGraf14;
-    private LmCorbieUI.Controls.LmTextBox txtGerarGraf15;
+    private LmCorbieUI.Controls.LmTextBox txtGerarGraf30;
     private LmCorbieUI.Controls.LmLabel lmLabel5;
+    private LmCorbieUI.Controls.LmPanel pnlCol15;
+    private LmCorbieUI.Controls.LmTextBox txtGerarGraf15;
+    private LmCorbieUI.Controls.LmButton btnCanc15;
+    private LmCorbieUI.Controls.LmButton btnAdd15;
+    private LmCorbieUI.Controls.LmTextBox txtLarg15;
+    private LmCorbieUI.Controls.LmTextBox txtTipo15;
+    private LmCorbieUI.Controls.LmTextBox txtAlinh15;
+    private LmCorbieUI.Controls.LmTextBox txtNome15;
+    private LmCorbieUI.Controls.LmTextBox txtCalc15;
+    private LmCorbieUI.Controls.LmPanel pnlCol16;
+    private LmCorbieUI.Controls.LmTextBox txtGerarGraf16;
+    private LmCorbieUI.Controls.LmButton btnCanc16;
+    private LmCorbieUI.Controls.LmButton btnAdd16;
+    private LmCorbieUI.Controls.LmTextBox txtLarg16;
+    private LmCorbieUI.Controls.LmTextBox txtTipo16;
+    private LmCorbieUI.Controls.LmTextBox txtAlinh16;
+    private LmCorbieUI.Controls.LmTextBox txtNome16;
+    private LmCorbieUI.Controls.LmTextBox txtCalc16;
+    private LmCorbieUI.Controls.LmPanel pnlCol17;
+    private LmCorbieUI.Controls.LmTextBox txtGerarGraf17;
+    private LmCorbieUI.Controls.LmButton btnCanc17;
+    private LmCorbieUI.Controls.LmButton btnAdd17;
+    private LmCorbieUI.Controls.LmTextBox txtLarg17;
+    private LmCorbieUI.Controls.LmTextBox txtTipo17;
+    private LmCorbieUI.Controls.LmTextBox txtAlinh17;
+    private LmCorbieUI.Controls.LmTextBox txtNome17;
+    private LmCorbieUI.Controls.LmTextBox txtCalc17;
+    private LmCorbieUI.Controls.LmPanel pnlCol18;
+    private LmCorbieUI.Controls.LmTextBox txtGerarGraf18;
+    private LmCorbieUI.Controls.LmButton btnCanc18;
+    private LmCorbieUI.Controls.LmButton btnAdd18;
+    private LmCorbieUI.Controls.LmTextBox txtLarg18;
+    private LmCorbieUI.Controls.LmTextBox txtTipo18;
+    private LmCorbieUI.Controls.LmTextBox txtAlinh18;
+    private LmCorbieUI.Controls.LmTextBox txtNome18;
+    private LmCorbieUI.Controls.LmTextBox txtCalc18;
+    private LmCorbieUI.Controls.LmPanel pnlCol19;
+    private LmCorbieUI.Controls.LmTextBox txtGerarGraf19;
+    private LmCorbieUI.Controls.LmButton btnCanc19;
+    private LmCorbieUI.Controls.LmButton btnAdd19;
+    private LmCorbieUI.Controls.LmTextBox txtLarg19;
+    private LmCorbieUI.Controls.LmTextBox txtTipo19;
+    private LmCorbieUI.Controls.LmTextBox txtAlinh19;
+    private LmCorbieUI.Controls.LmTextBox txtNome19;
+    private LmCorbieUI.Controls.LmTextBox txtCalc19;
+    private LmCorbieUI.Controls.LmPanel pnlCol20;
+    private LmCorbieUI.Controls.LmTextBox txtGerarGraf20;
+    private LmCorbieUI.Controls.LmButton btnCanc20;
+    private LmCorbieUI.Controls.LmButton btnAdd20;
+    private LmCorbieUI.Controls.LmTextBox txtLarg20;
+    private LmCorbieUI.Controls.LmTextBox txtTipo20;
+    private LmCorbieUI.Controls.LmTextBox txtAlinh20;
+    private LmCorbieUI.Controls.LmTextBox txtNome20;
+    private LmCorbieUI.Controls.LmTextBox txtCalc20;
+    private LmCorbieUI.Controls.LmPanel pnlCol21;
+    private LmCorbieUI.Controls.LmTextBox txtGerarGraf21;
+    private LmCorbieUI.Controls.LmButton btnCanc21;
+    private LmCorbieUI.Controls.LmButton btnAdd21;
+    private LmCorbieUI.Controls.LmTextBox txtLarg21;
+    private LmCorbieUI.Controls.LmTextBox txtTipo21;
+    private LmCorbieUI.Controls.LmTextBox txtAlinh21;
+    private LmCorbieUI.Controls.LmTextBox txtNome21;
+    private LmCorbieUI.Controls.LmTextBox txtCalc21;
+    private LmCorbieUI.Controls.LmPanel pnlCol22;
+    private LmCorbieUI.Controls.LmTextBox txtGerarGraf22;
+    private LmCorbieUI.Controls.LmButton btnCanc22;
+    private LmCorbieUI.Controls.LmButton btnAdd22;
+    private LmCorbieUI.Controls.LmTextBox txtLarg22;
+    private LmCorbieUI.Controls.LmTextBox txtTipo22;
+    private LmCorbieUI.Controls.LmTextBox txtAlinh22;
+    private LmCorbieUI.Controls.LmTextBox txtNome22;
+    private LmCorbieUI.Controls.LmTextBox txtCalc22;
+    private LmCorbieUI.Controls.LmPanel pnlCol23;
+    private LmCorbieUI.Controls.LmTextBox txtGerarGraf23;
+    private LmCorbieUI.Controls.LmButton btnCanc23;
+    private LmCorbieUI.Controls.LmButton btnAdd23;
+    private LmCorbieUI.Controls.LmTextBox txtLarg23;
+    private LmCorbieUI.Controls.LmTextBox txtTipo23;
+    private LmCorbieUI.Controls.LmTextBox txtAlinh23;
+    private LmCorbieUI.Controls.LmTextBox txtNome23;
+    private LmCorbieUI.Controls.LmTextBox txtCalc23;
+    private LmCorbieUI.Controls.LmPanel pnlCol24;
+    private LmCorbieUI.Controls.LmTextBox txtGerarGraf24;
+    private LmCorbieUI.Controls.LmButton btnCanc24;
+    private LmCorbieUI.Controls.LmButton btnAdd24;
+    private LmCorbieUI.Controls.LmTextBox txtLarg24;
+    private LmCorbieUI.Controls.LmTextBox txtTipo24;
+    private LmCorbieUI.Controls.LmTextBox txtAlinh24;
+    private LmCorbieUI.Controls.LmTextBox txtNome24;
+    private LmCorbieUI.Controls.LmTextBox txtCalc24;
+    private LmCorbieUI.Controls.LmPanel pnlCol25;
+    private LmCorbieUI.Controls.LmTextBox txtGerarGraf25;
+    private LmCorbieUI.Controls.LmButton btnCanc25;
+    private LmCorbieUI.Controls.LmButton btnAdd25;
+    private LmCorbieUI.Controls.LmTextBox txtLarg25;
+    private LmCorbieUI.Controls.LmTextBox txtTipo25;
+    private LmCorbieUI.Controls.LmTextBox txtAlinh25;
+    private LmCorbieUI.Controls.LmTextBox txtNome25;
+    private LmCorbieUI.Controls.LmTextBox txtCalc25;
+    private LmCorbieUI.Controls.LmPanel pnlCol26;
+    private LmCorbieUI.Controls.LmTextBox txtGerarGraf26;
+    private LmCorbieUI.Controls.LmButton btnCanc26;
+    private LmCorbieUI.Controls.LmButton btnAdd26;
+    private LmCorbieUI.Controls.LmTextBox txtLarg26;
+    private LmCorbieUI.Controls.LmTextBox txtTipo26;
+    private LmCorbieUI.Controls.LmTextBox txtAlinh26;
+    private LmCorbieUI.Controls.LmTextBox txtNome26;
+    private LmCorbieUI.Controls.LmTextBox txtCalc26;
+    private LmCorbieUI.Controls.LmPanel pnlCol27;
+    private LmCorbieUI.Controls.LmTextBox txtGerarGraf27;
+    private LmCorbieUI.Controls.LmButton btnCanc27;
+    private LmCorbieUI.Controls.LmButton btnAdd27;
+    private LmCorbieUI.Controls.LmTextBox txtLarg27;
+    private LmCorbieUI.Controls.LmTextBox txtTipo27;
+    private LmCorbieUI.Controls.LmTextBox txtAlinh27;
+    private LmCorbieUI.Controls.LmTextBox txtNome27;
+    private LmCorbieUI.Controls.LmTextBox txtCalc27;
+    private LmCorbieUI.Controls.LmPanel pnlCol28;
+    private LmCorbieUI.Controls.LmTextBox txtGerarGraf28;
+    private LmCorbieUI.Controls.LmButton btnCanc28;
+    private LmCorbieUI.Controls.LmButton btnAdd28;
+    private LmCorbieUI.Controls.LmTextBox txtLarg28;
+    private LmCorbieUI.Controls.LmTextBox txtTipo28;
+    private LmCorbieUI.Controls.LmTextBox txtAlinh28;
+    private LmCorbieUI.Controls.LmTextBox txtNome28;
+    private LmCorbieUI.Controls.LmTextBox txtCalc28;
+    private LmCorbieUI.Controls.LmPanel pnlCol29;
+    private LmCorbieUI.Controls.LmTextBox txtGerarGraf29;
+    private LmCorbieUI.Controls.LmButton btnCanc29;
+    private LmCorbieUI.Controls.LmButton btnAdd29;
+    private LmCorbieUI.Controls.LmTextBox txtLarg29;
+    private LmCorbieUI.Controls.LmTextBox txtTipo29;
+    private LmCorbieUI.Controls.LmTextBox txtAlinh29;
+    private LmCorbieUI.Controls.LmTextBox txtNome29;
+    private LmCorbieUI.Controls.LmTextBox txtCalc29;
   }
 }

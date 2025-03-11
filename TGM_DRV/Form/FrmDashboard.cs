@@ -105,7 +105,6 @@ namespace TGM_DRV {
           _lancamentos = await Task.Run(() =>
           Registro.Selecionar(ini, fim));
 
-
           if (IsClosing) return;
 
           CarregarDgv();

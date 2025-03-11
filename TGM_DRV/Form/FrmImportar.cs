@@ -9,7 +9,6 @@ using System.Globalization;
 using System.IO;
 using System.Linq;
 using System.Windows.Forms;
-using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
 
 namespace TGM_DRV {
   public partial class FrmImportar : LmSingleForm {
@@ -256,6 +255,39 @@ namespace TGM_DRV {
                     break;
                     case "Coluna19":
                     registro.Coluna19 = valor;
+                    break;
+                    case "Coluna20":
+                    registro.Coluna20 = valor;
+                    break;
+                    case "Coluna21":
+                    registro.Coluna21 = valor;
+                    break;
+                    case "Coluna22":
+                    registro.Coluna22 = valor;
+                    break;
+                    case "Coluna23":
+                    registro.Coluna23 = valor;
+                    break;
+                    case "Coluna24":
+                    registro.Coluna24 = valor;
+                    break;
+                    case "Coluna25":
+                    registro.Coluna25 = valor;
+                    break;
+                    case "Coluna26":
+                    registro.Coluna26 = valor;
+                    break;
+                    case "Coluna27":
+                    registro.Coluna27 = valor;
+                    break;
+                    case "Coluna28":
+                    registro.Coluna28 = valor;
+                    break;
+                    case "Coluna29":
+                    registro.Coluna29 = valor;
+                    break;
+                    case "Coluna30":
+                    registro.Coluna30 = valor;
                     break;
                     default:
                     break;

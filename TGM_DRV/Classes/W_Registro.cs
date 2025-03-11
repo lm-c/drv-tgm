@@ -35,6 +35,17 @@ namespace TGM_DRV {
     public string Coluna17 { get; set; }
     public string Coluna18 { get; set; }
     public string Coluna19 { get; set; }
+    public string Coluna20 { get; set; }
+    public string Coluna21 { get; set; }
+    public string Coluna22 { get; set; }
+    public string Coluna23 { get; set; }
+    public string Coluna24 { get; set; }
+    public string Coluna25 { get; set; }
+    public string Coluna26 { get; set; }
+    public string Coluna27 { get; set; }
+    public string Coluna28 { get; set; }
+    public string Coluna29 { get; set; }
+    public string Coluna30 { get; set; } 
   }
 
 }

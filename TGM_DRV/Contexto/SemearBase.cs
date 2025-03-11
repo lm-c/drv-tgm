@@ -5,6 +5,7 @@ using System.ComponentModel.DataAnnotations;
 using System.IO;
 using System.Linq;
 using System.Reflection;
+using System.Data.SQLite;
 
 namespace TGM_DRV {
   internal class SemearBase {
@@ -44,7 +45,7 @@ namespace TGM_DRV {
           cmd.Connection.Open();
 
           using (var db = new SQLiteContexto()) {
-            foreach (var tab in db.GetType().GetProperties().ToList())
+            foreach (var tab in db.GetType().GetProperties().ToList()) {
               if (
                   tab.Name.ToLower() != "database" &&
                   tab.Name.ToLower() != "changetracker" &&
@@ -59,8 +60,35 @@ namespace TGM_DRV {
                 cmd.CommandText = GetQuery(((IQueryable)conteudoTabela).ElementType);
                 cmd.ExecuteNonQuery();
               }
+            }
           }
           cmd.Connection.Close();
+        }
+
+        // adicionar colunas até a 30 caso não exista
+        try {
+          using (var cmd = ConexaoSQLite.GetConexao().CreateCommand()) {
+            cmd.Connection.Open();
+
+            using (var command = cmd.Connection.CreateCommand()) {
+              command.CommandText = @"
+                    ALTER TABLE Registro ADD COLUMN Coluna21 VARCHAR(250) NULL;
+                    ALTER TABLE Registro ADD COLUMN Coluna22 VARCHAR(250) NULL;
+                    ALTER TABLE Registro ADD COLUMN Coluna23 VARCHAR(250) NULL;
+                    ALTER TABLE Registro ADD COLUMN Coluna24 VARCHAR(250) NULL;
+                    ALTER TABLE Registro ADD COLUMN Coluna25 VARCHAR(250) NULL;
+                    ALTER TABLE Registro ADD COLUMN Coluna26 VARCHAR(250) NULL;
+                    ALTER TABLE Registro ADD COLUMN Coluna27 VARCHAR(250) NULL;
+                    ALTER TABLE Registro ADD COLUMN Coluna28 VARCHAR(250) NULL;
+                    ALTER TABLE Registro ADD COLUMN Coluna29 VARCHAR(250) NULL;
+                    ALTER TABLE Registro ADD COLUMN Coluna30 VARCHAR(250) NULL;
+                ";
+
+              command.ExecuteNonQuery();
+            }
+          }
+        } catch (Exception) {
+           
         }
       } catch (Exception ex) {
         LmException.ShowException(ex, $"Erro ao Criar Tabela [{nomeTabela}] Banco de dados");

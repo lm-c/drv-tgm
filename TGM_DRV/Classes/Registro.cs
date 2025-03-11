@@ -77,6 +77,36 @@ namespace TGM_DRV {
 
     [StringLength(250)]
     public string Coluna20 { get; set; }
+    
+    [StringLength(250)]
+    public string Coluna21 { get; set; }
+    
+    [StringLength(250)]
+    public string Coluna22 { get; set; }
+    
+    [StringLength(250)]
+    public string Coluna23 { get; set; }
+    
+    [StringLength(250)]
+    public string Coluna24 { get; set; }
+    
+    [StringLength(250)]
+    public string Coluna25 { get; set; }
+    
+    [StringLength(250)]
+    public string Coluna26 { get; set; }
+    
+    [StringLength(250)]
+    public string Coluna27 { get; set; }
+    
+    [StringLength(250)]
+    public string Coluna28 { get; set; }
+    
+    [StringLength(250)]
+    public string Coluna29 { get; set; }
+    
+    [StringLength(250)]
+    public string Coluna30 { get; set; }
 
     public static SortableBindingList<W_Registro> Selecionar(DateTime dataIni, DateTime dataFim) {
       List<W_Registro> _return = new List<W_Registro>();
@@ -110,6 +140,17 @@ namespace TGM_DRV {
              x.Coluna17,
              x.Coluna18,
              x.Coluna19,
+             x.Coluna20,
+             x.Coluna21,
+             x.Coluna22,
+             x.Coluna23,
+             x.Coluna24,
+             x.Coluna25,
+             x.Coluna26,
+             x.Coluna27,
+             x.Coluna28,
+             x.Coluna29,
+             x.Coluna30,
            });
 
           foreach (var item in query) {
@@ -135,6 +176,17 @@ namespace TGM_DRV {
               Coluna17 = item.Coluna17 != "0" ? item.Coluna17 : "",
               Coluna18 = item.Coluna18 != "0" ? item.Coluna18 : "",
               Coluna19 = item.Coluna19 != "0" ? item.Coluna19 : "",
+              Coluna20 = item.Coluna20 != "0" ? item.Coluna20 : "",
+              Coluna21 = item.Coluna21 != "0" ? item.Coluna21 : "",
+              Coluna22 = item.Coluna22 != "0" ? item.Coluna22 : "",
+              Coluna23 = item.Coluna23 != "0" ? item.Coluna23 : "",
+              Coluna24 = item.Coluna24 != "0" ? item.Coluna24 : "",
+              Coluna25 = item.Coluna25 != "0" ? item.Coluna25 : "",
+              Coluna26 = item.Coluna26 != "0" ? item.Coluna26 : "",
+              Coluna27 = item.Coluna27 != "0" ? item.Coluna27 : "",
+              Coluna28 = item.Coluna28 != "0" ? item.Coluna28 : "",
+              Coluna29 = item.Coluna29 != "0" ? item.Coluna29 : "",
+              Coluna30 = item.Coluna30 != "0" ? item.Coluna30 : "",
             };
 
             _return.Add(w_Registro);
