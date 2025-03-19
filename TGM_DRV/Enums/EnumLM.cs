@@ -18,6 +18,6 @@ namespace TGM_DRV {
 
   public enum TipoGrid {
     Default = 0,
-    Registro = 1,
+    Dashboard = 1,
   }
 }

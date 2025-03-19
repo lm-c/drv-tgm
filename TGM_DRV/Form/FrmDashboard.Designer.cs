@@ -33,8 +33,8 @@
       this.btnLimpar = new LmCorbieUI.Controls.LmButton();
       this.gpbFiltro = new LmCorbieUI.Controls.LmGroupBox();
       this.gpbTabela = new LmCorbieUI.Controls.LmGroupBox();
-      this.dgv = new LmCorbieUI.Controls.LmDataGridView();
       this.btnDetalhar = new LmCorbieUI.Controls.LmButton();
+      this.dgv = new LmCorbieUI.Controls.LmDataGridView();
       this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
       this.gpbGrafico = new LmCorbieUI.Controls.LmGroupBox();
       this.tableLayoutPanel2 = new System.Windows.Forms.TableLayoutPanel();
@@ -205,6 +205,25 @@
       this.gpbTabela.TabStop = false;
       this.gpbTabela.Text = "Tabela";
       // 
+      // btnDetalhar
+      // 
+      this.btnDetalhar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+      this.btnDetalhar.BorderColor = System.Drawing.Color.PaleVioletRed;
+      this.btnDetalhar.BorderRadius = 13;
+      this.btnDetalhar.BorderSize = 0;
+      this.btnDetalhar.Enabled = false;
+      this.btnDetalhar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+      this.btnDetalhar.Image = ((System.Drawing.Image)(resources.GetObject("btnDetalhar.Image")));
+      this.btnDetalhar.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
+      this.btnDetalhar.Location = new System.Drawing.Point(350, 171);
+      this.btnDetalhar.Name = "btnDetalhar";
+      this.btnDetalhar.Size = new System.Drawing.Size(120, 26);
+      this.btnDetalhar.TabIndex = 5;
+      this.btnDetalhar.Text = "  Detalhar";
+      this.btnDetalhar.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+      this.btnDetalhar.UseVisualStyleBackColor = false;
+      this.btnDetalhar.Click += new System.EventHandler(this.BtnDetalhar_Click);
+      // 
       // dgv
       // 
       this.dgv.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(187)))), ((int)(((byte)(215)))), ((int)(((byte)(242)))));
@@ -243,25 +262,7 @@
       this.dgv.ProcurarTextChanged += new LmCorbieUI.Controls.LmDataGridView.TxtChange(this.Dgv_ProcurarTextChanged);
       this.dgv.CellDoubleClick += new LmCorbieUI.Controls.LmDataGridView.CellEvent(this.Dgv_CellDoubleClick);
       this.dgv.RowIndexChanged += new LmCorbieUI.Controls.LmDataGridView.RowEvent(this.Dgv_RowIndexChanged);
-      // 
-      // btnDetalhar
-      // 
-      this.btnDetalhar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
-      this.btnDetalhar.BorderColor = System.Drawing.Color.PaleVioletRed;
-      this.btnDetalhar.BorderRadius = 15;
-      this.btnDetalhar.BorderSize = 0;
-      this.btnDetalhar.Enabled = false;
-      this.btnDetalhar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-      this.btnDetalhar.Image = ((System.Drawing.Image)(resources.GetObject("btnDetalhar.Image")));
-      this.btnDetalhar.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
-      this.btnDetalhar.Location = new System.Drawing.Point(350, 171);
-      this.btnDetalhar.Name = "btnDetalhar";
-      this.btnDetalhar.Size = new System.Drawing.Size(120, 26);
-      this.btnDetalhar.TabIndex = 5;
-      this.btnDetalhar.Text = "  Detalhar";
-      this.btnDetalhar.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-      this.btnDetalhar.UseVisualStyleBackColor = false;
-      this.btnDetalhar.Click += new System.EventHandler(this.BtnDetalhar_Click);
+      this.dgv.SalvarConfiguracao += new LmCorbieUI.Controls.LmDataGridView.GridEvent(this.Dgv_SalvarConfiguracao);
       // 
       // tableLayoutPanel1
       // 

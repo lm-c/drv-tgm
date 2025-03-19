@@ -1,15 +1,17 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Data.SqlClient;
+using System.ComponentModel.DataAnnotations.Schema;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace TGM_DRV {
   internal class GridStyle {
     #region Propriedades
 
-    public int UsuarioID { get; set; } = 0;
+    [Key]
+    [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+    [DataObjectField(true, false)]
+    public int ID { get; set; } = 1;
     public TipoGrid TipoGrid { get; set; } = TipoGrid.Default;
     public string PosicaoColuna { get; set; } = "";
     public string OrdemColuna { get; set; } = "";
@@ -21,100 +23,54 @@ namespace TGM_DRV {
 
     #region Metodos
 
-    //public static GridStyle Get(TipoGrid tipoGrid) {
-    //  GridStyle _return = new GridStyle {
-    //    TipoGrid = tipoGrid,
-    //    UsuarioID = InfoDefault.UsuarioLogado_ID
-    //  };
+    public static GridStyle Get(TipoGrid tipoGrid) {
+      GridStyle _return = new GridStyle {
+        TipoGrid = tipoGrid,
+      };
 
-    //  var conn = ConexaoMySql_Config.GetConexao();
+      try {
+        using (SQLiteContexto db = new SQLiteContexto()) {
+          var gridStyle = db.GridStyle.Where(x => x.TipoGrid == tipoGrid).FirstOrDefault();
 
-    //  try {
-    //    conn.Open();
+          if (gridStyle != null) {
+            _return.PosicaoColuna = gridStyle.PosicaoColuna;
+            _return.OrdemColuna = gridStyle.OrdemColuna;
+            _return.ColunaOculta = gridStyle.ColunaOculta;
+            _return.ColunaOcultaImpressao = gridStyle.ColunaOcultaImpressao;
+            _return.ColunaFixa = gridStyle.ColunaFixa;
+          }
+        }
 
-    //    using (MySqlCommand cmd = new MySqlCommand()) {
-    //      cmd.Connection = conn;
-    //      cmd.CommandText = "SELECT * FROM Grid WHERE UsuarioID=@UsuarioID && TipoGrid=@TipoGrid";
+      } catch (Exception ex) {
+        //throw ex;
+      }
 
-    //      cmd.Parameters.AddWithValue("@UsuarioID", InfoDefault.UsuarioLogado_ID);
-    //      cmd.Parameters.AddWithValue("@TipoGrid", (int)tipoGrid);
+      return _return;
+    }
 
-    //      using (MySqlDataReader dr = cmd.ExecuteReader()) {
-    //        if (dr.HasRows) {
-    //          dr.Read();
-    //          _return.PosicaoColuna = !dr.IsDBNull(dr.GetOrdinal("PosicaoColuna")) ? dr.GetString(dr.GetOrdinal("PosicaoColuna")) : "";
-    //          _return.OrdemColuna = !dr.IsDBNull(dr.GetOrdinal("OrdemColuna")) ? dr.GetString(dr.GetOrdinal("OrdemColuna")) : "";
-    //          _return.ColunaOculta = !dr.IsDBNull(dr.GetOrdinal("ColunaOculta")) ? dr.GetString(dr.GetOrdinal("ColunaOculta")) : "";
-    //          _return.ColunaOcultaImpressao = !dr.IsDBNull(dr.GetOrdinal("ColunaOcultaImpressao")) ? dr.GetString(dr.GetOrdinal("ColunaOcultaImpressao")) : "";
-    //          _return.ColunaFixa = !dr.IsDBNull(dr.GetOrdinal("ColunaFixa")) ? dr.GetString(dr.GetOrdinal("ColunaFixa")) : "";
-    //        }
-    //      }
-    //    }
+    public static void SetOrUpdate(GridStyle model) {
+      try {
+        using (SQLiteContexto db = new SQLiteContexto()) {
 
-    //    conn.Close();
-    //  } catch (Exception ex) {
-    //    //throw ex;
-    //  }
+          var gridStyle = db.GridStyle.Where(x => x.TipoGrid == model.TipoGrid).FirstOrDefault();
 
-    //  return _return;
-    //}
+          if (gridStyle == null) {
+            db.GridStyle.Add(model);
+          } else {
+            gridStyle.PosicaoColuna = model.PosicaoColuna;
+            gridStyle.OrdemColuna = model.OrdemColuna;
+            gridStyle.ColunaOculta = model.ColunaOculta;
+            gridStyle.ColunaOcultaImpressao = model.ColunaOcultaImpressao;
+            gridStyle.ColunaFixa = model.ColunaFixa;
+          }
 
-    //public static void SetOrUpdate(GridStyle model) {
-    //  var conn = ConexaoMySql_Config.GetConexao();
+          db.SaveChanges();
+        }
+      } catch (Exception ex) {
+        //throw ex;
+      }
 
-    //  try {
-    //    conn.Open();
-
-    //    using (MySqlCommand cmd = new MySqlCommand()) {
-    //      cmd.Connection = conn;
-    //      cmd.CommandText = "SELECT COUNT(*) FROM Grid WHERE UsuarioID=@UsuarioID && TipoGrid=@TipoGrid";
-    //      cmd.Parameters.AddWithValue("@UsuarioID", InfoDefault.UsuarioLogado_ID);
-    //      cmd.Parameters.AddWithValue("@TipoGrid", (int)model.TipoGrid);
-
-    //      var cont = Convert.ToInt32(cmd.ExecuteScalar());
-
-    //      if (cont == 0) {
-    //        cmd.Connection = conn;
-    //        cmd.CommandText =
-    //            "INSERT INTO Grid " +
-    //            "(UsuarioID,TipoGrid,PosicaoColuna,OrdemColuna,ColunaOculta,ColunaOcultaImpressao,ColunaFixa) " +
-    //            "VALUES " +
-    //            "(@UsuarioID,@TipoGrid,@PosicaoColuna,@OrdemColuna,@ColunaOculta,@ColunaOcultaImpressao,@ColunaFixa)";
-
-    //        cmd.Parameters.AddWithValue("@PosicaoColuna", model.PosicaoColuna);
-    //        cmd.Parameters.AddWithValue("@OrdemColuna", model.OrdemColuna);
-    //        cmd.Parameters.AddWithValue("@ColunaOculta", model.ColunaOculta);
-    //        cmd.Parameters.AddWithValue("@ColunaOcultaImpressao", model.ColunaOcultaImpressao);
-    //        cmd.Parameters.AddWithValue("@ColunaFixa", model.ColunaFixa);
-
-    //        var x = cmd.ExecuteNonQuery();
-    //      } else {
-    //        cmd.Connection = conn;
-    //        cmd.CommandText =
-    //            "UPDATE Grid " +
-    //            "SET " +
-    //            "UsuarioID=@UsuarioID,TipoGrid=@TipoGrid,PosicaoColuna=@PosicaoColuna,OrdemColuna=@OrdemColuna," +
-    //            "ColunaOculta=@ColunaOculta,ColunaOcultaImpressao=@ColunaOcultaImpressao,ColunaFixa=@ColunaFixa " +
-    //            "WHERE UsuarioID=@UsuarioID && TipoGrid=@TipoGrid";
-
-    //        cmd.Parameters.AddWithValue("@PosicaoColuna", model.PosicaoColuna);
-    //        cmd.Parameters.AddWithValue("@OrdemColuna", model.OrdemColuna);
-    //        cmd.Parameters.AddWithValue("@ColunaOculta", model.ColunaOculta);
-    //        cmd.Parameters.AddWithValue("@ColunaOcultaImpressao", model.ColunaOcultaImpressao);
-    //        cmd.Parameters.AddWithValue("@ColunaFixa", model.ColunaFixa);
-
-    //        var x = cmd.ExecuteNonQuery();
-    //      }
-
-
-    //    }
-
-    //    conn.Close();
-    //  } catch (Exception ex) {
-    //    //throw ex;
-    //  }
-
-    //}
+    }
 
     #endregion
   }

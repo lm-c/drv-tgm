@@ -13,6 +13,7 @@ namespace TGM_DRV {
     public DbSet<RegistroLido> RegistroLido { get; set; }
     public DbSet<ValorPredefinido> ValorPredefinido { get; set; }
     public DbSet<ColumnInfo> ColumnInfo { get; set; }
+    public DbSet<GridStyle> GridStyle { get; set; }
 
     protected override void OnModelCreating(DbModelBuilder modelBuilder) {
       modelBuilder.Conventions

@@ -21,7 +21,7 @@ namespace TGM_DRV {
 
     SortableBindingList<W_Registro> _lancamentos = new SortableBindingList<W_Registro>();
 
-    GridStyle gridStyle = new GridStyle();
+    GridStyle gridStyle = GridStyle.Get(TipoGrid.Dashboard);
 
     public FrmDashboard() {
       InitializeComponent();
@@ -37,6 +37,8 @@ namespace TGM_DRV {
 
       this.pnlGraf1.Controls.Add(columnChart);
       this.pnlGraf2.Controls.Add(pieChart);
+
+      CarregarDgv();
 
       DefinirFiltroPadrao();
     }
@@ -257,6 +259,19 @@ namespace TGM_DRV {
     private void Dgv_CellDoubleClick(object sender, DataGridViewCellEventArgs e) {
       if (btnDetalhar.Enabled)
         BtnDetalhar_Click(sender, e);
+    }
+
+    private void Dgv_SalvarConfiguracao(object sender, EventArgs e) {
+      try {
+        gridStyle.PosicaoColuna = dgv.PosColunasGrid;
+        gridStyle.OrdemColuna = dgv.ColunaOrdenacaoGrid;
+        gridStyle.ColunaOculta = dgv.ColunasOcultasGrid;
+        gridStyle.ColunaOcultaImpressao = dgv.ColunasOcultasImpressGrid;
+
+        GridStyle.SetOrUpdate(gridStyle);
+      } catch (Exception ex) {
+        LmException.ShowException(ex, "Erro ao Salvar Configuração das Colunas do Grid");
+      }
     }
   }
 }
