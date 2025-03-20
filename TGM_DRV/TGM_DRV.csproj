@@ -115,6 +115,7 @@
   <ItemGroup>
     <Compile Include="Classes\ColumnInfo.cs" />
     <Compile Include="Classes\DataUltimoArquivoLido.cs" />
+    <Compile Include="Classes\Empresa.cs" />
     <Compile Include="Classes\Extensao.cs" />
     <Compile Include="Classes\FTP.cs" />
     <Compile Include="Classes\GridStyle.cs" />
@@ -151,6 +152,12 @@
     <Compile Include="Form\FrmDashboard.Designer.cs">
       <DependentUpon>FrmDashboard.cs</DependentUpon>
     </Compile>
+    <Compile Include="Form\FrmEmpresa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FrmEmpresa.Designer.cs">
+      <DependentUpon>FrmEmpresa.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form\FrmImportar.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -182,6 +189,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form\FrmDashboard.resx">
       <DependentUpon>FrmDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FrmEmpresa.resx">
+      <DependentUpon>FrmEmpresa.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form\FrmImportar.resx">
       <DependentUpon>FrmImportar.cs</DependentUpon>

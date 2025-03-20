@@ -18,7 +18,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyFileVersion(InfoAssembly.Version)]
 
 public class InfoAssembly {
-  public const string Version = "1.0.0.7";
+  public const string Version = "1.0.0.8";
 
   public const string TitleView = "TGM Data Report Viewer";
   public const string DescrView = "TGM Data Report Viewer";

@@ -13,7 +13,7 @@ namespace TGM_DRV {
 
     [LarguraColunaGrid(100)]
     [DisplayName("Data")]
-    [Formatacao("ddd - dd/MM/yyyy")]
+    //[Formatacao("ddd - dd/MM/yyyy")]
     [AlinhamentoColunaGrid(System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft)]
     public DateTime Data { get; set; }
     public string Coluna1 { get; set; }

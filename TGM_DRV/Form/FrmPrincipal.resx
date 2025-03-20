@@ -118,6 +118,16 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="menuDadosEmpresa.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAADmSURBVDhPzZQxDgFRFEUn0YhCEL1CYQMiZPZAQaW0ES12YCeWoSFR2YBSjXvkvQJvEuRH3OQk
+        798398qXyWSmkTiKi7h+CBmyQ3FXXZzFTizF4kPI7AUdNZENBL805vClJoKOPofcDly7LU7GQaC5cI8Z
+        sXOPDFk66Hoo7NgMPIxWwj1mxM49MoWFVTEzpgJ1hXvMiJ17ZAoLS6JpNASqCPeYETv3yBQWJr9y8sKy
+        naEnUEu4x4zYuUfmd4X//x8mf22Sv9jJrxx9HKLCtz8OkaLCZ4WFG7EO2AovZI6eIftSmIAsvwHc6MSk
+        SPQJzAAAAABJRU5ErkJggg==
+</value>
+  </data>
   <data name="menuImportFtp.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8

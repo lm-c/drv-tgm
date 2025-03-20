@@ -54,14 +54,20 @@ namespace TGM_DRV {
       tslModo.Text = string.Empty;
       tslFormAberto.Text = string.Empty;
 
-      string dadosEmpresa = "";
-      dadosEmpresa += $"\nCEP 89278-000 - Rua Progresso, 221";
-      dadosEmpresa += $"\nDistrito Industrial - Corupá - SC";
-      dadosEmpresa += $"\nFone (47) 3375-2177";
+      Empresa.Carregar();
 
-      InfoDefaultUI.UsuarioLogado_Login = "Cliente";
+      AtualizarDadosEmpresa();
+    }
+
+    internal static void AtualizarDadosEmpresa() {
+      string dadosEmpresa = "";
+      dadosEmpresa += $"\nCEP {Empresa.model.Cep} - {Empresa.model.Endereco}, {Empresa.model.EnderecoNumero}";
+      dadosEmpresa += $"\n{Empresa.model.Bairro} - {Empresa.model.Cidade} - {Empresa.model.Estado}";
+      dadosEmpresa += $"\nFone {Empresa.model.Fone}";
+
+      InfoDefaultUI.UsuarioLogado_Login = Empresa.model.RazaoSocial;
       InfoDefaultUI.DadosEmpresa = dadosEmpresa;
-      InfoDefaultUI.LogoEmpresa = Properties.Resources.LOGO_TGM_ICONE;
+      InfoDefaultUI.LogoEmpresa = Empresa.model.LogoEmpresa.ToImageFromBase64();
     }
 
     private void FrmPrincipal_Load(object sender, EventArgs e) {
@@ -139,7 +145,7 @@ namespace TGM_DRV {
 
       AttControls(FrmPrincipal.Instancia);
 
-      this.pnlMain.BackgroundImage = Properties.Resources.LOGO_TGM_FUNDO;
+      //this.pnlMain.BackgroundImage = Properties.Resources.LOGO_TGM_FUNDO;
 
       //AttControls(FrmPrincipal.Instancia);
     }
@@ -184,7 +190,7 @@ namespace TGM_DRV {
 
     private void SetarBackGroundImage() {
       Invoke(new MethodInvoker(delegate () {
-        this.pnlMain.BackgroundImage = Properties.Resources.LOGO_TGM_FUNDO;
+        //this.pnlMain.BackgroundImage = Properties.Resources.LOGO_TGM_FUNDO;
         var logo = Properties.Resources.LOGO_TGM_ICONE.ApplyColor(this.menuSandwich.ForeColor);
         this.ptbLogo.Image = logo;
         this.tslVersao.ForeColor = 
@@ -303,6 +309,8 @@ namespace TGM_DRV {
 
     private void MenuConfigColunas_Click(object sender, EventArgs e) => OpenFormChild(new FrmColunas());
 
+    private void MenuDadosEmpresa_Click(object sender, EventArgs e)  => OpenFormChild(new FrmEmpresa());
+
     private void MenuImportFtp_Click(object sender, EventArgs e) {
       FrmImportar frm = new FrmImportar();
       frm.ShowDialog();
@@ -320,7 +328,7 @@ namespace TGM_DRV {
       else
         ValorPredefinido.model.MostrarApenasIconeMenu = true;
 
-      this.pnlMain.BackgroundImage = null;
+      //this.pnlMain.BackgroundImage = null;
       PosicionarMenu();
 
       ValorPredefinido.Salvar();

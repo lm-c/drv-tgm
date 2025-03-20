@@ -45,6 +45,7 @@
       this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
       this.tmrMemory = new System.Windows.Forms.Timer(this.components);
       this.pnlMain = new LmCorbieUI.Controls.LmPanel();
+      this.menuDadosEmpresa = new LmCorbieUI.Controls.LmMenuItem();
       this.pnlMenu.SuspendLayout();
       this.pnlLogo.SuspendLayout();
       ((System.ComponentModel.ISupportInitialize)(this.ptbLogo)).BeginInit();
@@ -54,6 +55,7 @@
       // pnlMenu
       // 
       this.pnlMenu.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(54)))), ((int)(((byte)(71)))));
+      this.pnlMenu.Controls.Add(this.menuDadosEmpresa);
       this.pnlMenu.Controls.Add(this.menuImportFtp);
       this.pnlMenu.Controls.Add(this.menuConfigColunas);
       this.pnlMenu.Controls.Add(this.menuAparencia);
@@ -299,6 +301,24 @@
       this.pnlMain.Size = new System.Drawing.Size(703, 529);
       this.pnlMain.TabIndex = 5;
       // 
+      // menuDadosEmpresa
+      // 
+      this.menuDadosEmpresa.Dock = System.Windows.Forms.DockStyle.Top;
+      this.menuDadosEmpresa.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+      this.menuDadosEmpresa.Image = ((System.Drawing.Image)(resources.GetObject("menuDadosEmpresa.Image")));
+      this.menuDadosEmpresa.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+      this.menuDadosEmpresa.Location = new System.Drawing.Point(0, 172);
+      this.menuDadosEmpresa.Name = "menuDadosEmpresa";
+      this.menuDadosEmpresa.Size = new System.Drawing.Size(193, 30);
+      this.menuDadosEmpresa.TabIndex = 12;
+      this.menuDadosEmpresa.TabStop = false;
+      this.menuDadosEmpresa.Text = "   Dados Empresa";
+      this.menuDadosEmpresa.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+      this.menuDadosEmpresa.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+      this.menuDadosEmpresa.UseSelectable = true;
+      this.menuDadosEmpresa.UseVisualStyleBackColor = false;
+      this.menuDadosEmpresa.Click += new System.EventHandler(this.MenuDadosEmpresa_Click);
+      // 
       // FrmPrincipal
       // 
       this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -351,5 +371,6 @@
     private System.Windows.Forms.ToolStripStatusLabel tslConsumoMemoria;
     private System.Windows.Forms.Timer tmrMemory;
     private LmCorbieUI.Controls.LmMenuItem menuConfigColunas;
+    private LmCorbieUI.Controls.LmMenuItem menuDadosEmpresa;
   }
 }

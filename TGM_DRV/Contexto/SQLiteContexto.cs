@@ -8,6 +8,7 @@ namespace TGM_DRV {
     }
 
     public DbSet<DataUltimoArquivoLido> DataUltimoArquivoLido { get; set; }
+    public DbSet<Empresa> Empresa { get; set; }
     public DbSet<FTP> FTP { get; set; }
     public DbSet<Registro> Registro { get; set; }
     public DbSet<RegistroLido> RegistroLido { get; set; }
