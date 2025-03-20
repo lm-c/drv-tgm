@@ -481,7 +481,7 @@
       this.Controls.Add(this.txtFone);
       this.Controls.Add(this.txtCep);
       this.Name = "FrmEmpresa";
-      this.Text = "Configurar FTP";
+      this.Text = "Dados Empresa";
       this.Loaded += new LmCorbieUI.LmForms.LmChildForm.FormLoad(this.FrmEmpresa_Loaded);
       ((System.ComponentModel.ISupportInitialize)(this.ptbImagem)).EndInit();
       this.ResumeLayout(false);
